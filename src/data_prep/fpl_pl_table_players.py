@@ -171,6 +171,9 @@ def process_fpl_data(df, season_year):
     # Stack the original and the modified DataFrame on top of each other
     player_df = pd.concat([player_df, player_df_all_teams], ignore_index=True)
 
+    # Remove _ from names
+    player_df["name"] = player_df["name"].str.replace("_", " ")
+
     return summary_df, player_df
 
 

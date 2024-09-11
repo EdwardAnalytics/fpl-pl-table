@@ -1,1367 +1,1367 @@
 name,team,total_points,position,goals_scored,assists,clean_sheets,yellow_cards,red_cards,goals_conceded,own_goals,penalties_missed,penalties_saved,saves,bonus_points
-Alexis_Sánchez,Arsenal,264,MID,24,11,13,6,0,41,0,1,0,0,32
-Bamidele_Alli,Spurs,225,MID,18,11,17,4,0,22,0,0,0,0,17
-Harry_Kane,Spurs,224,FWD,29,7,14,3,0,19,0,1,0,0,33
-Eden_Hazard,Chelsea,224,MID,16,9,17,3,0,29,0,1,0,0,33
-Romelu_Lukaku,Everton,221,FWD,25,6,13,3,0,42,0,0,0,0,33
-Christian_Eriksen,Spurs,218,MID,8,20,16,0,0,24,0,0,0,0,30
-Kevin_De Bruyne,Man City,199,MID,6,21,11,4,0,34,0,1,0,0,33
-Diego_Da Silva Costa,Chelsea,196,FWD,20,11,14,10,0,30,0,1,0,0,25
-Gylfi_Sigurdsson,Swansea,181,MID,9,13,7,2,0,70,0,0,0,0,18
-Roberto_Firmino,Liverpool,180,MID,11,11,11,5,0,39,0,0,0,0,17
-Gary_Cahill,Chelsea,178,DEF,6,0,17,5,0,29,1,0,0,0,15
-Joshua_King,Bournemouth,178,MID,16,3,9,1,0,54,0,1,0,0,17
-Marcos_Alonso,Chelsea,177,DEF,6,5,15,2,0,19,0,0,0,0,11
-Sergio_Agüero,Man City,175,FWD,20,5,8,4,1,30,0,1,0,0,32
-Heung-Min_Son,Spurs,174,MID,14,9,10,2,0,18,0,0,0,0,13
-Philippe_Coutinho,Liverpool,171,MID,13,8,8,2,0,27,0,0,0,0,21
-César_Azpilicueta,Chelsea,170,DEF,1,5,16,4,0,33,0,0,0,0,22
-Mesut_Özil,Arsenal,167,MID,8,11,12,2,0,30,0,0,0,0,19
-Jermain_Defoe,Sunderland,166,FWD,15,3,6,1,0,63,0,0,0,0,24
-Zlatan_Ibrahimovic,Man Utd,163,FWD,17,7,11,7,0,22,0,1,0,0,28
-Pedro_Rodríguez Ledesma,Chelsea,162,MID,9,10,15,6,0,15,0,0,0,0,18
-Jamie_Vardy,Leicester,161,FWD,13,8,7,2,1,57,0,0,0,0,24
-Sadio_Mané,Liverpool,156,MID,13,7,8,4,0,26,0,0,0,0,14
-Raheem_Sterling,Man City,149,MID,7,14,9,7,0,27,0,0,0,0,11
-Wilfried_Zaha,Crystal Palace,149,MID,7,11,7,8,0,56,0,0,0,0,13
-Tom_Heaton,Burnley,149,GK,0,0,10,1,0,48,0,0,1,142,21
-Georginio_Wijnaldum,Liverpool,149,MID,6,9,11,2,0,37,0,0,0,0,14
-Fernando_Llorente,Swansea,146,FWD,15,3,5,2,0,51,0,0,0,0,22
-Ross_Barkley,Everton,144,MID,5,11,12,5,0,36,0,0,0,0,11
-Hugo_Lloris,Spurs,143,GK,0,0,15,0,0,24,0,0,0,78,6
-Kyle_Walker,Spurs,142,DEF,0,6,14,8,0,21,0,0,0,0,18
-Thibaut_Courtois,Chelsea,141,GK,0,0,16,1,0,28,0,0,0,69,0
-James_Milner,Liverpool,139,MID,7,4,12,5,0,35,0,1,0,0,16
-Adam_Lallana,Liverpool,139,MID,8,7,9,3,0,32,0,0,0,0,14
-David_de Gea,Man Utd,136,GK,0,0,14,2,0,29,0,0,0,74,5
-Christian_Benteke,Crystal Palace,136,FWD,15,2,7,10,0,58,0,2,0,0,13
-Leighton_Baines,Everton,135,DEF,2,5,11,4,0,34,0,1,0,0,15
-Petr_Cech,Arsenal,134,GK,0,0,12,2,0,37,1,0,0,115,2
-Fraser_Forster,Southampton,134,GK,0,0,14,3,0,48,0,0,1,76,4
-Charlie_Daniels,Bournemouth,134,DEF,4,3,10,1,0,53,0,0,0,0,14
-Seamus_Coleman,Everton,133,DEF,4,4,10,3,0,28,0,0,0,0,15
-Robert_Snodgrass,West Ham,133,MID,7,6,3,2,0,56,0,0,0,0,16
-Manuel_Lanzini,West Ham,133,MID,8,3,9,9,0,53,0,0,0,0,20
-Michail_Antonio,West Ham,132,MID,9,8,7,4,1,43,0,0,0,0,8
-David_Luiz Moreira Marinho,Chelsea,132,DEF,1,1,15,6,0,26,0,0,0,0,10
-Gareth_McAuley,West Brom,131,DEF,6,1,7,5,0,45,1,0,0,0,14
-Etienne_Capoue,Watford,131,MID,7,2,7,5,0,60,0,0,0,0,14
-David_Silva,Man City,130,MID,4,9,12,6,0,32,0,0,0,0,12
-Álvaro_Negredo,Middlesbrough,130,FWD,9,5,10,5,0,45,0,0,0,0,17
-Troy_Deeney,Watford,130,FWD,10,4,6,7,0,52,1,0,0,0,18
-Nathaniel_Clyne,Liverpool,129,DEF,0,2,12,0,0,41,0,0,0,0,13
-Ashley_Williams,Everton,127,DEF,1,3,13,7,1,40,0,0,0,0,9
-Nathan_Redmond,Southampton,126,MID,7,1,12,2,1,40,0,0,0,0,13
-Jan_Vertonghen,Spurs,126,DEF,0,0,15,5,0,21,0,0,0,0,8
-Ryan_Bertrand,Southampton,123,DEF,2,5,12,3,0,36,0,0,0,0,9
-Theo_Walcott,Arsenal,122,MID,10,3,8,1,0,26,0,1,0,0,7
-Cesc_Fàbregas,Chelsea,121,MID,5,15,4,8,0,14,0,0,0,0,14
-Laurent_Koscielny,Arsenal,121,DEF,2,1,10,4,1,37,0,0,0,0,19
-Ben_Gibson,Middlesbrough,121,DEF,1,1,11,4,0,53,0,0,0,0,14
-Sam_Vokes,Burnley,121,FWD,10,4,5,0,0,34,0,0,0,0,12
-Antonio_Valencia,Man Utd,120,DEF,1,3,12,5,0,20,0,0,0,0,9
-Toby_Alderweireld,Spurs,120,DEF,1,0,14,1,0,17,0,0,0,0,4
-Riyad_Mahrez,Leicester,120,MID,6,4,9,4,0,48,0,2,0,0,9
-Artur_Boruc,Bournemouth,120,GK,0,0,9,2,0,63,0,0,2,115,7
-Kevin_Mirallas,Everton,119,MID,4,8,11,2,0,26,0,0,0,0,8
-Héctor_Bellerín,Arsenal,119,DEF,1,5,10,4,0,34,0,0,0,0,12
-Joe_Allen,Stoke,118,MID,6,3,10,9,0,49,0,0,0,0,10
-Salomón_Rondón,West Brom,118,FWD,8,3,6,2,0,44,0,0,0,0,10
-Marko_Arnautovic,Stoke,117,MID,6,7,9,9,1,43,0,1,0,0,8
-Lukasz_Fabianski,Swansea,116,GK,0,0,8,1,0,69,0,0,1,117,8
-Olivier_Giroud,Arsenal,116,FWD,12,5,4,2,0,16,0,0,0,0,17
-Andros_Townsend,Crystal Palace,116,MID,3,7,7,4,0,38,0,0,0,0,16
-Matt_Phillips,West Brom,115,MID,4,9,6,2,0,28,0,0,0,0,12
-Paul_Pogba,Man Utd,115,MID,5,4,13,7,0,21,0,0,0,0,14
-Nacho_Monreal,Arsenal,115,DEF,0,3,11,5,0,43,0,0,0,0,9
-Willian_Borges Da Silva,Chelsea,114,MID,8,3,6,3,0,19,0,0,0,0,13
-Michael_Keane,Burnley,113,DEF,2,1,10,4,0,49,0,0,0,0,10
-Ben_Foster,West Brom,113,GK,0,0,6,2,0,51,0,0,0,115,4
-Heurelho_Gomes,Watford,113,GK,0,0,7,1,0,64,1,0,1,117,6
-Steve_Cook,Bournemouth,112,DEF,2,0,10,5,0,67,1,0,0,0,17
-Simon_Mignolet,Liverpool,110,GK,0,0,9,0,0,30,0,0,2,52,7
-Nacer_Chadli,West Brom,110,MID,5,6,6,2,0,32,0,0,0,0,8
-Kasper_Schmeichel,Leicester,109,GK,0,0,8,1,0,47,0,0,0,113,10
-Andre_Gray,Burnley,108,FWD,9,3,8,2,0,33,0,0,0,0,10
-Dusan_Tadic,Southampton,108,MID,3,7,13,4,0,29,0,1,0,0,4
-Junior_Stanislas,Bournemouth,107,MID,7,6,4,1,0,29,0,0,0,0,13
-Dejan_Lovren,Liverpool,106,DEF,2,1,11,6,0,31,0,0,0,0,6
-Bruno_Martins Indi,Stoke,106,DEF,1,0,11,4,0,50,0,0,0,0,9
-Lee_Grant,Stoke,106,GK,0,0,9,1,0,34,0,0,0,91,9
-Leroy_Sané,Man City,105,MID,5,7,9,4,0,15,0,0,0,0,8
-Victor_Moses,Chelsea,105,MID,3,3,17,4,0,15,0,0,0,0,6
-Eric_Bailly,Man Utd,105,DEF,0,0,13,4,0,15,0,0,0,0,14
-Nemanja_Matic,Chelsea,105,MID,1,8,15,4,0,24,0,0,0,0,1
-Adam_Smith,Bournemouth,104,DEF,1,5,8,6,0,61,1,0,0,0,12
-Emre_Can,Liverpool,104,MID,5,2,9,6,0,28,0,0,0,0,12
-Phil_Jagielka,Everton,104,DEF,3,3,6,4,1,32,0,0,0,0,16
-Christian_Fuchs,Leicester,104,DEF,2,4,8,10,0,57,0,0,0,0,10
-Victor_Wanyama,Spurs,103,MID,4,2,12,10,0,25,0,0,0,0,7
-Darren_Fletcher,West Brom,103,MID,2,3,8,0,0,45,0,0,0,0,2
-Erik_Pieters,Stoke,103,DEF,0,2,10,5,0,50,0,0,0,0,9
-Craig_Dawson,West Brom,102,DEF,4,0,6,10,0,50,0,0,0,0,6
-Cédric_Soares,Southampton,102,DEF,0,3,11,7,0,36,0,0,0,0,11
-Jordan_Pickford,Sunderland,102,GK,0,0,4,0,0,50,0,0,0,135,9
-Winston_Reid,West Ham,102,DEF,2,3,9,8,1,48,0,0,0,0,16
-Juan_Mata,Man Utd,102,MID,6,3,10,3,0,16,1,0,0,0,14
-Víctor_Valdés,Middlesbrough,102,GK,0,0,8,1,0,36,0,0,0,79,10
-Ryan_Fraser,Bournemouth,100,MID,3,9,7,3,0,32,0,0,0,0,8
-Nicolás_Otamendi,Man City,100,DEF,1,2,9,9,0,28,0,0,0,0,10
-Chris_Brunt,West Brom,99,DEF,3,4,4,5,0,37,0,0,0,0,11
-Jose_Fonte,West Ham,98,DEF,0,0,11,4,0,46,0,0,0,0,10
-Daley_Blind,Man Utd,98,DEF,1,2,9,2,0,17,0,0,0,0,14
-Patrick_van Aanholt,Crystal Palace,98,DEF,5,1,5,3,0,53,0,0,0,0,9
-Ander_Herrera,Man Utd,97,MID,1,6,13,5,1,18,0,0,0,0,11
-Joel_Matip,Liverpool,97,DEF,1,0,9,3,0,25,0,0,0,0,7
-Divock_Origi,Liverpool,96,FWD,7,4,7,0,0,18,0,0,0,0,8
-Anthony_Martial,Man Utd,95,MID,4,6,9,2,0,13,0,0,0,0,9
-Marc_Albrighton,Leicester,95,MID,2,6,8,5,0,47,0,0,0,0,3
-Aleksandar_Kolarov,Man City,95,DEF,1,1,9,6,0,27,1,0,0,0,7
-Leroy_Fer,Swansea,95,MID,6,2,4,9,0,49,0,0,0,0,5
-Ryan_Shawcross,Stoke,94,DEF,1,2,9,6,0,53,2,0,0,0,6
-Alfie_Mawson,Swansea,94,DEF,4,0,7,1,0,45,2,0,0,0,9
-Ben_Mee,Burnley,94,DEF,1,2,9,5,0,49,2,0,0,0,6
-Eric_Dier,Spurs,93,MID,2,0,16,6,0,24,0,0,0,0,4
-James_McArthur,Crystal Palace,93,MID,5,3,3,5,0,39,0,0,0,0,8
-Jason_Puncheon,Crystal Palace,92,MID,0,6,7,9,0,53,0,0,0,0,6
-James_Ward-Prowse,Southampton,92,MID,4,4,9,4,0,26,0,0,0,0,5
-Wayne_Hennessey,Crystal Palace,92,GK,0,0,7,1,0,46,0,0,0,83,4
-George_Boyd,Burnley,92,MID,2,2,9,3,0,45,0,0,0,0,2
-Marten_de Roon,Middlesbrough,91,MID,4,1,8,8,0,44,0,0,0,0,5
-Stephen_Ward,Burnley,91,DEF,1,1,8,5,0,53,0,0,0,0,3
-Yohan_Cabaye,Crystal Palace,91,MID,4,4,7,7,0,41,0,1,0,0,6
-Shkodran_Mustafi,Arsenal,90,DEF,2,2,8,11,0,30,0,0,0,0,8
-Ben_Davies,Spurs,90,DEF,1,3,8,1,0,13,0,0,0,0,5
-Matthew_Lowton,Burnley,90,DEF,0,2,9,9,0,53,0,0,0,0,5
-Alex_Iwobi,Arsenal,89,MID,3,5,9,1,0,20,0,0,0,0,8
-André_Ayew,West Ham,89,MID,6,3,6,1,0,25,0,0,0,0,5
-Simon_Francis,Bournemouth,89,DEF,0,1,10,4,1,54,0,0,0,0,7
-Joel_Robles,Everton,89,GK,0,1,10,2,0,20,0,0,0,54,5
-Robert_Huth,Leicester,88,DEF,2,2,9,9,0,49,2,0,0,0,1
-Benik_Afobe,Bournemouth,88,FWD,6,5,5,1,0,24,0,1,0,0,9
-José_Holebas,Watford,87,DEF,2,4,7,14,0,61,0,0,0,0,9
-Sam_Clucas,Hull,87,MID,3,1,5,9,1,75,0,0,0,0,4
-Gaël_Clichy,Man City,87,DEF,1,0,8,2,0,24,0,0,0,0,9
-Joel_Ward,Crystal Palace,86,DEF,0,1,7,7,0,63,0,0,0,0,7
-Gnegneri Yaya_Touré,Man City,86,MID,5,0,12,4,0,17,0,0,0,0,6
-Eldin_Jakupovic,Hull,86,GK,0,0,5,0,0,36,0,0,2,73,7
-Danny_Simpson,Leicester,85,DEF,0,3,9,12,0,50,0,0,0,0,4
-Granit_Xhaka,Arsenal,85,MID,2,3,10,5,2,32,0,0,0,0,7
-Harry_Arter,Bournemouth,84,MID,1,4,9,11,1,62,0,1,0,0,6
-Danny_Rose,Spurs,84,DEF,2,3,8,8,0,11,0,0,0,0,6
-James_Morrison,West Brom,84,MID,5,2,4,3,0,22,0,0,0,0,4
-Calum_Chambers,Middlesbrough,83,DEF,2,1,7,4,0,37,0,0,0,0,7
-Islam_Slimani,Leicester,83,FWD,7,4,5,1,0,23,0,0,0,0,9
-N'Golo_Kanté,Chelsea,83,MID,1,1,13,9,0,33,0,0,0,0,1
-Alex_Oxlade-Chamberlain,Arsenal,83,MID,2,7,4,1,0,22,0,0,0,0,3
-Kyle_Naughton,Swansea,82,DEF,1,0,8,5,0,48,1,0,0,0,7
-Ashley_Barnes,Burnley,81,FWD,6,3,6,6,1,27,0,0,0,0,10
-Dimitri_Payet,West Ham,81,MID,2,8,4,2,0,28,0,0,0,0,10
-Idrissa_Gueye,Everton,80,MID,1,2,9,11,0,31,0,0,0,0,9
-Xherdan_Shaqiri,Stoke,80,MID,4,2,8,2,0,21,0,0,0,0,8
-Oriol_Romeu Vidal,Southampton,80,MID,1,0,13,11,0,42,0,0,0,0,4
-Jonny_Evans,West Brom,79,DEF,2,1,4,8,0,39,0,0,0,0,7
-Peter_Crouch,Stoke,79,FWD,7,3,4,3,0,23,0,0,0,0,7
-Cheikhou_Kouyaté,West Ham,79,MID,1,1,9,3,0,46,0,0,0,0,3
-Fernando_Luiz Rosa,Man City,78,MID,2,1,10,4,2,27,0,0,0,0,3
-Maya_Yoshida,Southampton,78,DEF,1,1,7,2,0,32,0,0,0,0,8
-Adam_Forshaw,Middlesbrough,77,MID,0,2,9,4,0,36,0,0,0,0,3
-Jake_Livermore,West Brom,77,MID,1,1,4,5,1,62,0,0,0,0,2
-Marcos_Rojo,Man Utd,77,DEF,1,0,8,5,0,13,0,0,0,0,7
-Steven_Davis,Southampton,77,MID,0,3,10,3,0,37,0,0,0,0,0
-Stewart_Downing,Middlesbrough,77,MID,1,3,7,1,0,39,0,0,0,0,3
-Jeff_Hendrick,Burnley,76,MID,2,1,9,6,1,47,0,0,0,0,1
-Marcus_Rashford,Man Utd,76,FWD,5,3,7,3,0,15,0,0,0,0,2
-Mousa_Dembélé,Spurs,76,MID,1,2,11,5,0,17,0,0,0,0,6
-Wayne_Rooney,Man Utd,76,FWD,5,5,6,8,0,16,0,0,0,0,9
-Virgil_van Dijk,Southampton,75,DEF,1,0,7,3,1,23,0,0,0,0,14
-James_Tomkins,Crystal Palace,75,DEF,3,0,6,4,0,36,0,0,0,0,5
-Allan-Roméo_Nyom,West Brom,74,DEF,0,2,5,8,0,39,0,0,0,0,6
-Wayne_Routledge,Swansea,74,MID,3,2,5,1,0,42,0,0,0,0,2
-Henrikh_Mkhitaryan,Man Utd,73,MID,4,1,10,1,0,8,0,0,0,0,3
-Jordan_Henderson,Liverpool,73,MID,1,4,7,8,0,28,0,0,0,0,9
-Jay_Rodriguez,Southampton,73,MID,5,2,3,0,0,15,0,0,0,0,8
-Andrew_Robertson,Hull,73,DEF,1,2,5,5,0,59,0,0,0,0,4
-Claudio_Bravo,Man City,73,GK,0,0,6,0,0,26,0,0,1,33,3
-Jonathan_Walters,Stoke,72,MID,4,3,6,1,0,22,0,0,0,0,3
-Abel_Hernández,Hull,72,FWD,4,4,4,0,0,23,0,0,0,0,6
-Harry_Maguire,Hull,71,DEF,2,3,4,5,0,53,0,0,0,0,5
-Antonio_Barragán,Middlesbrough,71,DEF,0,0,7,5,0,32,0,0,0,0,8
-Miguel_Britos,Watford,71,DEF,1,2,6,6,2,36,0,0,0,0,8
-Mark_Noble,West Ham,71,MID,3,0,8,10,0,40,0,1,0,0,5
-Adam_Clayton,Middlesbrough,70,MID,0,2,10,10,0,45,0,0,0,0,0
-Matteo_Darmian,Man Utd,70,DEF,0,0,9,3,0,8,0,0,0,0,6
-Lamine_Koné,Sunderland,69,DEF,1,0,5,4,0,46,0,0,0,0,5
-Andy_Carroll,West Ham,69,FWD,7,2,3,3,0,27,0,0,0,0,6
-James_Collins,West Ham,69,DEF,2,0,6,3,0,29,0,0,0,0,7
-Darren_Randolph,West Ham,69,GK,0,0,4,1,0,39,0,0,1,64,5
-Scott_Arfield,Burnley,69,MID,1,2,6,3,0,36,0,0,0,0,3
-Daniel_Drinkwater,Leicester,69,MID,1,1,8,6,0,44,0,0,0,0,3
-Ramiro_Funes Mori,Everton,69,DEF,0,1,7,0,0,19,0,0,0,0,4
-Maarten_Stekelenburg,Everton,68,GK,0,0,4,2,0,24,1,0,2,43,3
-Gareth_Barry,Everton,68,MID,2,1,7,10,0,28,0,0,0,0,3
-Gabriel Fernando_de Jesus,Man City,67,FWD,7,4,3,2,0,5,0,0,0,0,12
-Sebastian_Prödl,Watford,67,DEF,1,2,5,10,1,49,0,0,0,0,3
-Didier_Ndong,Sunderland,67,MID,1,1,5,5,0,48,0,0,0,0,1
-Nordin_Amrabat,Watford,65,MID,0,3,4,4,0,51,0,0,0,0,5
-Marc_Pugh,Bournemouth,64,MID,2,3,5,1,0,24,0,0,0,0,6
-Adrián_San Miguel del Castillo,West Ham,64,GK,0,0,6,1,0,25,0,0,0,53,6
-Willy_Caballero,Man City,64,GK,0,0,6,0,0,13,0,0,1,31,1
-Shinji_Okazaki,Leicester,63,FWD,3,1,7,1,0,26,0,0,0,0,3
-Wes_Morgan,Leicester,63,DEF,1,1,5,3,0,45,0,0,0,0,0
-Federico_Fernández,Swansea,63,DEF,0,1,6,7,0,41,0,0,0,0,4
-Callum_Wilson,Bournemouth,63,FWD,6,1,6,0,0,25,0,0,0,0,2
-Tom_Davies,Everton,63,MID,2,3,8,4,0,17,0,0,0,0,0
-Tom_Huddlestone,Hull,62,MID,1,2,4,5,1,47,1,0,0,0,5
-Ahmed_Elmohamady,Hull,62,MID,0,2,3,3,1,63,1,0,0,0,1
-Charlie_Austin,Southampton,62,FWD,6,1,6,1,0,8,0,0,0,0,10
-Glenn_Whelan,Stoke,62,MID,0,1,7,5,0,40,1,0,0,0,3
-Jack_Wilshere,Bournemouth,61,MID,0,3,5,4,0,45,0,0,0,0,2
-Scott_Dann,Crystal Palace,61,DEF,3,1,2,2,0,36,0,0,0,0,4
-Jesse_Lingard,Man Utd,60,MID,1,3,7,3,0,12,0,0,0,0,3
-Jack_Stephens,Southampton,60,DEF,0,1,6,1,0,24,0,0,0,0,10
-Aaron_Cresswell,West Ham,60,DEF,0,2,5,2,1,35,0,0,0,0,1
-John_Stones,Man City,59,DEF,0,0,4,1,0,29,0,0,0,0,4
-Charlie_Adam,Stoke,59,MID,1,4,6,7,0,23,0,0,0,0,5
-Wilfred_Ndidi,Leicester,59,MID,2,3,4,0,0,28,0,0,0,0,2
-George_Friend,Middlesbrough,59,DEF,0,3,4,4,0,35,0,0,0,0,6
-Gastón_Ramírez,Middlesbrough,59,MID,2,3,6,8,1,22,0,0,0,0,6
-Demarai_Gray,Leicester,58,MID,1,4,4,2,0,20,0,0,0,0,0
-Fabio Pereira_da Silva,Middlesbrough,58,DEF,0,0,6,8,0,30,0,0,0,0,8
-Geoff_Cameron,Stoke,58,DEF,0,1,6,1,0,25,0,0,0,0,5
-Shane_Long,Southampton,57,FWD,3,2,2,2,0,23,0,1,0,0,2
-Vincent_Kompany,Man City,57,DEF,3,0,5,5,0,6,0,0,0,0,6
-Younes_Kaboul,Watford,57,DEF,2,0,4,2,0,36,0,0,0,0,1
-Billy_Jones,Sunderland,56,DEF,1,0,5,8,0,49,0,0,0,0,6
-Aaron_Ramsey,Arsenal,56,MID,1,4,4,3,0,20,0,0,0,0,3
-Glen_Johnson,Stoke,56,DEF,0,0,6,1,0,34,0,0,0,0,3
-Jason_Denayer,Sunderland,56,DEF,0,0,6,2,0,30,1,0,0,0,2
-Bacary_Sagna,Man City,55,DEF,0,1,6,2,0,14,0,0,0,0,3
-Vincent_Janssen,Spurs,55,FWD,2,3,3,0,0,8,0,0,0,0,3
-Sofiane_Feghouli,West Ham,55,MID,3,3,1,1,1,23,0,0,0,0,4
-Pedro_Obiang,West Ham,55,MID,1,2,4,7,0,32,0,0,0,0,6
-Andrea_Ranocchia,Hull,55,DEF,2,2,3,2,0,31,0,0,0,0,9
-Nathan_Aké,Chelsea,55,DEF,3,1,3,1,0,20,0,0,0,0,8
-Tom_Cleverley,Watford,55,MID,0,3,3,4,0,40,0,0,0,0,0
-Phil_Jones,Man Utd,55,DEF,0,0,5,2,0,14,0,0,0,0,4
-Claudio_Yacob,West Brom,54,MID,0,0,4,9,0,36,0,0,0,0,0
-Daniel_Sturridge,Liverpool,54,FWD,3,5,3,1,0,7,0,0,0,0,2
-Steven_Defour,Burnley,54,MID,1,3,5,1,0,13,0,0,0,0,6
-Enner_Valencia,Everton,54,FWD,3,3,2,1,0,12,0,0,0,0,3
-Cristhian_Stuani,Middlesbrough,54,FWD,4,0,4,4,0,15,0,0,0,0,4
-Mason_Holgate,Everton,54,DEF,0,1,5,2,0,18,0,0,0,0,5
-Manuel_Agudo Durán,Man City,54,MID,4,3,3,3,1,7,0,0,0,0,2
-Daniel_Amartey,Leicester,53,MID,1,1,4,3,0,35,0,0,0,0,3
-Kelechi_Iheanacho,Man City,52,FWD,4,3,1,0,0,9,0,0,0,0,6
-Chris_Smalling,Man Utd,52,DEF,1,1,4,0,0,16,0,0,0,0,1
-Adama_Traoré,Middlesbrough,52,MID,0,1,6,1,0,22,0,0,0,0,2
-Martin_Olsson,Swansea,52,DEF,2,0,4,2,0,18,0,0,0,0,3
-Tom_Carroll,Swansea,52,MID,1,2,5,1,0,18,0,0,0,0,4
-Francis_Coquelin,Arsenal,52,MID,0,1,5,5,0,27,0,0,0,0,1
-James_McClean,West Brom,52,MID,1,3,2,9,0,24,0,0,0,0,1
-Hal_Robson-Kanu,West Brom,52,FWD,3,2,1,3,0,13,0,0,0,0,3
-Kieran_Trippier,Spurs,51,DEF,0,5,3,1,0,3,0,0,0,0,7
-Dean_Marney,Burnley,51,MID,1,2,5,7,0,28,0,0,0,0,1
-Mame Biram_Diouf,Stoke,51,FWD,1,2,5,3,0,26,0,0,0,0,2
-Damien_Delaney,Crystal Palace,51,DEF,0,2,3,8,0,39,0,0,0,0,3
-Daryl_Janmaat,Watford,50,DEF,2,1,2,2,0,33,0,0,0,0,0
-Jack_Cork,Swansea,50,MID,0,1,3,7,0,51,2,0,0,0,0
-Adnan_Januzaj,Sunderland,49,MID,0,3,3,3,1,38,0,0,0,0,0
-Fabio_Borini,Sunderland,49,FWD,2,0,5,5,0,34,0,0,0,0,3
-M'Baye_Niang,Watford,49,FWD,2,2,3,2,0,27,0,0,0,0,6
-Dan_Gosling,Bournemouth,49,MID,2,0,4,6,0,24,0,0,0,0,2
-Victor_Anichebe,Sunderland,48,FWD,3,1,3,2,0,21,0,0,0,0,5
-Valon_Behrami,Watford,48,MID,0,0,5,7,0,39,0,0,0,0,0
-Jesús_Navas,Man City,48,MID,0,3,2,2,0,17,0,0,0,0,6
-Marouane_Fellaini,Man Utd,48,MID,1,0,10,8,1,14,0,0,0,0,0
-Michy_Batshuayi,Chelsea,48,FWD,5,1,0,0,0,3,0,0,0,0,4
-Johann Berg_Gudmundsson,Burnley,47,MID,1,3,3,1,0,19,0,0,0,0,3
-Leiva_Lucas,Liverpool,47,MID,0,3,4,4,0,17,0,0,0,0,2
-Jeffrey_Schlupp,Crystal Palace,47,DEF,0,2,3,0,0,17,0,0,0,0,4
-John_O'Shea,Sunderland,47,DEF,0,1,3,5,0,42,0,0,0,0,3
-Martin_Kelly,Crystal Palace,46,DEF,0,2,2,4,0,44,0,0,0,0,0
-Michael_Dawson,Hull,46,DEF,3,0,1,4,0,44,1,0,0,0,4
-Kieran_Gibbs,Arsenal,45,DEF,0,1,6,3,0,3,0,0,0,0,3
-Luke_Shaw,Man Utd,45,DEF,0,3,4,1,0,6,0,0,0,0,4
-Yannick_Bolasie,Everton,45,MID,1,4,3,3,0,14,0,0,0,0,3
-Gabriel Armando_de Abreu,Arsenal,45,DEF,0,0,5,6,0,18,0,0,0,0,2
-Pablo_Zabaleta,Man City,45,DEF,1,1,2,2,0,18,0,0,0,0,5
-Angelo_Ogbonna,West Ham,45,DEF,0,0,4,2,0,31,0,0,0,0,2
-Oumar_Niasse,Hull,44,FWD,4,1,2,3,1,30,0,0,0,0,3
-Andrew_Surman,Bournemouth,44,MID,0,1,4,1,1,38,0,0,0,0,0
-Ragnar_Klavan,Liverpool,43,DEF,0,0,3,3,0,19,0,0,0,0,4
-Moussa_Sissoko,Spurs,43,MID,0,3,4,3,0,5,0,0,0,0,0
-Kamil_Grosicki,Hull,43,MID,0,5,3,1,0,27,0,0,0,0,0
-Stefano_Okaka,Watford,43,FWD,4,0,2,5,0,23,0,0,0,0,3
-Duncan_Watmore,Sunderland,43,MID,0,5,2,1,0,20,0,0,0,0,1
-Roberto_Pereyra,Watford,43,MID,2,3,3,2,1,17,0,0,0,0,2
-Michael_Carrick,Man Utd,42,MID,0,0,5,2,0,14,0,0,0,0,0
-Luka_Milivojevic,Crystal Palace,42,MID,2,0,5,4,0,16,0,0,0,0,3
-Adama_Diomande,Hull,42,FWD,2,0,2,1,0,29,0,0,0,0,2
-Andy_King,Leicester,41,MID,1,0,1,4,0,26,0,0,0,0,1
-Sung-yueng_Ki,Swansea,41,MID,0,1,4,3,0,28,0,0,0,0,0
-Ilkay_Gündogan,Man City,41,MID,3,1,3,0,0,8,0,0,0,0,2
-Sofiane_Boufal,Southampton,40,MID,1,1,3,5,0,22,0,0,0,0,1
-Joe_Ledley,Crystal Palace,40,MID,1,1,2,1,0,26,0,0,0,0,1
-Sebastian_Larsson,Sunderland,40,MID,0,3,3,4,1,35,0,0,0,0,0
-Jordan_Ayew,Swansea,39,FWD,1,4,5,1,0,7,0,0,0,0,2
-Odion_Ighalo,Watford,39,FWD,1,1,2,1,0,29,0,0,0,0,2
-Robbie_Brady,Burnley,39,MID,1,3,1,1,0,11,0,0,0,0,4
-Ahmed_Musa,Leicester,39,FWD,2,0,1,1,0,20,0,0,0,0,5
-Santiago_Cazorla,Arsenal,38,MID,2,2,4,2,0,5,0,0,0,0,5
-Juan_Zuñiga,Watford,38,DEF,1,1,1,1,0,15,0,0,0,0,2
-Curtis_Davies,Hull,38,DEF,0,2,1,4,0,53,1,0,0,0,3
-Jordy_Clasie,Southampton,38,MID,1,1,2,3,0,15,0,0,0,0,3
-Edimilson_Fernandes,West Ham,38,MID,0,1,3,4,0,18,0,0,0,0,0
-Abdoulaye_Doucouré,Watford,38,MID,1,0,4,4,0,32,0,0,0,0,0
-Javier_Manquillo,Sunderland,38,DEF,1,0,2,2,0,28,0,0,0,0,0
-Pierre-Emile_Højbjerg,Southampton,38,MID,0,0,6,2,0,16,0,0,0,0,0
-Jack_Rodwell,Sunderland,38,MID,0,1,2,4,0,32,0,0,0,0,1
-Manolo_Gabbiadini,Southampton,38,FWD,4,1,3,1,0,12,0,1,0,0,4
-Lazar_Markovic,Hull,37,MID,2,0,5,4,0,15,0,0,0,0,2
-Danny_Welbeck,Arsenal,37,FWD,2,2,3,0,0,11,0,0,0,0,0
-Joey_Barton,Burnley,37,MID,1,2,4,4,0,16,0,0,0,0,0
-Morgan_Schneiderlin,Everton,37,MID,1,0,5,2,0,14,0,0,0,0,1
-Bradley_Guzan,Middlesbrough,36,GK,0,0,3,0,0,17,0,0,0,37,3
-Jordon_Ibe,Bournemouth,36,MID,0,0,3,0,0,22,0,0,0,0,0
-Ramadan_Sobhi,Stoke,36,MID,0,2,5,2,0,11,0,0,0,0,1
-Christian_Kabasele,Watford,35,DEF,2,0,1,1,0,15,0,0,0,0,1
-Mamadou_Sakho,Crystal Palace,35,DEF,0,0,4,0,0,6,0,0,0,0,6
-Bernardo_Espinosa Zúñiga,Middlesbrough,35,DEF,0,0,4,2,0,13,0,0,0,0,3
-Arthur_Masuaku,West Ham,34,DEF,0,1,3,1,0,24,0,0,0,0,7
-Modou_Barrow,Swansea,34,FWD,0,2,4,1,0,23,0,0,0,0,0
-Vito_Mannone,Sunderland,34,GK,0,0,2,0,0,19,0,0,0,41,6
-Marc_Muniesa,Stoke,34,DEF,1,0,3,2,0,7,0,0,0,0,3
-Alfred_N'Diaye,Hull,34,MID,1,0,4,7,0,30,0,0,0,0,2
-David_Meyler,Hull,33,MID,1,0,2,2,0,23,0,0,0,0,0
-Rob_Holding,Arsenal,32,DEF,0,0,4,3,0,8,0,0,0,0,3
-Borja_Bastón,Swansea,32,FWD,1,2,1,0,0,11,0,0,0,0,1
-Leon_Britton,Swansea,32,MID,0,0,5,3,0,24,0,0,0,0,0
-David_Marshall,Hull,32,GK,0,0,0,0,0,44,1,0,0,63,0
-Loris_Karius,Liverpool,32,GK,0,0,3,0,0,12,0,0,0,20,0
-Håvard_Nordtveit,West Ham,31,MID,0,1,3,2,0,20,0,0,0,0,0
-Daniel_Ayala,Middlesbrough,31,DEF,1,0,3,3,0,16,0,0,0,0,0
-Wahbi_Khazri,Sunderland,31,MID,1,0,1,6,0,21,0,0,0,0,3
-Craig_Cathcart,Watford,31,DEF,0,1,2,3,0,21,0,0,0,0,3
-Cuco_Martina,Southampton,31,DEF,0,0,3,0,0,6,0,0,0,0,5
-Bojan_Krkic,Stoke,30,MID,3,0,0,1,0,12,0,1,0,0,4
-Harry_Winks,Spurs,30,MID,1,1,0,1,0,6,0,0,0,0,0
-Stephen_Kingsley,Swansea,29,DEF,0,0,3,0,0,20,0,0,0,0,2
-Bryan_Oviedo,Sunderland,29,MID,0,0,3,4,0,26,0,0,0,0,0
-Wilfried_Bony,Stoke,29,FWD,2,0,3,1,0,12,0,0,0,0,3
-Sam_Byram,West Ham,29,DEF,0,1,3,5,1,27,0,0,0,0,2
-Erik_Lamela,Spurs,28,MID,1,1,4,1,0,2,0,1,0,0,4
-Grant_Leadbitter,Middlesbrough,28,MID,1,0,3,1,0,12,0,0,0,0,1
-Isaac_Success,Watford,28,MID,1,1,1,2,0,9,0,0,0,0,0
-Yohan_Benalouane,Leicester,27,DEF,0,0,4,4,0,15,0,0,0,0,0
-Phil_Bardsley,Stoke,27,DEF,0,0,3,4,1,17,0,0,0,0,0
-Dieumerci_Mbokani,Hull,27,FWD,0,2,3,0,0,16,0,0,0,0,0
-Ashley_Young,Man Utd,26,MID,0,1,4,2,0,6,0,0,0,0,1
-Ryan_Mason,Hull,26,MID,1,0,0,4,0,27,0,0,0,0,0
-Saido_Berahino,Stoke,26,FWD,0,0,4,1,0,13,0,0,0,0,0
-Mohamed_Elneny,Arsenal,26,MID,0,1,3,1,0,9,0,0,0,0,0
-Adlène_Guédioura,Middlesbrough,26,MID,0,1,0,2,0,20,0,0,0,0,0
-Angel_Rangel,Swansea,26,DEF,1,0,1,1,0,24,0,0,0,0,1
-Luciano_Narsingh,Swansea,25,MID,0,3,1,0,0,8,0,0,0,0,0
-Viktor_Fischer,Middlesbrough,25,MID,0,3,1,0,0,6,0,0,0,0,0
-Chung-yong_Lee,Crystal Palace,24,MID,0,1,2,0,0,13,0,0,0,0,0
-Papy_Djilobodji,Sunderland,24,DEF,0,0,2,4,1,35,0,0,0,0,0
-Leonardo_Ulloa,Leicester,24,FWD,1,0,2,0,0,5,0,0,0,0,1
-Giannelli_Imbula,Stoke,24,MID,0,1,2,1,0,20,1,0,0,0,1
-Shaun_Maloney,Hull,24,MID,1,2,1,0,0,7,0,0,0,0,2
-James_McCarthy,Everton,23,MID,1,1,0,2,0,10,0,0,0,0,0
-Jonathan_Calleri,West Ham,23,FWD,1,0,3,0,0,4,0,0,0,0,0
-Branislav_Ivanovic,Chelsea,23,DEF,0,1,1,2,0,9,0,0,0,0,2
-James_Tarkowski,Burnley,23,DEF,0,0,1,1,0,11,0,0,0,0,0
-Sergio_Romero,Man Utd,23,GK,0,0,2,0,0,0,0,0,1,10,3
-Sam_McQueen,Southampton,23,MID,0,1,1,0,0,9,0,0,0,0,0
-Aaron_Lennon,Everton,22,MID,0,1,2,0,0,5,0,0,0,0,0
-Neil_Taylor,Swansea,22,DEF,0,1,2,1,0,26,0,0,0,0,0
-Rudy_Gestede,Middlesbrough,21,FWD,1,0,1,3,0,12,0,0,0,0,0
-Patrick_Bamford,Middlesbrough,21,FWD,1,0,0,1,0,8,0,0,0,0,2
-Donald_Love,Sunderland,21,DEF,0,1,1,1,0,11,0,0,0,0,1
-Jordi_Amat,Swansea,21,DEF,0,0,2,5,0,36,0,0,0,0,0
-John_Terry,Chelsea,21,DEF,1,0,1,1,0,9,0,0,0,0,0
-Jack_Butland,Stoke,20,GK,0,0,2,0,0,8,0,0,0,17,2
-Markus_Henriksen,Hull,20,MID,0,0,0,1,0,13,0,0,0,0,0
-Lucas_Pérez,Arsenal,20,FWD,1,1,1,0,0,2,0,0,0,0,0
-Steve_Mandanda,Crystal Palace,19,GK,0,0,0,0,0,17,0,0,0,24,0
-Jay_Fulton,Swansea,19,MID,0,0,3,2,0,15,0,0,0,0,0
-Benjamin_Chilwell,Leicester,19,DEF,1,0,1,2,0,18,0,0,0,0,0
-Jefferson_Montero,Swansea,18,MID,0,1,0,0,0,9,0,0,0,0,0
-Connor_Wickham,Crystal Palace,18,FWD,2,0,0,1,0,6,0,0,0,0,0
-Evandro_Goebel,Hull,18,MID,0,0,3,1,0,10,0,0,0,0,0
-Fernando Francisco_Reges,Man City,18,MID,0,0,1,3,0,10,0,0,0,0,1
-Dominic_Calvert-Lewin,Everton,17,FWD,1,0,0,1,0,7,0,0,0,0,1
-Lewis_Cook,Bournemouth,17,MID,0,2,1,1,0,7,0,0,0,0,1
-Oscar_dos Santos Emboaba Junior,Chelsea,17,MID,0,1,1,1,0,6,0,0,0,0,0
-Ron-Robert_Zieler,Leicester,17,GK,0,0,1,0,0,16,0,0,0,18,0
-Michel_Vorm,Spurs,17,GK,0,0,2,0,0,2,0,0,0,7,0
-Darron_Gibson,Sunderland,17,MID,0,0,1,4,0,12,0,0,0,0,0
-Mike_van der Hoorn,Swansea,16,DEF,1,0,1,1,0,20,0,0,0,0,0
-Ashley_Fletcher,West Ham,16,FWD,0,0,0,2,0,13,0,0,0,0,0
-Ademola_Lookman,Everton,16,MID,1,0,1,0,0,2,0,0,0,0,0
-Fraizer_Campbell,Crystal Palace,16,FWD,1,0,0,0,0,4,0,0,0,0,0
-Ibrahim_Afellay,Stoke,15,MID,0,0,0,0,0,5,0,0,0,0,0
-Alberto_Moreno,Liverpool,15,DEF,0,1,0,1,0,7,0,0,0,0,1
-Steven_Pienaar,Sunderland,15,MID,0,0,2,5,1,13,0,0,0,0,0
-Adrian_Mariappa,Watford,15,DEF,0,0,1,0,0,13,0,0,0,0,3
-Kurt_Zouma,Chelsea,15,DEF,0,1,0,0,0,8,0,0,0,0,3
-Lys_Mousset,Bournemouth,14,FWD,0,1,1,0,0,4,1,0,0,0,0
-Craig_Gardner,West Brom,14,MID,0,1,1,1,0,6,0,0,0,0,0
-Axel_Tuanzebe,Man Utd,14,DEF,0,0,2,0,0,4,0,0,0,0,0
-Ashley_Westwood,Burnley,13,MID,0,0,1,3,0,9,0,0,0,0,0
-Gerard_Deulofeu,Everton,13,MID,0,0,0,1,0,6,0,0,0,0,0
-Shay_Given,Stoke,13,GK,0,0,0,1,0,14,1,0,1,18,3
-Fabian_Delph,Man City,13,MID,1,0,0,1,0,4,0,0,0,0,0
-Omar_Elabdellaoui,Hull,13,DEF,0,0,1,0,0,16,0,0,0,0,0
-Joshua_Sims,Southampton,12,MID,0,1,1,0,0,1,0,0,0,0,0
-Lee_Cattermole,Sunderland,12,MID,0,0,0,4,0,13,0,0,0,0,0
-Diafra_Sakho,West Ham,12,FWD,1,0,0,0,0,4,0,0,0,0,2
-Mathieu_Flamini,Crystal Palace,12,MID,0,0,0,0,0,6,0,0,0,0,0
-Nathan_Dyer,Swansea,12,MID,0,1,0,0,0,11,0,0,0,0,0
-Matt_Targett,Southampton,12,DEF,0,0,1,0,0,4,0,0,0,0,0
-Patrick_McNair,Sunderland,12,DEF,0,0,1,0,0,9,1,0,0,0,0
-Lynden_Gooch,Sunderland,12,MID,0,0,1,3,0,9,0,0,0,0,0
-Jonathan_Leko,West Brom,12,MID,0,1,0,0,0,3,0,0,0,0,0
-Jan_Kirchhoff,Sunderland,12,MID,0,1,0,1,0,11,0,0,0,0,0
-Nathaniel_Chalobah,Chelsea,12,MID,0,1,0,2,0,3,0,0,0,0,0
-Simone_Zaza,West Ham,10,FWD,0,0,2,2,0,14,0,0,0,0,0
-Emilio_Nsue Lopez,Middlesbrough,10,DEF,0,0,1,0,0,5,0,0,0,0,0
-Gökhan_Töre,West Ham,10,MID,0,1,1,0,0,4,0,0,0,0,0
-Timothy_Fosu-Mensah,Man Utd,9,DEF,0,0,1,0,0,0,0,0,0,0,0
-Brendan_Galloway,Everton,9,DEF,0,0,1,0,0,3,0,0,0,0,0
-Josh_Tymon,Hull,9,DEF,0,0,1,1,0,8,0,0,0,0,0
-Jon_Flanagan,Burnley,9,DEF,0,0,1,2,0,4,0,0,0,0,0
-Ezekiel_Fryers,Crystal Palace,9,DEF,0,1,0,0,0,7,0,0,0,0,0
-Matthew_Pennington,Everton,9,DEF,1,0,0,0,0,6,0,0,0,0,0
-Sam_Field,West Brom,9,MID,0,0,1,2,0,1,0,0,0,0,0
-Damian Emiliano_Martinez,Arsenal,8,GK,0,0,1,0,0,3,0,0,0,5,0
-Jordan_Rhodes,Middlesbrough,8,FWD,0,0,0,0,0,2,0,0,0,0,0
-Mauro_Zárate,Watford,8,FWD,0,1,0,0,0,3,0,0,0,0,0
-Joshua_Harrop,Man Utd,8,MID,1,0,1,0,0,0,0,0,0,0,0
-Adam_Federici,Bournemouth,8,GK,0,0,1,1,0,3,0,0,0,5,1
-Max_Gradel,Bournemouth,8,MID,0,0,0,3,0,1,0,0,0,0,0
-Will_Keane,Hull,8,FWD,0,0,1,0,0,10,0,0,0,0,0
-Georges-Kévin_Nkoudou,Spurs,8,MID,0,0,0,0,0,0,0,0,0,0,0
-Jonas_Olsson,West Brom,8,DEF,0,0,1,3,0,13,0,0,0,0,0
-Jarrod_Bowen,Hull,8,FWD,0,0,0,0,0,8,0,0,0,0,0
-Trent_Alexander-Arnold,Liverpool,8,MID,0,0,0,0,0,2,0,0,0,0,0
-Demetri_Mitchell,Man Utd,8,DEF,0,0,1,0,0,0,0,0,0,0,2
-Bakary_Sako,Crystal Palace,7,MID,0,0,0,0,0,5,0,0,0,0,0
-George_Honeyman,Sunderland,7,MID,0,0,1,1,0,4,0,0,0,0,0
-Michael_Kightly,Burnley,6,MID,0,0,0,0,0,1,0,0,0,0,0
-Arouna_Koné,Everton,6,FWD,0,0,0,0,0,3,0,0,0,0,0
-Joel Dinis_Castro Pereira,Man Utd,6,GK,0,0,1,0,0,0,0,0,0,1,0
-Jerome_Sinclair,Watford,6,FWD,0,0,0,0,0,1,0,0,0,0,0
-Lewis_Grabban,Bournemouth,6,FWD,0,1,0,0,0,2,0,0,0,0,0
-Loïc_Remy,Crystal Palace,6,FWD,0,0,1,0,0,3,0,0,0,0,0
-Nampalys_Mendy,Leicester,6,MID,0,0,1,1,0,5,0,0,0,0,0
-Pape_Souaré,Crystal Palace,6,DEF,0,0,0,0,0,3,0,0,0,0,0
-Ruben_Loftus-Cheek,Chelsea,6,MID,0,0,0,0,0,0,0,0,0,0,0
-Jérémy_Pied,Southampton,5,DEF,0,0,0,0,0,1,0,0,0,0,0
-Joshua_Onomah,Spurs,5,MID,0,0,0,0,0,0,0,0,0,0,0
-Oliver_McBurnie,Swansea,5,FWD,0,0,0,0,0,5,0,0,0,0,0
-Paul_Robinson,Burnley,5,GK,0,0,0,0,0,7,0,0,0,10,0
-Ben_Woodburn,Liverpool,5,MID,0,0,0,0,0,1,0,0,0,0,0
-Julien_Ngoy,Stoke,5,FWD,0,0,0,0,0,1,0,0,0,0,0
-Aleix_García Serrano,Man City,4,MID,0,0,0,0,0,2,0,0,0,0,0
-Marko_Grujic,Liverpool,4,MID,0,0,0,1,0,0,0,0,0,0,0
-Jordon_Mutch,Crystal Palace,4,MID,0,0,0,0,0,1,0,0,0,0,0
-David_Nugent,Middlesbrough,4,FWD,0,0,0,0,0,0,0,0,0,0,0
-Tyrone_Mings,Bournemouth,4,DEF,0,0,0,0,0,16,2,0,0,0,2
-Kevin_Stewart,Liverpool,4,DEF,0,0,0,0,0,0,0,0,0,0,0
-Filip_Lesniak,Spurs,4,MID,0,1,0,0,0,0,0,0,0,0,0
-Bradley_Smith,Bournemouth,4,DEF,0,0,0,1,0,9,0,0,0,0,0
-Ryan_Allsop,Bournemouth,3,GK,0,0,0,0,0,1,0,0,0,4,0
-Memphis_Depay,Man Utd,3,MID,0,0,0,1,0,1,0,0,0,0,0
-Ola_Aina,Chelsea,3,DEF,0,0,0,0,0,0,0,0,0,0,0
-Harrison_Reed,Southampton,3,MID,0,0,0,0,0,1,0,0,0,0,0
-Kristoffer_Nordfeldt,Swansea,3,GK,0,0,0,0,0,1,0,0,0,4,0
-Aiden_O'Neill,Burnley,3,MID,0,0,0,0,0,4,0,0,0,0,0
-Albert_Adomah,Middlesbrough,3,MID,0,0,0,0,0,2,0,0,0,0,0
-Luis_Hernández,Leicester,3,DEF,0,0,0,1,0,8,0,0,0,0,0
-Kevin_Long,Burnley,3,DEF,0,0,0,0,0,6,0,0,0,0,0
-Robert Kenedy_Nunes do Nascimento,Chelsea,3,MID,0,0,0,0,0,3,0,0,0,0,0
-Scott_McTominay,Man Utd,3,MID,0,0,1,1,0,0,0,0,0,0,0
-Daniel_Agyei,Burnley,3,FWD,0,0,0,0,0,0,0,0,0,0,0
-Oviemuno_Ejaria,Liverpool,2,MID,0,0,0,0,0,0,0,0,0,0,0
-Asmir_Begovic,Chelsea,2,GK,0,0,0,0,0,5,0,0,0,1,0
-Martín_Cáceres,Southampton,2,DEF,0,0,0,0,0,1,0,0,0,0,0
-David_Ospina,Arsenal,2,GK,0,0,0,0,0,4,0,0,0,4,0
-Lukas_Jutkiewicz,Burnley,2,FWD,0,0,0,0,0,0,0,0,0,0,0
-Carl_Jenkinson,Arsenal,2,DEF,0,0,0,0,0,1,0,0,0,0,0
-Dion_Pereira,Watford,2,MID,0,0,0,0,0,1,0,0,0,0,0
-Mile_Jedinak,Crystal Palace,2,MID,0,0,0,0,0,1,0,0,0,0,0
-Jeremain_Lens,Sunderland,2,MID,0,0,0,0,0,1,0,0,0,0,0
-Kevin_Wimmer,Spurs,2,DEF,0,0,0,3,0,4,1,0,0,0,0
-Costel_Pantilimon,Watford,2,GK,0,0,0,0,0,4,0,0,0,6,0
-Ikechi_Anya,Watford,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Ainsley_Maitland-Niles,Arsenal,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Marcin_Wasilewski,Leicester,1,DEF,0,0,0,0,0,2,0,0,0,0,0
-Ben_Watson,Watford,1,MID,0,0,0,0,1,2,0,0,0,0,0
-Per_Mertesacker,Arsenal,1,DEF,0,0,0,0,0,1,0,0,0,0,0
-Philipp_Wollscheid,Stoke,1,DEF,0,0,0,1,0,5,0,0,0,0,0
-Jonathan_Benteke,Crystal Palace,1,FWD,0,0,0,0,0,0,0,0,0,0,0
-Baily_Cargill,Bournemouth,1,DEF,0,0,0,0,0,0,0,0,0,0,0
-Sullay_Kaikai,Crystal Palace,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Mathieu_Debuchy,Arsenal,1,DEF,0,0,0,0,0,0,0,0,0,0,0
-Rickie_Lambert,West Brom,1,FWD,0,0,0,0,0,0,0,0,0,0,0
-David_Jones,Burnley,1,MID,0,0,0,1,0,1,0,0,0,0,0
-Joel_Asoro,Sunderland,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Joleon_Lescott,Sunderland,1,DEF,0,0,0,0,0,5,0,0,0,0,0
-Angel_Gomes,Man Utd,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Samir_Nasri,Man City,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Matej_Vydra,Watford,1,FWD,0,0,0,0,0,0,0,0,0,0,0
-Declan_Rice,West Ham,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Jonjoe_Kenny,Everton,1,DEF,0,0,0,0,0,0,0,0,0,0,0
-Matthew_James,Leicester,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Matthew_Worthington,Bournemouth,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Brandon_Mason,Watford,1,DEF,0,0,0,0,0,5,0,0,0,0,0
-Michael_Folivi,Watford,1,FWD,0,0,0,0,0,0,0,0,0,0,0
-Zachary_Dearnley,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Fredrik_Ulvestad,Burnley,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Jeff_Reine-Adelaide,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Eunan_O'Kane,Bournemouth,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Stephen_Ireland,Stoke,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Álvaro_Arbeloa,West Ham,0,DEF,0,0,0,3,0,9,0,0,0,0,0
-Alex_Pritchard,Spurs,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Alex_Pike,West Ham,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-James_Wilson,Man Utd,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Steven_Berghuis,Watford,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Aaron_Wan-Bissaka,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Daniel_James,Swansea,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Alex_Palmer,West Brom,0,GK,0,0,0,0,0,0,0,0,0,0,0
-James_Weir,Hull,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Ethan_Robson,Sunderland,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Alex_McCarthy,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Stuart_Taylor,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Yaya_Sanogo,Arsenal,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Danny_Ings,Liverpool,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Andrew_Eleftheriou,Watford,0,DEF,0,0,0,0,0,2,0,0,0,0,0
-Joe_Hart,Man City,0,GK,0,0,0,0,0,0,0,0,0,0,0
-John Obi_Mikel,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Andreas_Pereira,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Serge_Gnabry,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Florin_Gardos,Southampton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Daniel_Kemp,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Joel_Taylor,Stoke,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Daniel_Lafferty,Burnley,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Shaun_MacDonald,Bournemouth,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Joel_Campbell,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Franck_Tabanou,Swansea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Almen_Abdi,Watford,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Allan_McGregor,Hull,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Aaron_Ramsdale,Bournemouth,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Joe_Williams,Everton,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Abdul Rahman_Baba,Chelsea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Alexander_Manninger,Liverpool,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Guillermo_Varela,Man Utd,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Eliaquim_Mangala,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Greg_Luer,Hull,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Jack_Rose,West Brom,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Elliott_Moore,Leicester,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Tyias_Browning,Everton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Adam_Reach,Middlesbrough,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Dionatan do Nascimento_Teixeira,Stoke,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Elliot_Embleton,Sunderland,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Domingos_Quina,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Hiram_Boateng,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
-DeAndre_Yedlin,Spurs,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Dominic_Solanke,Chelsea,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Harry_Wilson,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Dusan_Kuciak,Hull,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Greg_Olley,Hull,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Harry_Lewis,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Eduardo_Dos Reis Carvalho,Chelsea,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Gökhan_Inler,Leicester,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Tommie_Hoban,Watford,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Dimitrios_Konstantopoulos,Middlesbrough,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Jake_Hesketh,Southampton,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Jakob_Haugaard,Stoke,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Sébastien_Pocognoli,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Takuma_Asano,Arsenal,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Tendayi_Darikwa,Burnley,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Alex_Bruce,Hull,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Thibaud_Verlinden,Stoke,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Alex_Baptiste,Middlesbrough,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Thomas_Edwards,Stoke,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Thomas_Robson,Sunderland,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Giedrius_Arlauskis,Watford,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Adam_Matthews,Sunderland,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Jonathan_Williams,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
-James_Husband,Middlesbrough,0,DEF,0,0,0,0,0,3,0,0,0,0,0
-Tokelo_Rantie,Bournemouth,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Emerson_Hyndman,Bournemouth,0,MID,0,0,0,0,0,0,0,0,0,0,0
-James_Chester,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Gerhard_Tremmel,Swansea,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Mohamed_Diamé,Hull,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Samuel_Shashoua,Spurs,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Carl_Stewart,Watford,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Matt_Macey,Arsenal,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Olayinka Fredrick Oladotun_Ladapo,Crystal Palace,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Oleksandr_Zinchenko,Man City,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Mateusz_Hewelt,Everton,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Olufela_Olomola,Southampton,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Oluwaseyi_Ojo,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Oluwatosin_Adarabioyo,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Marvin_Emnes,Swansea,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Carlos_De Pena,Middlesbrough,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Bertrand_Traore,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Pablo_Maffeo,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Mario_Suárez,Watford,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Mario_Balotelli,Liverpool,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Marcus_Browne,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Charlie_Rowan,Watford,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Chris_Long,Burnley,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Ben_Wynter,Crystal Palace,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Pau_López Sabata,Spurs,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Matt_Miazga,Chelsea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Noor_Husin,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Sam_Surridge,Bournemouth,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Nabil_Bentaleb,Spurs,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Molla_Wagué,Leicester,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Brian_Lenihan,Hull,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Moses_Makasi,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Moses_Odubajo,Hull,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Mouez_Hassen,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Michael_Simões Domingues,Sunderland,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Michael_Phillips,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Muhamed_Besic,Everton,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Michael_Ledger,Sunderland,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Cameron_Carter-Vickers,Spurs,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Brice_Dja Djédjé,Watford,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Callum_McManaman,West Brom,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Nathan_Holland,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Matthew_Willock,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Cameron_Borthwick-Jackson,Man Utd,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Cameron_Brannagan,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Boaz_Myhill,West Brom,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Nick_Pope,Burnley,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Marco_Van Ginkel,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Paulo_Gazzaniga,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Pedro_Chirivella,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Juan_Cuadrado,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Kieran_O'Hara,Man Utd,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Cristian_Gamboa,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Keshi_Anderson,Crystal Palace,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Kane_Wilson,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Rouwen_Hennings,Burnley,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Dael_Fry,Middlesbrough,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Julien_de Sart,Middlesbrough,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Julian_Speroni,Crystal Palace,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Juan Carlos_Paredes,Watford,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Marc_Wilson,West Brom,0,DEF,0,0,0,3,0,7,0,0,0,0,0
-Josh_Robson,Sunderland,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Josh_Maja,Sunderland,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Angus_Gunn,Man City,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Josh_Cullen,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Joseph_Gomez,Liverpool,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Jose Luis_Mato Sanmartín,Stoke,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Jose Angel_Esmoris Tasende,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Daniel_Batty,Hull,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Connor_Roberts,Swansea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Connor_Randall,Liverpool,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Clinton_N'Jie,Spurs,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Lloyd_Isgrove,Southampton,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Ben_Hinchcliffe,Hull,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Ben_Hamer,Leicester,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Chuba_Akpom,Arsenal,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Bastian_Schweinsteiger,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Mamadou Obbi_Oularé,Watford,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Bartosz_Kapustka,Leicester,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Maksymilian_Stryjek,Sunderland,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Luke_McGee,Spurs,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Luke_Dreher,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Raphael_Spiegel,West Ham,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Reece_Burke,West Ham,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Reece_Oxford,West Ham,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Rekeem_Harper,West Brom,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Rene_Gilmartin,Watford,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Rhian_Brewster,Liverpool,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Ritchie_de Laet,Leicester,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Bafétimbi_Gomis,Swansea,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Josh_Clackstone,Hull,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Alexis_Sánchez,All Teams,264,MID,24,11,13,6,0,41,0,1,0,0,32
-Bamidele_Alli,All Teams,225,MID,18,11,17,4,0,22,0,0,0,0,17
-Harry_Kane,All Teams,224,FWD,29,7,14,3,0,19,0,1,0,0,33
-Eden_Hazard,All Teams,224,MID,16,9,17,3,0,29,0,1,0,0,33
-Romelu_Lukaku,All Teams,221,FWD,25,6,13,3,0,42,0,0,0,0,33
-Christian_Eriksen,All Teams,218,MID,8,20,16,0,0,24,0,0,0,0,30
-Kevin_De Bruyne,All Teams,199,MID,6,21,11,4,0,34,0,1,0,0,33
-Diego_Da Silva Costa,All Teams,196,FWD,20,11,14,10,0,30,0,1,0,0,25
-Gylfi_Sigurdsson,All Teams,181,MID,9,13,7,2,0,70,0,0,0,0,18
-Roberto_Firmino,All Teams,180,MID,11,11,11,5,0,39,0,0,0,0,17
-Gary_Cahill,All Teams,178,DEF,6,0,17,5,0,29,1,0,0,0,15
-Joshua_King,All Teams,178,MID,16,3,9,1,0,54,0,1,0,0,17
-Marcos_Alonso,All Teams,177,DEF,6,5,15,2,0,19,0,0,0,0,11
-Sergio_Agüero,All Teams,175,FWD,20,5,8,4,1,30,0,1,0,0,32
-Heung-Min_Son,All Teams,174,MID,14,9,10,2,0,18,0,0,0,0,13
-Philippe_Coutinho,All Teams,171,MID,13,8,8,2,0,27,0,0,0,0,21
-César_Azpilicueta,All Teams,170,DEF,1,5,16,4,0,33,0,0,0,0,22
-Mesut_Özil,All Teams,167,MID,8,11,12,2,0,30,0,0,0,0,19
-Jermain_Defoe,All Teams,166,FWD,15,3,6,1,0,63,0,0,0,0,24
-Zlatan_Ibrahimovic,All Teams,163,FWD,17,7,11,7,0,22,0,1,0,0,28
-Pedro_Rodríguez Ledesma,All Teams,162,MID,9,10,15,6,0,15,0,0,0,0,18
-Jamie_Vardy,All Teams,161,FWD,13,8,7,2,1,57,0,0,0,0,24
-Sadio_Mané,All Teams,156,MID,13,7,8,4,0,26,0,0,0,0,14
-Raheem_Sterling,All Teams,149,MID,7,14,9,7,0,27,0,0,0,0,11
-Wilfried_Zaha,All Teams,149,MID,7,11,7,8,0,56,0,0,0,0,13
-Tom_Heaton,All Teams,149,GK,0,0,10,1,0,48,0,0,1,142,21
-Georginio_Wijnaldum,All Teams,149,MID,6,9,11,2,0,37,0,0,0,0,14
-Fernando_Llorente,All Teams,146,FWD,15,3,5,2,0,51,0,0,0,0,22
-Ross_Barkley,All Teams,144,MID,5,11,12,5,0,36,0,0,0,0,11
-Hugo_Lloris,All Teams,143,GK,0,0,15,0,0,24,0,0,0,78,6
-Kyle_Walker,All Teams,142,DEF,0,6,14,8,0,21,0,0,0,0,18
-Thibaut_Courtois,All Teams,141,GK,0,0,16,1,0,28,0,0,0,69,0
-James_Milner,All Teams,139,MID,7,4,12,5,0,35,0,1,0,0,16
-Adam_Lallana,All Teams,139,MID,8,7,9,3,0,32,0,0,0,0,14
-David_de Gea,All Teams,136,GK,0,0,14,2,0,29,0,0,0,74,5
-Christian_Benteke,All Teams,136,FWD,15,2,7,10,0,58,0,2,0,0,13
-Leighton_Baines,All Teams,135,DEF,2,5,11,4,0,34,0,1,0,0,15
-Petr_Cech,All Teams,134,GK,0,0,12,2,0,37,1,0,0,115,2
-Fraser_Forster,All Teams,134,GK,0,0,14,3,0,48,0,0,1,76,4
-Charlie_Daniels,All Teams,134,DEF,4,3,10,1,0,53,0,0,0,0,14
-Seamus_Coleman,All Teams,133,DEF,4,4,10,3,0,28,0,0,0,0,15
-Robert_Snodgrass,All Teams,133,MID,7,6,3,2,0,56,0,0,0,0,16
-Manuel_Lanzini,All Teams,133,MID,8,3,9,9,0,53,0,0,0,0,20
-Michail_Antonio,All Teams,132,MID,9,8,7,4,1,43,0,0,0,0,8
-David_Luiz Moreira Marinho,All Teams,132,DEF,1,1,15,6,0,26,0,0,0,0,10
-Gareth_McAuley,All Teams,131,DEF,6,1,7,5,0,45,1,0,0,0,14
-Etienne_Capoue,All Teams,131,MID,7,2,7,5,0,60,0,0,0,0,14
-David_Silva,All Teams,130,MID,4,9,12,6,0,32,0,0,0,0,12
-Álvaro_Negredo,All Teams,130,FWD,9,5,10,5,0,45,0,0,0,0,17
-Troy_Deeney,All Teams,130,FWD,10,4,6,7,0,52,1,0,0,0,18
-Nathaniel_Clyne,All Teams,129,DEF,0,2,12,0,0,41,0,0,0,0,13
-Ashley_Williams,All Teams,127,DEF,1,3,13,7,1,40,0,0,0,0,9
-Nathan_Redmond,All Teams,126,MID,7,1,12,2,1,40,0,0,0,0,13
-Jan_Vertonghen,All Teams,126,DEF,0,0,15,5,0,21,0,0,0,0,8
-Ryan_Bertrand,All Teams,123,DEF,2,5,12,3,0,36,0,0,0,0,9
-Theo_Walcott,All Teams,122,MID,10,3,8,1,0,26,0,1,0,0,7
-Cesc_Fàbregas,All Teams,121,MID,5,15,4,8,0,14,0,0,0,0,14
-Laurent_Koscielny,All Teams,121,DEF,2,1,10,4,1,37,0,0,0,0,19
-Ben_Gibson,All Teams,121,DEF,1,1,11,4,0,53,0,0,0,0,14
-Sam_Vokes,All Teams,121,FWD,10,4,5,0,0,34,0,0,0,0,12
-Antonio_Valencia,All Teams,120,DEF,1,3,12,5,0,20,0,0,0,0,9
-Toby_Alderweireld,All Teams,120,DEF,1,0,14,1,0,17,0,0,0,0,4
-Riyad_Mahrez,All Teams,120,MID,6,4,9,4,0,48,0,2,0,0,9
-Artur_Boruc,All Teams,120,GK,0,0,9,2,0,63,0,0,2,115,7
-Kevin_Mirallas,All Teams,119,MID,4,8,11,2,0,26,0,0,0,0,8
-Héctor_Bellerín,All Teams,119,DEF,1,5,10,4,0,34,0,0,0,0,12
-Joe_Allen,All Teams,118,MID,6,3,10,9,0,49,0,0,0,0,10
-Salomón_Rondón,All Teams,118,FWD,8,3,6,2,0,44,0,0,0,0,10
-Marko_Arnautovic,All Teams,117,MID,6,7,9,9,1,43,0,1,0,0,8
-Lukasz_Fabianski,All Teams,116,GK,0,0,8,1,0,69,0,0,1,117,8
-Olivier_Giroud,All Teams,116,FWD,12,5,4,2,0,16,0,0,0,0,17
-Andros_Townsend,All Teams,116,MID,3,7,7,4,0,38,0,0,0,0,16
-Matt_Phillips,All Teams,115,MID,4,9,6,2,0,28,0,0,0,0,12
-Paul_Pogba,All Teams,115,MID,5,4,13,7,0,21,0,0,0,0,14
-Nacho_Monreal,All Teams,115,DEF,0,3,11,5,0,43,0,0,0,0,9
-Willian_Borges Da Silva,All Teams,114,MID,8,3,6,3,0,19,0,0,0,0,13
-Michael_Keane,All Teams,113,DEF,2,1,10,4,0,49,0,0,0,0,10
-Ben_Foster,All Teams,113,GK,0,0,6,2,0,51,0,0,0,115,4
-Heurelho_Gomes,All Teams,113,GK,0,0,7,1,0,64,1,0,1,117,6
-Steve_Cook,All Teams,112,DEF,2,0,10,5,0,67,1,0,0,0,17
-Simon_Mignolet,All Teams,110,GK,0,0,9,0,0,30,0,0,2,52,7
-Nacer_Chadli,All Teams,110,MID,5,6,6,2,0,32,0,0,0,0,8
-Kasper_Schmeichel,All Teams,109,GK,0,0,8,1,0,47,0,0,0,113,10
-Andre_Gray,All Teams,108,FWD,9,3,8,2,0,33,0,0,0,0,10
-Dusan_Tadic,All Teams,108,MID,3,7,13,4,0,29,0,1,0,0,4
-Junior_Stanislas,All Teams,107,MID,7,6,4,1,0,29,0,0,0,0,13
-Dejan_Lovren,All Teams,106,DEF,2,1,11,6,0,31,0,0,0,0,6
-Bruno_Martins Indi,All Teams,106,DEF,1,0,11,4,0,50,0,0,0,0,9
-Lee_Grant,All Teams,106,GK,0,0,9,1,0,34,0,0,0,91,9
-Leroy_Sané,All Teams,105,MID,5,7,9,4,0,15,0,0,0,0,8
-Victor_Moses,All Teams,105,MID,3,3,17,4,0,15,0,0,0,0,6
-Eric_Bailly,All Teams,105,DEF,0,0,13,4,0,15,0,0,0,0,14
-Nemanja_Matic,All Teams,105,MID,1,8,15,4,0,24,0,0,0,0,1
-Adam_Smith,All Teams,104,DEF,1,5,8,6,0,61,1,0,0,0,12
-Emre_Can,All Teams,104,MID,5,2,9,6,0,28,0,0,0,0,12
-Phil_Jagielka,All Teams,104,DEF,3,3,6,4,1,32,0,0,0,0,16
-Christian_Fuchs,All Teams,104,DEF,2,4,8,10,0,57,0,0,0,0,10
-Victor_Wanyama,All Teams,103,MID,4,2,12,10,0,25,0,0,0,0,7
-Darren_Fletcher,All Teams,103,MID,2,3,8,0,0,45,0,0,0,0,2
-Erik_Pieters,All Teams,103,DEF,0,2,10,5,0,50,0,0,0,0,9
-Craig_Dawson,All Teams,102,DEF,4,0,6,10,0,50,0,0,0,0,6
-Cédric_Soares,All Teams,102,DEF,0,3,11,7,0,36,0,0,0,0,11
-Jordan_Pickford,All Teams,102,GK,0,0,4,0,0,50,0,0,0,135,9
-Winston_Reid,All Teams,102,DEF,2,3,9,8,1,48,0,0,0,0,16
-Juan_Mata,All Teams,102,MID,6,3,10,3,0,16,1,0,0,0,14
-Víctor_Valdés,All Teams,102,GK,0,0,8,1,0,36,0,0,0,79,10
-Ryan_Fraser,All Teams,100,MID,3,9,7,3,0,32,0,0,0,0,8
-Nicolás_Otamendi,All Teams,100,DEF,1,2,9,9,0,28,0,0,0,0,10
-Chris_Brunt,All Teams,99,DEF,3,4,4,5,0,37,0,0,0,0,11
-Jose_Fonte,All Teams,98,DEF,0,0,11,4,0,46,0,0,0,0,10
-Daley_Blind,All Teams,98,DEF,1,2,9,2,0,17,0,0,0,0,14
-Patrick_van Aanholt,All Teams,98,DEF,5,1,5,3,0,53,0,0,0,0,9
-Ander_Herrera,All Teams,97,MID,1,6,13,5,1,18,0,0,0,0,11
-Joel_Matip,All Teams,97,DEF,1,0,9,3,0,25,0,0,0,0,7
-Divock_Origi,All Teams,96,FWD,7,4,7,0,0,18,0,0,0,0,8
-Anthony_Martial,All Teams,95,MID,4,6,9,2,0,13,0,0,0,0,9
-Marc_Albrighton,All Teams,95,MID,2,6,8,5,0,47,0,0,0,0,3
-Aleksandar_Kolarov,All Teams,95,DEF,1,1,9,6,0,27,1,0,0,0,7
-Leroy_Fer,All Teams,95,MID,6,2,4,9,0,49,0,0,0,0,5
-Ryan_Shawcross,All Teams,94,DEF,1,2,9,6,0,53,2,0,0,0,6
-Alfie_Mawson,All Teams,94,DEF,4,0,7,1,0,45,2,0,0,0,9
-Ben_Mee,All Teams,94,DEF,1,2,9,5,0,49,2,0,0,0,6
-Eric_Dier,All Teams,93,MID,2,0,16,6,0,24,0,0,0,0,4
-James_McArthur,All Teams,93,MID,5,3,3,5,0,39,0,0,0,0,8
-Jason_Puncheon,All Teams,92,MID,0,6,7,9,0,53,0,0,0,0,6
-James_Ward-Prowse,All Teams,92,MID,4,4,9,4,0,26,0,0,0,0,5
-Wayne_Hennessey,All Teams,92,GK,0,0,7,1,0,46,0,0,0,83,4
-George_Boyd,All Teams,92,MID,2,2,9,3,0,45,0,0,0,0,2
-Marten_de Roon,All Teams,91,MID,4,1,8,8,0,44,0,0,0,0,5
-Stephen_Ward,All Teams,91,DEF,1,1,8,5,0,53,0,0,0,0,3
-Yohan_Cabaye,All Teams,91,MID,4,4,7,7,0,41,0,1,0,0,6
-Shkodran_Mustafi,All Teams,90,DEF,2,2,8,11,0,30,0,0,0,0,8
-Ben_Davies,All Teams,90,DEF,1,3,8,1,0,13,0,0,0,0,5
-Matthew_Lowton,All Teams,90,DEF,0,2,9,9,0,53,0,0,0,0,5
-Alex_Iwobi,All Teams,89,MID,3,5,9,1,0,20,0,0,0,0,8
-André_Ayew,All Teams,89,MID,6,3,6,1,0,25,0,0,0,0,5
-Simon_Francis,All Teams,89,DEF,0,1,10,4,1,54,0,0,0,0,7
-Joel_Robles,All Teams,89,GK,0,1,10,2,0,20,0,0,0,54,5
-Robert_Huth,All Teams,88,DEF,2,2,9,9,0,49,2,0,0,0,1
-Benik_Afobe,All Teams,88,FWD,6,5,5,1,0,24,0,1,0,0,9
-José_Holebas,All Teams,87,DEF,2,4,7,14,0,61,0,0,0,0,9
-Sam_Clucas,All Teams,87,MID,3,1,5,9,1,75,0,0,0,0,4
-Gaël_Clichy,All Teams,87,DEF,1,0,8,2,0,24,0,0,0,0,9
-Joel_Ward,All Teams,86,DEF,0,1,7,7,0,63,0,0,0,0,7
-Gnegneri Yaya_Touré,All Teams,86,MID,5,0,12,4,0,17,0,0,0,0,6
-Eldin_Jakupovic,All Teams,86,GK,0,0,5,0,0,36,0,0,2,73,7
-Danny_Simpson,All Teams,85,DEF,0,3,9,12,0,50,0,0,0,0,4
-Granit_Xhaka,All Teams,85,MID,2,3,10,5,2,32,0,0,0,0,7
-Harry_Arter,All Teams,84,MID,1,4,9,11,1,62,0,1,0,0,6
-Danny_Rose,All Teams,84,DEF,2,3,8,8,0,11,0,0,0,0,6
-James_Morrison,All Teams,84,MID,5,2,4,3,0,22,0,0,0,0,4
-Calum_Chambers,All Teams,83,DEF,2,1,7,4,0,37,0,0,0,0,7
-Islam_Slimani,All Teams,83,FWD,7,4,5,1,0,23,0,0,0,0,9
-N'Golo_Kanté,All Teams,83,MID,1,1,13,9,0,33,0,0,0,0,1
-Alex_Oxlade-Chamberlain,All Teams,83,MID,2,7,4,1,0,22,0,0,0,0,3
-Kyle_Naughton,All Teams,82,DEF,1,0,8,5,0,48,1,0,0,0,7
-Ashley_Barnes,All Teams,81,FWD,6,3,6,6,1,27,0,0,0,0,10
-Dimitri_Payet,All Teams,81,MID,2,8,4,2,0,28,0,0,0,0,10
-Idrissa_Gueye,All Teams,80,MID,1,2,9,11,0,31,0,0,0,0,9
-Xherdan_Shaqiri,All Teams,80,MID,4,2,8,2,0,21,0,0,0,0,8
-Oriol_Romeu Vidal,All Teams,80,MID,1,0,13,11,0,42,0,0,0,0,4
-Jonny_Evans,All Teams,79,DEF,2,1,4,8,0,39,0,0,0,0,7
-Peter_Crouch,All Teams,79,FWD,7,3,4,3,0,23,0,0,0,0,7
-Cheikhou_Kouyaté,All Teams,79,MID,1,1,9,3,0,46,0,0,0,0,3
-Fernando_Luiz Rosa,All Teams,78,MID,2,1,10,4,2,27,0,0,0,0,3
-Maya_Yoshida,All Teams,78,DEF,1,1,7,2,0,32,0,0,0,0,8
-Adam_Forshaw,All Teams,77,MID,0,2,9,4,0,36,0,0,0,0,3
-Jake_Livermore,All Teams,77,MID,1,1,4,5,1,62,0,0,0,0,2
-Marcos_Rojo,All Teams,77,DEF,1,0,8,5,0,13,0,0,0,0,7
-Steven_Davis,All Teams,77,MID,0,3,10,3,0,37,0,0,0,0,0
-Stewart_Downing,All Teams,77,MID,1,3,7,1,0,39,0,0,0,0,3
-Jeff_Hendrick,All Teams,76,MID,2,1,9,6,1,47,0,0,0,0,1
-Marcus_Rashford,All Teams,76,FWD,5,3,7,3,0,15,0,0,0,0,2
-Mousa_Dembélé,All Teams,76,MID,1,2,11,5,0,17,0,0,0,0,6
-Wayne_Rooney,All Teams,76,FWD,5,5,6,8,0,16,0,0,0,0,9
-Virgil_van Dijk,All Teams,75,DEF,1,0,7,3,1,23,0,0,0,0,14
-James_Tomkins,All Teams,75,DEF,3,0,6,4,0,36,0,0,0,0,5
-Allan-Roméo_Nyom,All Teams,74,DEF,0,2,5,8,0,39,0,0,0,0,6
-Wayne_Routledge,All Teams,74,MID,3,2,5,1,0,42,0,0,0,0,2
-Henrikh_Mkhitaryan,All Teams,73,MID,4,1,10,1,0,8,0,0,0,0,3
-Jordan_Henderson,All Teams,73,MID,1,4,7,8,0,28,0,0,0,0,9
-Jay_Rodriguez,All Teams,73,MID,5,2,3,0,0,15,0,0,0,0,8
-Andrew_Robertson,All Teams,73,DEF,1,2,5,5,0,59,0,0,0,0,4
-Claudio_Bravo,All Teams,73,GK,0,0,6,0,0,26,0,0,1,33,3
-Jonathan_Walters,All Teams,72,MID,4,3,6,1,0,22,0,0,0,0,3
-Abel_Hernández,All Teams,72,FWD,4,4,4,0,0,23,0,0,0,0,6
-Harry_Maguire,All Teams,71,DEF,2,3,4,5,0,53,0,0,0,0,5
-Antonio_Barragán,All Teams,71,DEF,0,0,7,5,0,32,0,0,0,0,8
-Miguel_Britos,All Teams,71,DEF,1,2,6,6,2,36,0,0,0,0,8
-Mark_Noble,All Teams,71,MID,3,0,8,10,0,40,0,1,0,0,5
-Adam_Clayton,All Teams,70,MID,0,2,10,10,0,45,0,0,0,0,0
-Matteo_Darmian,All Teams,70,DEF,0,0,9,3,0,8,0,0,0,0,6
-Lamine_Koné,All Teams,69,DEF,1,0,5,4,0,46,0,0,0,0,5
-Andy_Carroll,All Teams,69,FWD,7,2,3,3,0,27,0,0,0,0,6
-James_Collins,All Teams,69,DEF,2,0,6,3,0,29,0,0,0,0,7
-Darren_Randolph,All Teams,69,GK,0,0,4,1,0,39,0,0,1,64,5
-Scott_Arfield,All Teams,69,MID,1,2,6,3,0,36,0,0,0,0,3
-Daniel_Drinkwater,All Teams,69,MID,1,1,8,6,0,44,0,0,0,0,3
-Ramiro_Funes Mori,All Teams,69,DEF,0,1,7,0,0,19,0,0,0,0,4
-Maarten_Stekelenburg,All Teams,68,GK,0,0,4,2,0,24,1,0,2,43,3
-Gareth_Barry,All Teams,68,MID,2,1,7,10,0,28,0,0,0,0,3
-Gabriel Fernando_de Jesus,All Teams,67,FWD,7,4,3,2,0,5,0,0,0,0,12
-Sebastian_Prödl,All Teams,67,DEF,1,2,5,10,1,49,0,0,0,0,3
-Didier_Ndong,All Teams,67,MID,1,1,5,5,0,48,0,0,0,0,1
-Nordin_Amrabat,All Teams,65,MID,0,3,4,4,0,51,0,0,0,0,5
-Marc_Pugh,All Teams,64,MID,2,3,5,1,0,24,0,0,0,0,6
-Adrián_San Miguel del Castillo,All Teams,64,GK,0,0,6,1,0,25,0,0,0,53,6
-Willy_Caballero,All Teams,64,GK,0,0,6,0,0,13,0,0,1,31,1
-Shinji_Okazaki,All Teams,63,FWD,3,1,7,1,0,26,0,0,0,0,3
-Wes_Morgan,All Teams,63,DEF,1,1,5,3,0,45,0,0,0,0,0
-Federico_Fernández,All Teams,63,DEF,0,1,6,7,0,41,0,0,0,0,4
-Callum_Wilson,All Teams,63,FWD,6,1,6,0,0,25,0,0,0,0,2
-Tom_Davies,All Teams,63,MID,2,3,8,4,0,17,0,0,0,0,0
-Tom_Huddlestone,All Teams,62,MID,1,2,4,5,1,47,1,0,0,0,5
-Ahmed_Elmohamady,All Teams,62,MID,0,2,3,3,1,63,1,0,0,0,1
-Charlie_Austin,All Teams,62,FWD,6,1,6,1,0,8,0,0,0,0,10
-Glenn_Whelan,All Teams,62,MID,0,1,7,5,0,40,1,0,0,0,3
-Jack_Wilshere,All Teams,61,MID,0,3,5,4,0,45,0,0,0,0,2
-Scott_Dann,All Teams,61,DEF,3,1,2,2,0,36,0,0,0,0,4
-Jesse_Lingard,All Teams,60,MID,1,3,7,3,0,12,0,0,0,0,3
-Jack_Stephens,All Teams,60,DEF,0,1,6,1,0,24,0,0,0,0,10
-Aaron_Cresswell,All Teams,60,DEF,0,2,5,2,1,35,0,0,0,0,1
-John_Stones,All Teams,59,DEF,0,0,4,1,0,29,0,0,0,0,4
-Charlie_Adam,All Teams,59,MID,1,4,6,7,0,23,0,0,0,0,5
-Wilfred_Ndidi,All Teams,59,MID,2,3,4,0,0,28,0,0,0,0,2
-George_Friend,All Teams,59,DEF,0,3,4,4,0,35,0,0,0,0,6
-Gastón_Ramírez,All Teams,59,MID,2,3,6,8,1,22,0,0,0,0,6
-Demarai_Gray,All Teams,58,MID,1,4,4,2,0,20,0,0,0,0,0
-Fabio Pereira_da Silva,All Teams,58,DEF,0,0,6,8,0,30,0,0,0,0,8
-Geoff_Cameron,All Teams,58,DEF,0,1,6,1,0,25,0,0,0,0,5
-Shane_Long,All Teams,57,FWD,3,2,2,2,0,23,0,1,0,0,2
-Vincent_Kompany,All Teams,57,DEF,3,0,5,5,0,6,0,0,0,0,6
-Younes_Kaboul,All Teams,57,DEF,2,0,4,2,0,36,0,0,0,0,1
-Billy_Jones,All Teams,56,DEF,1,0,5,8,0,49,0,0,0,0,6
-Aaron_Ramsey,All Teams,56,MID,1,4,4,3,0,20,0,0,0,0,3
-Glen_Johnson,All Teams,56,DEF,0,0,6,1,0,34,0,0,0,0,3
-Jason_Denayer,All Teams,56,DEF,0,0,6,2,0,30,1,0,0,0,2
-Bacary_Sagna,All Teams,55,DEF,0,1,6,2,0,14,0,0,0,0,3
-Vincent_Janssen,All Teams,55,FWD,2,3,3,0,0,8,0,0,0,0,3
-Sofiane_Feghouli,All Teams,55,MID,3,3,1,1,1,23,0,0,0,0,4
-Pedro_Obiang,All Teams,55,MID,1,2,4,7,0,32,0,0,0,0,6
-Andrea_Ranocchia,All Teams,55,DEF,2,2,3,2,0,31,0,0,0,0,9
-Nathan_Aké,All Teams,55,DEF,3,1,3,1,0,20,0,0,0,0,8
-Tom_Cleverley,All Teams,55,MID,0,3,3,4,0,40,0,0,0,0,0
-Phil_Jones,All Teams,55,DEF,0,0,5,2,0,14,0,0,0,0,4
-Claudio_Yacob,All Teams,54,MID,0,0,4,9,0,36,0,0,0,0,0
-Daniel_Sturridge,All Teams,54,FWD,3,5,3,1,0,7,0,0,0,0,2
-Steven_Defour,All Teams,54,MID,1,3,5,1,0,13,0,0,0,0,6
-Enner_Valencia,All Teams,54,FWD,3,3,2,1,0,12,0,0,0,0,3
-Cristhian_Stuani,All Teams,54,FWD,4,0,4,4,0,15,0,0,0,0,4
-Mason_Holgate,All Teams,54,DEF,0,1,5,2,0,18,0,0,0,0,5
-Manuel_Agudo Durán,All Teams,54,MID,4,3,3,3,1,7,0,0,0,0,2
-Daniel_Amartey,All Teams,53,MID,1,1,4,3,0,35,0,0,0,0,3
-Kelechi_Iheanacho,All Teams,52,FWD,4,3,1,0,0,9,0,0,0,0,6
-Chris_Smalling,All Teams,52,DEF,1,1,4,0,0,16,0,0,0,0,1
-Adama_Traoré,All Teams,52,MID,0,1,6,1,0,22,0,0,0,0,2
-Martin_Olsson,All Teams,52,DEF,2,0,4,2,0,18,0,0,0,0,3
-Tom_Carroll,All Teams,52,MID,1,2,5,1,0,18,0,0,0,0,4
-Francis_Coquelin,All Teams,52,MID,0,1,5,5,0,27,0,0,0,0,1
-James_McClean,All Teams,52,MID,1,3,2,9,0,24,0,0,0,0,1
-Hal_Robson-Kanu,All Teams,52,FWD,3,2,1,3,0,13,0,0,0,0,3
-Kieran_Trippier,All Teams,51,DEF,0,5,3,1,0,3,0,0,0,0,7
-Dean_Marney,All Teams,51,MID,1,2,5,7,0,28,0,0,0,0,1
-Mame Biram_Diouf,All Teams,51,FWD,1,2,5,3,0,26,0,0,0,0,2
-Damien_Delaney,All Teams,51,DEF,0,2,3,8,0,39,0,0,0,0,3
-Daryl_Janmaat,All Teams,50,DEF,2,1,2,2,0,33,0,0,0,0,0
-Jack_Cork,All Teams,50,MID,0,1,3,7,0,51,2,0,0,0,0
-Adnan_Januzaj,All Teams,49,MID,0,3,3,3,1,38,0,0,0,0,0
-Fabio_Borini,All Teams,49,FWD,2,0,5,5,0,34,0,0,0,0,3
-M'Baye_Niang,All Teams,49,FWD,2,2,3,2,0,27,0,0,0,0,6
-Dan_Gosling,All Teams,49,MID,2,0,4,6,0,24,0,0,0,0,2
-Victor_Anichebe,All Teams,48,FWD,3,1,3,2,0,21,0,0,0,0,5
-Valon_Behrami,All Teams,48,MID,0,0,5,7,0,39,0,0,0,0,0
-Jesús_Navas,All Teams,48,MID,0,3,2,2,0,17,0,0,0,0,6
-Marouane_Fellaini,All Teams,48,MID,1,0,10,8,1,14,0,0,0,0,0
-Michy_Batshuayi,All Teams,48,FWD,5,1,0,0,0,3,0,0,0,0,4
-Johann Berg_Gudmundsson,All Teams,47,MID,1,3,3,1,0,19,0,0,0,0,3
-Leiva_Lucas,All Teams,47,MID,0,3,4,4,0,17,0,0,0,0,2
-Jeffrey_Schlupp,All Teams,47,DEF,0,2,3,0,0,17,0,0,0,0,4
-John_O'Shea,All Teams,47,DEF,0,1,3,5,0,42,0,0,0,0,3
-Martin_Kelly,All Teams,46,DEF,0,2,2,4,0,44,0,0,0,0,0
-Michael_Dawson,All Teams,46,DEF,3,0,1,4,0,44,1,0,0,0,4
-Kieran_Gibbs,All Teams,45,DEF,0,1,6,3,0,3,0,0,0,0,3
-Luke_Shaw,All Teams,45,DEF,0,3,4,1,0,6,0,0,0,0,4
-Yannick_Bolasie,All Teams,45,MID,1,4,3,3,0,14,0,0,0,0,3
-Gabriel Armando_de Abreu,All Teams,45,DEF,0,0,5,6,0,18,0,0,0,0,2
-Pablo_Zabaleta,All Teams,45,DEF,1,1,2,2,0,18,0,0,0,0,5
-Angelo_Ogbonna,All Teams,45,DEF,0,0,4,2,0,31,0,0,0,0,2
-Oumar_Niasse,All Teams,44,FWD,4,1,2,3,1,30,0,0,0,0,3
-Andrew_Surman,All Teams,44,MID,0,1,4,1,1,38,0,0,0,0,0
-Ragnar_Klavan,All Teams,43,DEF,0,0,3,3,0,19,0,0,0,0,4
-Moussa_Sissoko,All Teams,43,MID,0,3,4,3,0,5,0,0,0,0,0
-Kamil_Grosicki,All Teams,43,MID,0,5,3,1,0,27,0,0,0,0,0
-Stefano_Okaka,All Teams,43,FWD,4,0,2,5,0,23,0,0,0,0,3
-Duncan_Watmore,All Teams,43,MID,0,5,2,1,0,20,0,0,0,0,1
-Roberto_Pereyra,All Teams,43,MID,2,3,3,2,1,17,0,0,0,0,2
-Michael_Carrick,All Teams,42,MID,0,0,5,2,0,14,0,0,0,0,0
-Luka_Milivojevic,All Teams,42,MID,2,0,5,4,0,16,0,0,0,0,3
-Adama_Diomande,All Teams,42,FWD,2,0,2,1,0,29,0,0,0,0,2
-Andy_King,All Teams,41,MID,1,0,1,4,0,26,0,0,0,0,1
-Sung-yueng_Ki,All Teams,41,MID,0,1,4,3,0,28,0,0,0,0,0
-Ilkay_Gündogan,All Teams,41,MID,3,1,3,0,0,8,0,0,0,0,2
-Sofiane_Boufal,All Teams,40,MID,1,1,3,5,0,22,0,0,0,0,1
-Joe_Ledley,All Teams,40,MID,1,1,2,1,0,26,0,0,0,0,1
-Sebastian_Larsson,All Teams,40,MID,0,3,3,4,1,35,0,0,0,0,0
-Jordan_Ayew,All Teams,39,FWD,1,4,5,1,0,7,0,0,0,0,2
-Odion_Ighalo,All Teams,39,FWD,1,1,2,1,0,29,0,0,0,0,2
-Robbie_Brady,All Teams,39,MID,1,3,1,1,0,11,0,0,0,0,4
-Ahmed_Musa,All Teams,39,FWD,2,0,1,1,0,20,0,0,0,0,5
-Santiago_Cazorla,All Teams,38,MID,2,2,4,2,0,5,0,0,0,0,5
-Juan_Zuñiga,All Teams,38,DEF,1,1,1,1,0,15,0,0,0,0,2
-Curtis_Davies,All Teams,38,DEF,0,2,1,4,0,53,1,0,0,0,3
-Jordy_Clasie,All Teams,38,MID,1,1,2,3,0,15,0,0,0,0,3
-Edimilson_Fernandes,All Teams,38,MID,0,1,3,4,0,18,0,0,0,0,0
-Abdoulaye_Doucouré,All Teams,38,MID,1,0,4,4,0,32,0,0,0,0,0
-Javier_Manquillo,All Teams,38,DEF,1,0,2,2,0,28,0,0,0,0,0
-Pierre-Emile_Højbjerg,All Teams,38,MID,0,0,6,2,0,16,0,0,0,0,0
-Jack_Rodwell,All Teams,38,MID,0,1,2,4,0,32,0,0,0,0,1
-Manolo_Gabbiadini,All Teams,38,FWD,4,1,3,1,0,12,0,1,0,0,4
-Lazar_Markovic,All Teams,37,MID,2,0,5,4,0,15,0,0,0,0,2
-Danny_Welbeck,All Teams,37,FWD,2,2,3,0,0,11,0,0,0,0,0
-Joey_Barton,All Teams,37,MID,1,2,4,4,0,16,0,0,0,0,0
-Morgan_Schneiderlin,All Teams,37,MID,1,0,5,2,0,14,0,0,0,0,1
-Bradley_Guzan,All Teams,36,GK,0,0,3,0,0,17,0,0,0,37,3
-Jordon_Ibe,All Teams,36,MID,0,0,3,0,0,22,0,0,0,0,0
-Ramadan_Sobhi,All Teams,36,MID,0,2,5,2,0,11,0,0,0,0,1
-Christian_Kabasele,All Teams,35,DEF,2,0,1,1,0,15,0,0,0,0,1
-Mamadou_Sakho,All Teams,35,DEF,0,0,4,0,0,6,0,0,0,0,6
-Bernardo_Espinosa Zúñiga,All Teams,35,DEF,0,0,4,2,0,13,0,0,0,0,3
-Arthur_Masuaku,All Teams,34,DEF,0,1,3,1,0,24,0,0,0,0,7
-Modou_Barrow,All Teams,34,FWD,0,2,4,1,0,23,0,0,0,0,0
-Vito_Mannone,All Teams,34,GK,0,0,2,0,0,19,0,0,0,41,6
-Marc_Muniesa,All Teams,34,DEF,1,0,3,2,0,7,0,0,0,0,3
-Alfred_N'Diaye,All Teams,34,MID,1,0,4,7,0,30,0,0,0,0,2
-David_Meyler,All Teams,33,MID,1,0,2,2,0,23,0,0,0,0,0
-Rob_Holding,All Teams,32,DEF,0,0,4,3,0,8,0,0,0,0,3
-Borja_Bastón,All Teams,32,FWD,1,2,1,0,0,11,0,0,0,0,1
-Leon_Britton,All Teams,32,MID,0,0,5,3,0,24,0,0,0,0,0
-David_Marshall,All Teams,32,GK,0,0,0,0,0,44,1,0,0,63,0
-Loris_Karius,All Teams,32,GK,0,0,3,0,0,12,0,0,0,20,0
-Håvard_Nordtveit,All Teams,31,MID,0,1,3,2,0,20,0,0,0,0,0
-Daniel_Ayala,All Teams,31,DEF,1,0,3,3,0,16,0,0,0,0,0
-Wahbi_Khazri,All Teams,31,MID,1,0,1,6,0,21,0,0,0,0,3
-Craig_Cathcart,All Teams,31,DEF,0,1,2,3,0,21,0,0,0,0,3
-Cuco_Martina,All Teams,31,DEF,0,0,3,0,0,6,0,0,0,0,5
-Bojan_Krkic,All Teams,30,MID,3,0,0,1,0,12,0,1,0,0,4
-Harry_Winks,All Teams,30,MID,1,1,0,1,0,6,0,0,0,0,0
-Stephen_Kingsley,All Teams,29,DEF,0,0,3,0,0,20,0,0,0,0,2
-Bryan_Oviedo,All Teams,29,MID,0,0,3,4,0,26,0,0,0,0,0
-Wilfried_Bony,All Teams,29,FWD,2,0,3,1,0,12,0,0,0,0,3
-Sam_Byram,All Teams,29,DEF,0,1,3,5,1,27,0,0,0,0,2
-Erik_Lamela,All Teams,28,MID,1,1,4,1,0,2,0,1,0,0,4
-Grant_Leadbitter,All Teams,28,MID,1,0,3,1,0,12,0,0,0,0,1
-Isaac_Success,All Teams,28,MID,1,1,1,2,0,9,0,0,0,0,0
-Yohan_Benalouane,All Teams,27,DEF,0,0,4,4,0,15,0,0,0,0,0
-Phil_Bardsley,All Teams,27,DEF,0,0,3,4,1,17,0,0,0,0,0
-Dieumerci_Mbokani,All Teams,27,FWD,0,2,3,0,0,16,0,0,0,0,0
-Ashley_Young,All Teams,26,MID,0,1,4,2,0,6,0,0,0,0,1
-Ryan_Mason,All Teams,26,MID,1,0,0,4,0,27,0,0,0,0,0
-Saido_Berahino,All Teams,26,FWD,0,0,4,1,0,13,0,0,0,0,0
-Mohamed_Elneny,All Teams,26,MID,0,1,3,1,0,9,0,0,0,0,0
-Adlène_Guédioura,All Teams,26,MID,0,1,0,2,0,20,0,0,0,0,0
-Angel_Rangel,All Teams,26,DEF,1,0,1,1,0,24,0,0,0,0,1
-Luciano_Narsingh,All Teams,25,MID,0,3,1,0,0,8,0,0,0,0,0
-Viktor_Fischer,All Teams,25,MID,0,3,1,0,0,6,0,0,0,0,0
-Chung-yong_Lee,All Teams,24,MID,0,1,2,0,0,13,0,0,0,0,0
-Papy_Djilobodji,All Teams,24,DEF,0,0,2,4,1,35,0,0,0,0,0
-Leonardo_Ulloa,All Teams,24,FWD,1,0,2,0,0,5,0,0,0,0,1
-Giannelli_Imbula,All Teams,24,MID,0,1,2,1,0,20,1,0,0,0,1
-Shaun_Maloney,All Teams,24,MID,1,2,1,0,0,7,0,0,0,0,2
-James_McCarthy,All Teams,23,MID,1,1,0,2,0,10,0,0,0,0,0
-Jonathan_Calleri,All Teams,23,FWD,1,0,3,0,0,4,0,0,0,0,0
-Branislav_Ivanovic,All Teams,23,DEF,0,1,1,2,0,9,0,0,0,0,2
-James_Tarkowski,All Teams,23,DEF,0,0,1,1,0,11,0,0,0,0,0
-Sergio_Romero,All Teams,23,GK,0,0,2,0,0,0,0,0,1,10,3
-Sam_McQueen,All Teams,23,MID,0,1,1,0,0,9,0,0,0,0,0
-Aaron_Lennon,All Teams,22,MID,0,1,2,0,0,5,0,0,0,0,0
-Neil_Taylor,All Teams,22,DEF,0,1,2,1,0,26,0,0,0,0,0
-Rudy_Gestede,All Teams,21,FWD,1,0,1,3,0,12,0,0,0,0,0
-Patrick_Bamford,All Teams,21,FWD,1,0,0,1,0,8,0,0,0,0,2
-Donald_Love,All Teams,21,DEF,0,1,1,1,0,11,0,0,0,0,1
-Jordi_Amat,All Teams,21,DEF,0,0,2,5,0,36,0,0,0,0,0
-John_Terry,All Teams,21,DEF,1,0,1,1,0,9,0,0,0,0,0
-Jack_Butland,All Teams,20,GK,0,0,2,0,0,8,0,0,0,17,2
-Markus_Henriksen,All Teams,20,MID,0,0,0,1,0,13,0,0,0,0,0
-Lucas_Pérez,All Teams,20,FWD,1,1,1,0,0,2,0,0,0,0,0
-Steve_Mandanda,All Teams,19,GK,0,0,0,0,0,17,0,0,0,24,0
-Jay_Fulton,All Teams,19,MID,0,0,3,2,0,15,0,0,0,0,0
-Benjamin_Chilwell,All Teams,19,DEF,1,0,1,2,0,18,0,0,0,0,0
-Jefferson_Montero,All Teams,18,MID,0,1,0,0,0,9,0,0,0,0,0
-Connor_Wickham,All Teams,18,FWD,2,0,0,1,0,6,0,0,0,0,0
-Evandro_Goebel,All Teams,18,MID,0,0,3,1,0,10,0,0,0,0,0
-Fernando Francisco_Reges,All Teams,18,MID,0,0,1,3,0,10,0,0,0,0,1
-Dominic_Calvert-Lewin,All Teams,17,FWD,1,0,0,1,0,7,0,0,0,0,1
-Lewis_Cook,All Teams,17,MID,0,2,1,1,0,7,0,0,0,0,1
-Oscar_dos Santos Emboaba Junior,All Teams,17,MID,0,1,1,1,0,6,0,0,0,0,0
-Ron-Robert_Zieler,All Teams,17,GK,0,0,1,0,0,16,0,0,0,18,0
-Michel_Vorm,All Teams,17,GK,0,0,2,0,0,2,0,0,0,7,0
-Darron_Gibson,All Teams,17,MID,0,0,1,4,0,12,0,0,0,0,0
-Mike_van der Hoorn,All Teams,16,DEF,1,0,1,1,0,20,0,0,0,0,0
-Ashley_Fletcher,All Teams,16,FWD,0,0,0,2,0,13,0,0,0,0,0
-Ademola_Lookman,All Teams,16,MID,1,0,1,0,0,2,0,0,0,0,0
-Fraizer_Campbell,All Teams,16,FWD,1,0,0,0,0,4,0,0,0,0,0
-Ibrahim_Afellay,All Teams,15,MID,0,0,0,0,0,5,0,0,0,0,0
-Alberto_Moreno,All Teams,15,DEF,0,1,0,1,0,7,0,0,0,0,1
-Steven_Pienaar,All Teams,15,MID,0,0,2,5,1,13,0,0,0,0,0
-Adrian_Mariappa,All Teams,15,DEF,0,0,1,0,0,13,0,0,0,0,3
-Kurt_Zouma,All Teams,15,DEF,0,1,0,0,0,8,0,0,0,0,3
-Lys_Mousset,All Teams,14,FWD,0,1,1,0,0,4,1,0,0,0,0
-Craig_Gardner,All Teams,14,MID,0,1,1,1,0,6,0,0,0,0,0
-Axel_Tuanzebe,All Teams,14,DEF,0,0,2,0,0,4,0,0,0,0,0
-Ashley_Westwood,All Teams,13,MID,0,0,1,3,0,9,0,0,0,0,0
-Gerard_Deulofeu,All Teams,13,MID,0,0,0,1,0,6,0,0,0,0,0
-Shay_Given,All Teams,13,GK,0,0,0,1,0,14,1,0,1,18,3
-Fabian_Delph,All Teams,13,MID,1,0,0,1,0,4,0,0,0,0,0
-Omar_Elabdellaoui,All Teams,13,DEF,0,0,1,0,0,16,0,0,0,0,0
-Joshua_Sims,All Teams,12,MID,0,1,1,0,0,1,0,0,0,0,0
-Lee_Cattermole,All Teams,12,MID,0,0,0,4,0,13,0,0,0,0,0
-Diafra_Sakho,All Teams,12,FWD,1,0,0,0,0,4,0,0,0,0,2
-Mathieu_Flamini,All Teams,12,MID,0,0,0,0,0,6,0,0,0,0,0
-Nathan_Dyer,All Teams,12,MID,0,1,0,0,0,11,0,0,0,0,0
-Matt_Targett,All Teams,12,DEF,0,0,1,0,0,4,0,0,0,0,0
-Patrick_McNair,All Teams,12,DEF,0,0,1,0,0,9,1,0,0,0,0
-Lynden_Gooch,All Teams,12,MID,0,0,1,3,0,9,0,0,0,0,0
-Jonathan_Leko,All Teams,12,MID,0,1,0,0,0,3,0,0,0,0,0
-Jan_Kirchhoff,All Teams,12,MID,0,1,0,1,0,11,0,0,0,0,0
-Nathaniel_Chalobah,All Teams,12,MID,0,1,0,2,0,3,0,0,0,0,0
-Simone_Zaza,All Teams,10,FWD,0,0,2,2,0,14,0,0,0,0,0
-Emilio_Nsue Lopez,All Teams,10,DEF,0,0,1,0,0,5,0,0,0,0,0
-Gökhan_Töre,All Teams,10,MID,0,1,1,0,0,4,0,0,0,0,0
-Timothy_Fosu-Mensah,All Teams,9,DEF,0,0,1,0,0,0,0,0,0,0,0
-Brendan_Galloway,All Teams,9,DEF,0,0,1,0,0,3,0,0,0,0,0
-Josh_Tymon,All Teams,9,DEF,0,0,1,1,0,8,0,0,0,0,0
-Jon_Flanagan,All Teams,9,DEF,0,0,1,2,0,4,0,0,0,0,0
-Ezekiel_Fryers,All Teams,9,DEF,0,1,0,0,0,7,0,0,0,0,0
-Matthew_Pennington,All Teams,9,DEF,1,0,0,0,0,6,0,0,0,0,0
-Sam_Field,All Teams,9,MID,0,0,1,2,0,1,0,0,0,0,0
-Damian Emiliano_Martinez,All Teams,8,GK,0,0,1,0,0,3,0,0,0,5,0
-Jordan_Rhodes,All Teams,8,FWD,0,0,0,0,0,2,0,0,0,0,0
-Mauro_Zárate,All Teams,8,FWD,0,1,0,0,0,3,0,0,0,0,0
-Joshua_Harrop,All Teams,8,MID,1,0,1,0,0,0,0,0,0,0,0
-Adam_Federici,All Teams,8,GK,0,0,1,1,0,3,0,0,0,5,1
-Max_Gradel,All Teams,8,MID,0,0,0,3,0,1,0,0,0,0,0
-Will_Keane,All Teams,8,FWD,0,0,1,0,0,10,0,0,0,0,0
-Georges-Kévin_Nkoudou,All Teams,8,MID,0,0,0,0,0,0,0,0,0,0,0
-Jonas_Olsson,All Teams,8,DEF,0,0,1,3,0,13,0,0,0,0,0
-Jarrod_Bowen,All Teams,8,FWD,0,0,0,0,0,8,0,0,0,0,0
-Trent_Alexander-Arnold,All Teams,8,MID,0,0,0,0,0,2,0,0,0,0,0
-Demetri_Mitchell,All Teams,8,DEF,0,0,1,0,0,0,0,0,0,0,2
-Bakary_Sako,All Teams,7,MID,0,0,0,0,0,5,0,0,0,0,0
-George_Honeyman,All Teams,7,MID,0,0,1,1,0,4,0,0,0,0,0
-Michael_Kightly,All Teams,6,MID,0,0,0,0,0,1,0,0,0,0,0
-Arouna_Koné,All Teams,6,FWD,0,0,0,0,0,3,0,0,0,0,0
-Joel Dinis_Castro Pereira,All Teams,6,GK,0,0,1,0,0,0,0,0,0,1,0
-Jerome_Sinclair,All Teams,6,FWD,0,0,0,0,0,1,0,0,0,0,0
-Lewis_Grabban,All Teams,6,FWD,0,1,0,0,0,2,0,0,0,0,0
-Loïc_Remy,All Teams,6,FWD,0,0,1,0,0,3,0,0,0,0,0
-Nampalys_Mendy,All Teams,6,MID,0,0,1,1,0,5,0,0,0,0,0
-Pape_Souaré,All Teams,6,DEF,0,0,0,0,0,3,0,0,0,0,0
-Ruben_Loftus-Cheek,All Teams,6,MID,0,0,0,0,0,0,0,0,0,0,0
-Jérémy_Pied,All Teams,5,DEF,0,0,0,0,0,1,0,0,0,0,0
-Joshua_Onomah,All Teams,5,MID,0,0,0,0,0,0,0,0,0,0,0
-Oliver_McBurnie,All Teams,5,FWD,0,0,0,0,0,5,0,0,0,0,0
-Paul_Robinson,All Teams,5,GK,0,0,0,0,0,7,0,0,0,10,0
-Ben_Woodburn,All Teams,5,MID,0,0,0,0,0,1,0,0,0,0,0
-Julien_Ngoy,All Teams,5,FWD,0,0,0,0,0,1,0,0,0,0,0
-Aleix_García Serrano,All Teams,4,MID,0,0,0,0,0,2,0,0,0,0,0
-Marko_Grujic,All Teams,4,MID,0,0,0,1,0,0,0,0,0,0,0
-Jordon_Mutch,All Teams,4,MID,0,0,0,0,0,1,0,0,0,0,0
-David_Nugent,All Teams,4,FWD,0,0,0,0,0,0,0,0,0,0,0
-Tyrone_Mings,All Teams,4,DEF,0,0,0,0,0,16,2,0,0,0,2
-Kevin_Stewart,All Teams,4,DEF,0,0,0,0,0,0,0,0,0,0,0
-Filip_Lesniak,All Teams,4,MID,0,1,0,0,0,0,0,0,0,0,0
-Bradley_Smith,All Teams,4,DEF,0,0,0,1,0,9,0,0,0,0,0
-Ryan_Allsop,All Teams,3,GK,0,0,0,0,0,1,0,0,0,4,0
-Memphis_Depay,All Teams,3,MID,0,0,0,1,0,1,0,0,0,0,0
-Ola_Aina,All Teams,3,DEF,0,0,0,0,0,0,0,0,0,0,0
-Harrison_Reed,All Teams,3,MID,0,0,0,0,0,1,0,0,0,0,0
-Kristoffer_Nordfeldt,All Teams,3,GK,0,0,0,0,0,1,0,0,0,4,0
-Aiden_O'Neill,All Teams,3,MID,0,0,0,0,0,4,0,0,0,0,0
-Albert_Adomah,All Teams,3,MID,0,0,0,0,0,2,0,0,0,0,0
-Luis_Hernández,All Teams,3,DEF,0,0,0,1,0,8,0,0,0,0,0
-Kevin_Long,All Teams,3,DEF,0,0,0,0,0,6,0,0,0,0,0
-Robert Kenedy_Nunes do Nascimento,All Teams,3,MID,0,0,0,0,0,3,0,0,0,0,0
-Scott_McTominay,All Teams,3,MID,0,0,1,1,0,0,0,0,0,0,0
-Daniel_Agyei,All Teams,3,FWD,0,0,0,0,0,0,0,0,0,0,0
-Oviemuno_Ejaria,All Teams,2,MID,0,0,0,0,0,0,0,0,0,0,0
-Asmir_Begovic,All Teams,2,GK,0,0,0,0,0,5,0,0,0,1,0
-Martín_Cáceres,All Teams,2,DEF,0,0,0,0,0,1,0,0,0,0,0
-David_Ospina,All Teams,2,GK,0,0,0,0,0,4,0,0,0,4,0
-Lukas_Jutkiewicz,All Teams,2,FWD,0,0,0,0,0,0,0,0,0,0,0
-Carl_Jenkinson,All Teams,2,DEF,0,0,0,0,0,1,0,0,0,0,0
-Dion_Pereira,All Teams,2,MID,0,0,0,0,0,1,0,0,0,0,0
-Mile_Jedinak,All Teams,2,MID,0,0,0,0,0,1,0,0,0,0,0
-Jeremain_Lens,All Teams,2,MID,0,0,0,0,0,1,0,0,0,0,0
-Kevin_Wimmer,All Teams,2,DEF,0,0,0,3,0,4,1,0,0,0,0
-Costel_Pantilimon,All Teams,2,GK,0,0,0,0,0,4,0,0,0,6,0
-Ikechi_Anya,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Ainsley_Maitland-Niles,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Marcin_Wasilewski,All Teams,1,DEF,0,0,0,0,0,2,0,0,0,0,0
-Ben_Watson,All Teams,1,MID,0,0,0,0,1,2,0,0,0,0,0
-Per_Mertesacker,All Teams,1,DEF,0,0,0,0,0,1,0,0,0,0,0
-Philipp_Wollscheid,All Teams,1,DEF,0,0,0,1,0,5,0,0,0,0,0
-Jonathan_Benteke,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
-Baily_Cargill,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
-Sullay_Kaikai,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Mathieu_Debuchy,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
-Rickie_Lambert,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
-David_Jones,All Teams,1,MID,0,0,0,1,0,1,0,0,0,0,0
-Joel_Asoro,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Joleon_Lescott,All Teams,1,DEF,0,0,0,0,0,5,0,0,0,0,0
-Angel_Gomes,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Samir_Nasri,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Matej_Vydra,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
-Declan_Rice,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Jonjoe_Kenny,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
-Matthew_James,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Matthew_Worthington,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-Brandon_Mason,All Teams,1,DEF,0,0,0,0,0,5,0,0,0,0,0
-Michael_Folivi,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
-Zachary_Dearnley,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Fredrik_Ulvestad,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Jeff_Reine-Adelaide,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Eunan_O'Kane,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Stephen_Ireland,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Álvaro_Arbeloa,All Teams,0,DEF,0,0,0,3,0,9,0,0,0,0,0
-Alex_Pritchard,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Alex_Pike,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-James_Wilson,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Steven_Berghuis,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Aaron_Wan-Bissaka,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Daniel_James,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Alex_Palmer,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-James_Weir,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Ethan_Robson,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Alex_McCarthy,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Stuart_Taylor,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Yaya_Sanogo,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Danny_Ings,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Andrew_Eleftheriou,All Teams,0,DEF,0,0,0,0,0,2,0,0,0,0,0
-Joe_Hart,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-John Obi_Mikel,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Andreas_Pereira,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Serge_Gnabry,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Florin_Gardos,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Daniel_Kemp,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Joel_Taylor,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Daniel_Lafferty,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Shaun_MacDonald,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Joel_Campbell,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Franck_Tabanou,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Almen_Abdi,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Allan_McGregor,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Aaron_Ramsdale,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Joe_Williams,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Abdul Rahman_Baba,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Alexander_Manninger,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Guillermo_Varela,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Eliaquim_Mangala,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Greg_Luer,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Jack_Rose,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Elliott_Moore,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Tyias_Browning,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Adam_Reach,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Dionatan do Nascimento_Teixeira,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Elliot_Embleton,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Domingos_Quina,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Hiram_Boateng,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-DeAndre_Yedlin,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Dominic_Solanke,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Harry_Wilson,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Dusan_Kuciak,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Greg_Olley,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Harry_Lewis,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Eduardo_Dos Reis Carvalho,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Gökhan_Inler,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Tommie_Hoban,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Dimitrios_Konstantopoulos,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Jake_Hesketh,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Jakob_Haugaard,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Sébastien_Pocognoli,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Takuma_Asano,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Tendayi_Darikwa,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Alex_Bruce,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Thibaud_Verlinden,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Alex_Baptiste,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Thomas_Edwards,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Thomas_Robson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Giedrius_Arlauskis,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Adam_Matthews,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Jonathan_Williams,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-James_Husband,All Teams,0,DEF,0,0,0,0,0,3,0,0,0,0,0
-Tokelo_Rantie,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Emerson_Hyndman,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-James_Chester,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Gerhard_Tremmel,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Mohamed_Diamé,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Samuel_Shashoua,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Carl_Stewart,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Matt_Macey,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Olayinka Fredrick Oladotun_Ladapo,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Oleksandr_Zinchenko,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Mateusz_Hewelt,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Olufela_Olomola,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Oluwaseyi_Ojo,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Oluwatosin_Adarabioyo,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Marvin_Emnes,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Carlos_De Pena,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Bertrand_Traore,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Pablo_Maffeo,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Mario_Suárez,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Mario_Balotelli,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Marcus_Browne,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Charlie_Rowan,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Chris_Long,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Ben_Wynter,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Pau_López Sabata,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Matt_Miazga,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Noor_Husin,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Sam_Surridge,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Nabil_Bentaleb,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Molla_Wagué,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Brian_Lenihan,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Moses_Makasi,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Moses_Odubajo,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Mouez_Hassen,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Michael_Simões Domingues,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Michael_Phillips,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Muhamed_Besic,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Michael_Ledger,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Cameron_Carter-Vickers,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Brice_Dja Djédjé,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Callum_McManaman,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Nathan_Holland,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Matthew_Willock,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Cameron_Borthwick-Jackson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Cameron_Brannagan,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Boaz_Myhill,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Nick_Pope,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Marco_Van Ginkel,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Paulo_Gazzaniga,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Pedro_Chirivella,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Juan_Cuadrado,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Kieran_O'Hara,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Cristian_Gamboa,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Keshi_Anderson,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Kane_Wilson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Rouwen_Hennings,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Dael_Fry,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Julien_de Sart,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Julian_Speroni,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Juan Carlos_Paredes,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Marc_Wilson,All Teams,0,DEF,0,0,0,3,0,7,0,0,0,0,0
-Josh_Robson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Josh_Maja,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Angus_Gunn,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Josh_Cullen,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Joseph_Gomez,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Jose Luis_Mato Sanmartín,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Jose Angel_Esmoris Tasende,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Daniel_Batty,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Connor_Roberts,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Connor_Randall,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Clinton_N'Jie,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Lloyd_Isgrove,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Ben_Hinchcliffe,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Ben_Hamer,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Chuba_Akpom,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Bastian_Schweinsteiger,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Mamadou Obbi_Oularé,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Bartosz_Kapustka,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Maksymilian_Stryjek,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Luke_McGee,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Luke_Dreher,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Raphael_Spiegel,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Reece_Burke,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Reece_Oxford,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Rekeem_Harper,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Rene_Gilmartin,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Rhian_Brewster,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Ritchie_de Laet,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Bafétimbi_Gomis,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-Josh_Clackstone,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Alexis Sánchez,Arsenal,264,MID,24,11,13,6,0,41,0,1,0,0,32
+Bamidele Alli,Spurs,225,MID,18,11,17,4,0,22,0,0,0,0,17
+Harry Kane,Spurs,224,FWD,29,7,14,3,0,19,0,1,0,0,33
+Eden Hazard,Chelsea,224,MID,16,9,17,3,0,29,0,1,0,0,33
+Romelu Lukaku,Everton,221,FWD,25,6,13,3,0,42,0,0,0,0,33
+Christian Eriksen,Spurs,218,MID,8,20,16,0,0,24,0,0,0,0,30
+Kevin De Bruyne,Man City,199,MID,6,21,11,4,0,34,0,1,0,0,33
+Diego Da Silva Costa,Chelsea,196,FWD,20,11,14,10,0,30,0,1,0,0,25
+Gylfi Sigurdsson,Swansea,181,MID,9,13,7,2,0,70,0,0,0,0,18
+Roberto Firmino,Liverpool,180,MID,11,11,11,5,0,39,0,0,0,0,17
+Gary Cahill,Chelsea,178,DEF,6,0,17,5,0,29,1,0,0,0,15
+Joshua King,Bournemouth,178,MID,16,3,9,1,0,54,0,1,0,0,17
+Marcos Alonso,Chelsea,177,DEF,6,5,15,2,0,19,0,0,0,0,11
+Sergio Agüero,Man City,175,FWD,20,5,8,4,1,30,0,1,0,0,32
+Heung-Min Son,Spurs,174,MID,14,9,10,2,0,18,0,0,0,0,13
+Philippe Coutinho,Liverpool,171,MID,13,8,8,2,0,27,0,0,0,0,21
+César Azpilicueta,Chelsea,170,DEF,1,5,16,4,0,33,0,0,0,0,22
+Mesut Özil,Arsenal,167,MID,8,11,12,2,0,30,0,0,0,0,19
+Jermain Defoe,Sunderland,166,FWD,15,3,6,1,0,63,0,0,0,0,24
+Zlatan Ibrahimovic,Man Utd,163,FWD,17,7,11,7,0,22,0,1,0,0,28
+Pedro Rodríguez Ledesma,Chelsea,162,MID,9,10,15,6,0,15,0,0,0,0,18
+Jamie Vardy,Leicester,161,FWD,13,8,7,2,1,57,0,0,0,0,24
+Sadio Mané,Liverpool,156,MID,13,7,8,4,0,26,0,0,0,0,14
+Raheem Sterling,Man City,149,MID,7,14,9,7,0,27,0,0,0,0,11
+Wilfried Zaha,Crystal Palace,149,MID,7,11,7,8,0,56,0,0,0,0,13
+Tom Heaton,Burnley,149,GK,0,0,10,1,0,48,0,0,1,142,21
+Georginio Wijnaldum,Liverpool,149,MID,6,9,11,2,0,37,0,0,0,0,14
+Fernando Llorente,Swansea,146,FWD,15,3,5,2,0,51,0,0,0,0,22
+Ross Barkley,Everton,144,MID,5,11,12,5,0,36,0,0,0,0,11
+Hugo Lloris,Spurs,143,GK,0,0,15,0,0,24,0,0,0,78,6
+Kyle Walker,Spurs,142,DEF,0,6,14,8,0,21,0,0,0,0,18
+Thibaut Courtois,Chelsea,141,GK,0,0,16,1,0,28,0,0,0,69,0
+James Milner,Liverpool,139,MID,7,4,12,5,0,35,0,1,0,0,16
+Adam Lallana,Liverpool,139,MID,8,7,9,3,0,32,0,0,0,0,14
+David de Gea,Man Utd,136,GK,0,0,14,2,0,29,0,0,0,74,5
+Christian Benteke,Crystal Palace,136,FWD,15,2,7,10,0,58,0,2,0,0,13
+Leighton Baines,Everton,135,DEF,2,5,11,4,0,34,0,1,0,0,15
+Petr Cech,Arsenal,134,GK,0,0,12,2,0,37,1,0,0,115,2
+Fraser Forster,Southampton,134,GK,0,0,14,3,0,48,0,0,1,76,4
+Charlie Daniels,Bournemouth,134,DEF,4,3,10,1,0,53,0,0,0,0,14
+Seamus Coleman,Everton,133,DEF,4,4,10,3,0,28,0,0,0,0,15
+Robert Snodgrass,West Ham,133,MID,7,6,3,2,0,56,0,0,0,0,16
+Manuel Lanzini,West Ham,133,MID,8,3,9,9,0,53,0,0,0,0,20
+Michail Antonio,West Ham,132,MID,9,8,7,4,1,43,0,0,0,0,8
+David Luiz Moreira Marinho,Chelsea,132,DEF,1,1,15,6,0,26,0,0,0,0,10
+Gareth McAuley,West Brom,131,DEF,6,1,7,5,0,45,1,0,0,0,14
+Etienne Capoue,Watford,131,MID,7,2,7,5,0,60,0,0,0,0,14
+David Silva,Man City,130,MID,4,9,12,6,0,32,0,0,0,0,12
+Álvaro Negredo,Middlesbrough,130,FWD,9,5,10,5,0,45,0,0,0,0,17
+Troy Deeney,Watford,130,FWD,10,4,6,7,0,52,1,0,0,0,18
+Nathaniel Clyne,Liverpool,129,DEF,0,2,12,0,0,41,0,0,0,0,13
+Ashley Williams,Everton,127,DEF,1,3,13,7,1,40,0,0,0,0,9
+Nathan Redmond,Southampton,126,MID,7,1,12,2,1,40,0,0,0,0,13
+Jan Vertonghen,Spurs,126,DEF,0,0,15,5,0,21,0,0,0,0,8
+Ryan Bertrand,Southampton,123,DEF,2,5,12,3,0,36,0,0,0,0,9
+Theo Walcott,Arsenal,122,MID,10,3,8,1,0,26,0,1,0,0,7
+Cesc Fàbregas,Chelsea,121,MID,5,15,4,8,0,14,0,0,0,0,14
+Laurent Koscielny,Arsenal,121,DEF,2,1,10,4,1,37,0,0,0,0,19
+Ben Gibson,Middlesbrough,121,DEF,1,1,11,4,0,53,0,0,0,0,14
+Sam Vokes,Burnley,121,FWD,10,4,5,0,0,34,0,0,0,0,12
+Antonio Valencia,Man Utd,120,DEF,1,3,12,5,0,20,0,0,0,0,9
+Toby Alderweireld,Spurs,120,DEF,1,0,14,1,0,17,0,0,0,0,4
+Riyad Mahrez,Leicester,120,MID,6,4,9,4,0,48,0,2,0,0,9
+Artur Boruc,Bournemouth,120,GK,0,0,9,2,0,63,0,0,2,115,7
+Kevin Mirallas,Everton,119,MID,4,8,11,2,0,26,0,0,0,0,8
+Héctor Bellerín,Arsenal,119,DEF,1,5,10,4,0,34,0,0,0,0,12
+Joe Allen,Stoke,118,MID,6,3,10,9,0,49,0,0,0,0,10
+Salomón Rondón,West Brom,118,FWD,8,3,6,2,0,44,0,0,0,0,10
+Marko Arnautovic,Stoke,117,MID,6,7,9,9,1,43,0,1,0,0,8
+Lukasz Fabianski,Swansea,116,GK,0,0,8,1,0,69,0,0,1,117,8
+Olivier Giroud,Arsenal,116,FWD,12,5,4,2,0,16,0,0,0,0,17
+Andros Townsend,Crystal Palace,116,MID,3,7,7,4,0,38,0,0,0,0,16
+Matt Phillips,West Brom,115,MID,4,9,6,2,0,28,0,0,0,0,12
+Paul Pogba,Man Utd,115,MID,5,4,13,7,0,21,0,0,0,0,14
+Nacho Monreal,Arsenal,115,DEF,0,3,11,5,0,43,0,0,0,0,9
+Willian Borges Da Silva,Chelsea,114,MID,8,3,6,3,0,19,0,0,0,0,13
+Michael Keane,Burnley,113,DEF,2,1,10,4,0,49,0,0,0,0,10
+Ben Foster,West Brom,113,GK,0,0,6,2,0,51,0,0,0,115,4
+Heurelho Gomes,Watford,113,GK,0,0,7,1,0,64,1,0,1,117,6
+Steve Cook,Bournemouth,112,DEF,2,0,10,5,0,67,1,0,0,0,17
+Simon Mignolet,Liverpool,110,GK,0,0,9,0,0,30,0,0,2,52,7
+Nacer Chadli,West Brom,110,MID,5,6,6,2,0,32,0,0,0,0,8
+Kasper Schmeichel,Leicester,109,GK,0,0,8,1,0,47,0,0,0,113,10
+Andre Gray,Burnley,108,FWD,9,3,8,2,0,33,0,0,0,0,10
+Dusan Tadic,Southampton,108,MID,3,7,13,4,0,29,0,1,0,0,4
+Junior Stanislas,Bournemouth,107,MID,7,6,4,1,0,29,0,0,0,0,13
+Dejan Lovren,Liverpool,106,DEF,2,1,11,6,0,31,0,0,0,0,6
+Bruno Martins Indi,Stoke,106,DEF,1,0,11,4,0,50,0,0,0,0,9
+Lee Grant,Stoke,106,GK,0,0,9,1,0,34,0,0,0,91,9
+Leroy Sané,Man City,105,MID,5,7,9,4,0,15,0,0,0,0,8
+Victor Moses,Chelsea,105,MID,3,3,17,4,0,15,0,0,0,0,6
+Eric Bailly,Man Utd,105,DEF,0,0,13,4,0,15,0,0,0,0,14
+Nemanja Matic,Chelsea,105,MID,1,8,15,4,0,24,0,0,0,0,1
+Adam Smith,Bournemouth,104,DEF,1,5,8,6,0,61,1,0,0,0,12
+Emre Can,Liverpool,104,MID,5,2,9,6,0,28,0,0,0,0,12
+Phil Jagielka,Everton,104,DEF,3,3,6,4,1,32,0,0,0,0,16
+Christian Fuchs,Leicester,104,DEF,2,4,8,10,0,57,0,0,0,0,10
+Victor Wanyama,Spurs,103,MID,4,2,12,10,0,25,0,0,0,0,7
+Darren Fletcher,West Brom,103,MID,2,3,8,0,0,45,0,0,0,0,2
+Erik Pieters,Stoke,103,DEF,0,2,10,5,0,50,0,0,0,0,9
+Craig Dawson,West Brom,102,DEF,4,0,6,10,0,50,0,0,0,0,6
+Cédric Soares,Southampton,102,DEF,0,3,11,7,0,36,0,0,0,0,11
+Jordan Pickford,Sunderland,102,GK,0,0,4,0,0,50,0,0,0,135,9
+Winston Reid,West Ham,102,DEF,2,3,9,8,1,48,0,0,0,0,16
+Juan Mata,Man Utd,102,MID,6,3,10,3,0,16,1,0,0,0,14
+Víctor Valdés,Middlesbrough,102,GK,0,0,8,1,0,36,0,0,0,79,10
+Ryan Fraser,Bournemouth,100,MID,3,9,7,3,0,32,0,0,0,0,8
+Nicolás Otamendi,Man City,100,DEF,1,2,9,9,0,28,0,0,0,0,10
+Chris Brunt,West Brom,99,DEF,3,4,4,5,0,37,0,0,0,0,11
+Jose Fonte,West Ham,98,DEF,0,0,11,4,0,46,0,0,0,0,10
+Daley Blind,Man Utd,98,DEF,1,2,9,2,0,17,0,0,0,0,14
+Patrick van Aanholt,Crystal Palace,98,DEF,5,1,5,3,0,53,0,0,0,0,9
+Ander Herrera,Man Utd,97,MID,1,6,13,5,1,18,0,0,0,0,11
+Joel Matip,Liverpool,97,DEF,1,0,9,3,0,25,0,0,0,0,7
+Divock Origi,Liverpool,96,FWD,7,4,7,0,0,18,0,0,0,0,8
+Anthony Martial,Man Utd,95,MID,4,6,9,2,0,13,0,0,0,0,9
+Marc Albrighton,Leicester,95,MID,2,6,8,5,0,47,0,0,0,0,3
+Aleksandar Kolarov,Man City,95,DEF,1,1,9,6,0,27,1,0,0,0,7
+Leroy Fer,Swansea,95,MID,6,2,4,9,0,49,0,0,0,0,5
+Ryan Shawcross,Stoke,94,DEF,1,2,9,6,0,53,2,0,0,0,6
+Alfie Mawson,Swansea,94,DEF,4,0,7,1,0,45,2,0,0,0,9
+Ben Mee,Burnley,94,DEF,1,2,9,5,0,49,2,0,0,0,6
+Eric Dier,Spurs,93,MID,2,0,16,6,0,24,0,0,0,0,4
+James McArthur,Crystal Palace,93,MID,5,3,3,5,0,39,0,0,0,0,8
+Jason Puncheon,Crystal Palace,92,MID,0,6,7,9,0,53,0,0,0,0,6
+James Ward-Prowse,Southampton,92,MID,4,4,9,4,0,26,0,0,0,0,5
+Wayne Hennessey,Crystal Palace,92,GK,0,0,7,1,0,46,0,0,0,83,4
+George Boyd,Burnley,92,MID,2,2,9,3,0,45,0,0,0,0,2
+Marten de Roon,Middlesbrough,91,MID,4,1,8,8,0,44,0,0,0,0,5
+Stephen Ward,Burnley,91,DEF,1,1,8,5,0,53,0,0,0,0,3
+Yohan Cabaye,Crystal Palace,91,MID,4,4,7,7,0,41,0,1,0,0,6
+Shkodran Mustafi,Arsenal,90,DEF,2,2,8,11,0,30,0,0,0,0,8
+Ben Davies,Spurs,90,DEF,1,3,8,1,0,13,0,0,0,0,5
+Matthew Lowton,Burnley,90,DEF,0,2,9,9,0,53,0,0,0,0,5
+Alex Iwobi,Arsenal,89,MID,3,5,9,1,0,20,0,0,0,0,8
+André Ayew,West Ham,89,MID,6,3,6,1,0,25,0,0,0,0,5
+Simon Francis,Bournemouth,89,DEF,0,1,10,4,1,54,0,0,0,0,7
+Joel Robles,Everton,89,GK,0,1,10,2,0,20,0,0,0,54,5
+Robert Huth,Leicester,88,DEF,2,2,9,9,0,49,2,0,0,0,1
+Benik Afobe,Bournemouth,88,FWD,6,5,5,1,0,24,0,1,0,0,9
+José Holebas,Watford,87,DEF,2,4,7,14,0,61,0,0,0,0,9
+Sam Clucas,Hull,87,MID,3,1,5,9,1,75,0,0,0,0,4
+Gaël Clichy,Man City,87,DEF,1,0,8,2,0,24,0,0,0,0,9
+Joel Ward,Crystal Palace,86,DEF,0,1,7,7,0,63,0,0,0,0,7
+Gnegneri Yaya Touré,Man City,86,MID,5,0,12,4,0,17,0,0,0,0,6
+Eldin Jakupovic,Hull,86,GK,0,0,5,0,0,36,0,0,2,73,7
+Danny Simpson,Leicester,85,DEF,0,3,9,12,0,50,0,0,0,0,4
+Granit Xhaka,Arsenal,85,MID,2,3,10,5,2,32,0,0,0,0,7
+Harry Arter,Bournemouth,84,MID,1,4,9,11,1,62,0,1,0,0,6
+Danny Rose,Spurs,84,DEF,2,3,8,8,0,11,0,0,0,0,6
+James Morrison,West Brom,84,MID,5,2,4,3,0,22,0,0,0,0,4
+Calum Chambers,Middlesbrough,83,DEF,2,1,7,4,0,37,0,0,0,0,7
+Islam Slimani,Leicester,83,FWD,7,4,5,1,0,23,0,0,0,0,9
+N'Golo Kanté,Chelsea,83,MID,1,1,13,9,0,33,0,0,0,0,1
+Alex Oxlade-Chamberlain,Arsenal,83,MID,2,7,4,1,0,22,0,0,0,0,3
+Kyle Naughton,Swansea,82,DEF,1,0,8,5,0,48,1,0,0,0,7
+Ashley Barnes,Burnley,81,FWD,6,3,6,6,1,27,0,0,0,0,10
+Dimitri Payet,West Ham,81,MID,2,8,4,2,0,28,0,0,0,0,10
+Idrissa Gueye,Everton,80,MID,1,2,9,11,0,31,0,0,0,0,9
+Xherdan Shaqiri,Stoke,80,MID,4,2,8,2,0,21,0,0,0,0,8
+Oriol Romeu Vidal,Southampton,80,MID,1,0,13,11,0,42,0,0,0,0,4
+Jonny Evans,West Brom,79,DEF,2,1,4,8,0,39,0,0,0,0,7
+Peter Crouch,Stoke,79,FWD,7,3,4,3,0,23,0,0,0,0,7
+Cheikhou Kouyaté,West Ham,79,MID,1,1,9,3,0,46,0,0,0,0,3
+Fernando Luiz Rosa,Man City,78,MID,2,1,10,4,2,27,0,0,0,0,3
+Maya Yoshida,Southampton,78,DEF,1,1,7,2,0,32,0,0,0,0,8
+Adam Forshaw,Middlesbrough,77,MID,0,2,9,4,0,36,0,0,0,0,3
+Jake Livermore,West Brom,77,MID,1,1,4,5,1,62,0,0,0,0,2
+Marcos Rojo,Man Utd,77,DEF,1,0,8,5,0,13,0,0,0,0,7
+Steven Davis,Southampton,77,MID,0,3,10,3,0,37,0,0,0,0,0
+Stewart Downing,Middlesbrough,77,MID,1,3,7,1,0,39,0,0,0,0,3
+Jeff Hendrick,Burnley,76,MID,2,1,9,6,1,47,0,0,0,0,1
+Marcus Rashford,Man Utd,76,FWD,5,3,7,3,0,15,0,0,0,0,2
+Mousa Dembélé,Spurs,76,MID,1,2,11,5,0,17,0,0,0,0,6
+Wayne Rooney,Man Utd,76,FWD,5,5,6,8,0,16,0,0,0,0,9
+Virgil van Dijk,Southampton,75,DEF,1,0,7,3,1,23,0,0,0,0,14
+James Tomkins,Crystal Palace,75,DEF,3,0,6,4,0,36,0,0,0,0,5
+Allan-Roméo Nyom,West Brom,74,DEF,0,2,5,8,0,39,0,0,0,0,6
+Wayne Routledge,Swansea,74,MID,3,2,5,1,0,42,0,0,0,0,2
+Henrikh Mkhitaryan,Man Utd,73,MID,4,1,10,1,0,8,0,0,0,0,3
+Jordan Henderson,Liverpool,73,MID,1,4,7,8,0,28,0,0,0,0,9
+Jay Rodriguez,Southampton,73,MID,5,2,3,0,0,15,0,0,0,0,8
+Andrew Robertson,Hull,73,DEF,1,2,5,5,0,59,0,0,0,0,4
+Claudio Bravo,Man City,73,GK,0,0,6,0,0,26,0,0,1,33,3
+Jonathan Walters,Stoke,72,MID,4,3,6,1,0,22,0,0,0,0,3
+Abel Hernández,Hull,72,FWD,4,4,4,0,0,23,0,0,0,0,6
+Harry Maguire,Hull,71,DEF,2,3,4,5,0,53,0,0,0,0,5
+Antonio Barragán,Middlesbrough,71,DEF,0,0,7,5,0,32,0,0,0,0,8
+Miguel Britos,Watford,71,DEF,1,2,6,6,2,36,0,0,0,0,8
+Mark Noble,West Ham,71,MID,3,0,8,10,0,40,0,1,0,0,5
+Adam Clayton,Middlesbrough,70,MID,0,2,10,10,0,45,0,0,0,0,0
+Matteo Darmian,Man Utd,70,DEF,0,0,9,3,0,8,0,0,0,0,6
+Lamine Koné,Sunderland,69,DEF,1,0,5,4,0,46,0,0,0,0,5
+Andy Carroll,West Ham,69,FWD,7,2,3,3,0,27,0,0,0,0,6
+James Collins,West Ham,69,DEF,2,0,6,3,0,29,0,0,0,0,7
+Darren Randolph,West Ham,69,GK,0,0,4,1,0,39,0,0,1,64,5
+Scott Arfield,Burnley,69,MID,1,2,6,3,0,36,0,0,0,0,3
+Daniel Drinkwater,Leicester,69,MID,1,1,8,6,0,44,0,0,0,0,3
+Ramiro Funes Mori,Everton,69,DEF,0,1,7,0,0,19,0,0,0,0,4
+Maarten Stekelenburg,Everton,68,GK,0,0,4,2,0,24,1,0,2,43,3
+Gareth Barry,Everton,68,MID,2,1,7,10,0,28,0,0,0,0,3
+Gabriel Fernando de Jesus,Man City,67,FWD,7,4,3,2,0,5,0,0,0,0,12
+Sebastian Prödl,Watford,67,DEF,1,2,5,10,1,49,0,0,0,0,3
+Didier Ndong,Sunderland,67,MID,1,1,5,5,0,48,0,0,0,0,1
+Nordin Amrabat,Watford,65,MID,0,3,4,4,0,51,0,0,0,0,5
+Marc Pugh,Bournemouth,64,MID,2,3,5,1,0,24,0,0,0,0,6
+Adrián San Miguel del Castillo,West Ham,64,GK,0,0,6,1,0,25,0,0,0,53,6
+Willy Caballero,Man City,64,GK,0,0,6,0,0,13,0,0,1,31,1
+Shinji Okazaki,Leicester,63,FWD,3,1,7,1,0,26,0,0,0,0,3
+Wes Morgan,Leicester,63,DEF,1,1,5,3,0,45,0,0,0,0,0
+Federico Fernández,Swansea,63,DEF,0,1,6,7,0,41,0,0,0,0,4
+Callum Wilson,Bournemouth,63,FWD,6,1,6,0,0,25,0,0,0,0,2
+Tom Davies,Everton,63,MID,2,3,8,4,0,17,0,0,0,0,0
+Tom Huddlestone,Hull,62,MID,1,2,4,5,1,47,1,0,0,0,5
+Ahmed Elmohamady,Hull,62,MID,0,2,3,3,1,63,1,0,0,0,1
+Charlie Austin,Southampton,62,FWD,6,1,6,1,0,8,0,0,0,0,10
+Glenn Whelan,Stoke,62,MID,0,1,7,5,0,40,1,0,0,0,3
+Jack Wilshere,Bournemouth,61,MID,0,3,5,4,0,45,0,0,0,0,2
+Scott Dann,Crystal Palace,61,DEF,3,1,2,2,0,36,0,0,0,0,4
+Jesse Lingard,Man Utd,60,MID,1,3,7,3,0,12,0,0,0,0,3
+Jack Stephens,Southampton,60,DEF,0,1,6,1,0,24,0,0,0,0,10
+Aaron Cresswell,West Ham,60,DEF,0,2,5,2,1,35,0,0,0,0,1
+John Stones,Man City,59,DEF,0,0,4,1,0,29,0,0,0,0,4
+Charlie Adam,Stoke,59,MID,1,4,6,7,0,23,0,0,0,0,5
+Wilfred Ndidi,Leicester,59,MID,2,3,4,0,0,28,0,0,0,0,2
+George Friend,Middlesbrough,59,DEF,0,3,4,4,0,35,0,0,0,0,6
+Gastón Ramírez,Middlesbrough,59,MID,2,3,6,8,1,22,0,0,0,0,6
+Demarai Gray,Leicester,58,MID,1,4,4,2,0,20,0,0,0,0,0
+Fabio Pereira da Silva,Middlesbrough,58,DEF,0,0,6,8,0,30,0,0,0,0,8
+Geoff Cameron,Stoke,58,DEF,0,1,6,1,0,25,0,0,0,0,5
+Shane Long,Southampton,57,FWD,3,2,2,2,0,23,0,1,0,0,2
+Vincent Kompany,Man City,57,DEF,3,0,5,5,0,6,0,0,0,0,6
+Younes Kaboul,Watford,57,DEF,2,0,4,2,0,36,0,0,0,0,1
+Billy Jones,Sunderland,56,DEF,1,0,5,8,0,49,0,0,0,0,6
+Aaron Ramsey,Arsenal,56,MID,1,4,4,3,0,20,0,0,0,0,3
+Glen Johnson,Stoke,56,DEF,0,0,6,1,0,34,0,0,0,0,3
+Jason Denayer,Sunderland,56,DEF,0,0,6,2,0,30,1,0,0,0,2
+Bacary Sagna,Man City,55,DEF,0,1,6,2,0,14,0,0,0,0,3
+Vincent Janssen,Spurs,55,FWD,2,3,3,0,0,8,0,0,0,0,3
+Sofiane Feghouli,West Ham,55,MID,3,3,1,1,1,23,0,0,0,0,4
+Pedro Obiang,West Ham,55,MID,1,2,4,7,0,32,0,0,0,0,6
+Andrea Ranocchia,Hull,55,DEF,2,2,3,2,0,31,0,0,0,0,9
+Nathan Aké,Chelsea,55,DEF,3,1,3,1,0,20,0,0,0,0,8
+Tom Cleverley,Watford,55,MID,0,3,3,4,0,40,0,0,0,0,0
+Phil Jones,Man Utd,55,DEF,0,0,5,2,0,14,0,0,0,0,4
+Claudio Yacob,West Brom,54,MID,0,0,4,9,0,36,0,0,0,0,0
+Daniel Sturridge,Liverpool,54,FWD,3,5,3,1,0,7,0,0,0,0,2
+Steven Defour,Burnley,54,MID,1,3,5,1,0,13,0,0,0,0,6
+Enner Valencia,Everton,54,FWD,3,3,2,1,0,12,0,0,0,0,3
+Cristhian Stuani,Middlesbrough,54,FWD,4,0,4,4,0,15,0,0,0,0,4
+Mason Holgate,Everton,54,DEF,0,1,5,2,0,18,0,0,0,0,5
+Manuel Agudo Durán,Man City,54,MID,4,3,3,3,1,7,0,0,0,0,2
+Daniel Amartey,Leicester,53,MID,1,1,4,3,0,35,0,0,0,0,3
+Kelechi Iheanacho,Man City,52,FWD,4,3,1,0,0,9,0,0,0,0,6
+Chris Smalling,Man Utd,52,DEF,1,1,4,0,0,16,0,0,0,0,1
+Adama Traoré,Middlesbrough,52,MID,0,1,6,1,0,22,0,0,0,0,2
+Martin Olsson,Swansea,52,DEF,2,0,4,2,0,18,0,0,0,0,3
+Tom Carroll,Swansea,52,MID,1,2,5,1,0,18,0,0,0,0,4
+Francis Coquelin,Arsenal,52,MID,0,1,5,5,0,27,0,0,0,0,1
+James McClean,West Brom,52,MID,1,3,2,9,0,24,0,0,0,0,1
+Hal Robson-Kanu,West Brom,52,FWD,3,2,1,3,0,13,0,0,0,0,3
+Kieran Trippier,Spurs,51,DEF,0,5,3,1,0,3,0,0,0,0,7
+Dean Marney,Burnley,51,MID,1,2,5,7,0,28,0,0,0,0,1
+Mame Biram Diouf,Stoke,51,FWD,1,2,5,3,0,26,0,0,0,0,2
+Damien Delaney,Crystal Palace,51,DEF,0,2,3,8,0,39,0,0,0,0,3
+Daryl Janmaat,Watford,50,DEF,2,1,2,2,0,33,0,0,0,0,0
+Jack Cork,Swansea,50,MID,0,1,3,7,0,51,2,0,0,0,0
+Adnan Januzaj,Sunderland,49,MID,0,3,3,3,1,38,0,0,0,0,0
+Fabio Borini,Sunderland,49,FWD,2,0,5,5,0,34,0,0,0,0,3
+M'Baye Niang,Watford,49,FWD,2,2,3,2,0,27,0,0,0,0,6
+Dan Gosling,Bournemouth,49,MID,2,0,4,6,0,24,0,0,0,0,2
+Victor Anichebe,Sunderland,48,FWD,3,1,3,2,0,21,0,0,0,0,5
+Valon Behrami,Watford,48,MID,0,0,5,7,0,39,0,0,0,0,0
+Jesús Navas,Man City,48,MID,0,3,2,2,0,17,0,0,0,0,6
+Marouane Fellaini,Man Utd,48,MID,1,0,10,8,1,14,0,0,0,0,0
+Michy Batshuayi,Chelsea,48,FWD,5,1,0,0,0,3,0,0,0,0,4
+Johann Berg Gudmundsson,Burnley,47,MID,1,3,3,1,0,19,0,0,0,0,3
+Leiva Lucas,Liverpool,47,MID,0,3,4,4,0,17,0,0,0,0,2
+Jeffrey Schlupp,Crystal Palace,47,DEF,0,2,3,0,0,17,0,0,0,0,4
+John O'Shea,Sunderland,47,DEF,0,1,3,5,0,42,0,0,0,0,3
+Martin Kelly,Crystal Palace,46,DEF,0,2,2,4,0,44,0,0,0,0,0
+Michael Dawson,Hull,46,DEF,3,0,1,4,0,44,1,0,0,0,4
+Kieran Gibbs,Arsenal,45,DEF,0,1,6,3,0,3,0,0,0,0,3
+Luke Shaw,Man Utd,45,DEF,0,3,4,1,0,6,0,0,0,0,4
+Yannick Bolasie,Everton,45,MID,1,4,3,3,0,14,0,0,0,0,3
+Gabriel Armando de Abreu,Arsenal,45,DEF,0,0,5,6,0,18,0,0,0,0,2
+Pablo Zabaleta,Man City,45,DEF,1,1,2,2,0,18,0,0,0,0,5
+Angelo Ogbonna,West Ham,45,DEF,0,0,4,2,0,31,0,0,0,0,2
+Oumar Niasse,Hull,44,FWD,4,1,2,3,1,30,0,0,0,0,3
+Andrew Surman,Bournemouth,44,MID,0,1,4,1,1,38,0,0,0,0,0
+Ragnar Klavan,Liverpool,43,DEF,0,0,3,3,0,19,0,0,0,0,4
+Moussa Sissoko,Spurs,43,MID,0,3,4,3,0,5,0,0,0,0,0
+Kamil Grosicki,Hull,43,MID,0,5,3,1,0,27,0,0,0,0,0
+Stefano Okaka,Watford,43,FWD,4,0,2,5,0,23,0,0,0,0,3
+Duncan Watmore,Sunderland,43,MID,0,5,2,1,0,20,0,0,0,0,1
+Roberto Pereyra,Watford,43,MID,2,3,3,2,1,17,0,0,0,0,2
+Michael Carrick,Man Utd,42,MID,0,0,5,2,0,14,0,0,0,0,0
+Luka Milivojevic,Crystal Palace,42,MID,2,0,5,4,0,16,0,0,0,0,3
+Adama Diomande,Hull,42,FWD,2,0,2,1,0,29,0,0,0,0,2
+Andy King,Leicester,41,MID,1,0,1,4,0,26,0,0,0,0,1
+Sung-yueng Ki,Swansea,41,MID,0,1,4,3,0,28,0,0,0,0,0
+Ilkay Gündogan,Man City,41,MID,3,1,3,0,0,8,0,0,0,0,2
+Sofiane Boufal,Southampton,40,MID,1,1,3,5,0,22,0,0,0,0,1
+Joe Ledley,Crystal Palace,40,MID,1,1,2,1,0,26,0,0,0,0,1
+Sebastian Larsson,Sunderland,40,MID,0,3,3,4,1,35,0,0,0,0,0
+Jordan Ayew,Swansea,39,FWD,1,4,5,1,0,7,0,0,0,0,2
+Odion Ighalo,Watford,39,FWD,1,1,2,1,0,29,0,0,0,0,2
+Robbie Brady,Burnley,39,MID,1,3,1,1,0,11,0,0,0,0,4
+Ahmed Musa,Leicester,39,FWD,2,0,1,1,0,20,0,0,0,0,5
+Santiago Cazorla,Arsenal,38,MID,2,2,4,2,0,5,0,0,0,0,5
+Juan Zuñiga,Watford,38,DEF,1,1,1,1,0,15,0,0,0,0,2
+Curtis Davies,Hull,38,DEF,0,2,1,4,0,53,1,0,0,0,3
+Jordy Clasie,Southampton,38,MID,1,1,2,3,0,15,0,0,0,0,3
+Edimilson Fernandes,West Ham,38,MID,0,1,3,4,0,18,0,0,0,0,0
+Abdoulaye Doucouré,Watford,38,MID,1,0,4,4,0,32,0,0,0,0,0
+Javier Manquillo,Sunderland,38,DEF,1,0,2,2,0,28,0,0,0,0,0
+Pierre-Emile Højbjerg,Southampton,38,MID,0,0,6,2,0,16,0,0,0,0,0
+Jack Rodwell,Sunderland,38,MID,0,1,2,4,0,32,0,0,0,0,1
+Manolo Gabbiadini,Southampton,38,FWD,4,1,3,1,0,12,0,1,0,0,4
+Lazar Markovic,Hull,37,MID,2,0,5,4,0,15,0,0,0,0,2
+Danny Welbeck,Arsenal,37,FWD,2,2,3,0,0,11,0,0,0,0,0
+Joey Barton,Burnley,37,MID,1,2,4,4,0,16,0,0,0,0,0
+Morgan Schneiderlin,Everton,37,MID,1,0,5,2,0,14,0,0,0,0,1
+Bradley Guzan,Middlesbrough,36,GK,0,0,3,0,0,17,0,0,0,37,3
+Jordon Ibe,Bournemouth,36,MID,0,0,3,0,0,22,0,0,0,0,0
+Ramadan Sobhi,Stoke,36,MID,0,2,5,2,0,11,0,0,0,0,1
+Christian Kabasele,Watford,35,DEF,2,0,1,1,0,15,0,0,0,0,1
+Mamadou Sakho,Crystal Palace,35,DEF,0,0,4,0,0,6,0,0,0,0,6
+Bernardo Espinosa Zúñiga,Middlesbrough,35,DEF,0,0,4,2,0,13,0,0,0,0,3
+Arthur Masuaku,West Ham,34,DEF,0,1,3,1,0,24,0,0,0,0,7
+Modou Barrow,Swansea,34,FWD,0,2,4,1,0,23,0,0,0,0,0
+Vito Mannone,Sunderland,34,GK,0,0,2,0,0,19,0,0,0,41,6
+Marc Muniesa,Stoke,34,DEF,1,0,3,2,0,7,0,0,0,0,3
+Alfred N'Diaye,Hull,34,MID,1,0,4,7,0,30,0,0,0,0,2
+David Meyler,Hull,33,MID,1,0,2,2,0,23,0,0,0,0,0
+Rob Holding,Arsenal,32,DEF,0,0,4,3,0,8,0,0,0,0,3
+Borja Bastón,Swansea,32,FWD,1,2,1,0,0,11,0,0,0,0,1
+Leon Britton,Swansea,32,MID,0,0,5,3,0,24,0,0,0,0,0
+David Marshall,Hull,32,GK,0,0,0,0,0,44,1,0,0,63,0
+Loris Karius,Liverpool,32,GK,0,0,3,0,0,12,0,0,0,20,0
+Håvard Nordtveit,West Ham,31,MID,0,1,3,2,0,20,0,0,0,0,0
+Daniel Ayala,Middlesbrough,31,DEF,1,0,3,3,0,16,0,0,0,0,0
+Wahbi Khazri,Sunderland,31,MID,1,0,1,6,0,21,0,0,0,0,3
+Craig Cathcart,Watford,31,DEF,0,1,2,3,0,21,0,0,0,0,3
+Cuco Martina,Southampton,31,DEF,0,0,3,0,0,6,0,0,0,0,5
+Bojan Krkic,Stoke,30,MID,3,0,0,1,0,12,0,1,0,0,4
+Harry Winks,Spurs,30,MID,1,1,0,1,0,6,0,0,0,0,0
+Stephen Kingsley,Swansea,29,DEF,0,0,3,0,0,20,0,0,0,0,2
+Bryan Oviedo,Sunderland,29,MID,0,0,3,4,0,26,0,0,0,0,0
+Wilfried Bony,Stoke,29,FWD,2,0,3,1,0,12,0,0,0,0,3
+Sam Byram,West Ham,29,DEF,0,1,3,5,1,27,0,0,0,0,2
+Erik Lamela,Spurs,28,MID,1,1,4,1,0,2,0,1,0,0,4
+Grant Leadbitter,Middlesbrough,28,MID,1,0,3,1,0,12,0,0,0,0,1
+Isaac Success,Watford,28,MID,1,1,1,2,0,9,0,0,0,0,0
+Yohan Benalouane,Leicester,27,DEF,0,0,4,4,0,15,0,0,0,0,0
+Phil Bardsley,Stoke,27,DEF,0,0,3,4,1,17,0,0,0,0,0
+Dieumerci Mbokani,Hull,27,FWD,0,2,3,0,0,16,0,0,0,0,0
+Ashley Young,Man Utd,26,MID,0,1,4,2,0,6,0,0,0,0,1
+Ryan Mason,Hull,26,MID,1,0,0,4,0,27,0,0,0,0,0
+Saido Berahino,Stoke,26,FWD,0,0,4,1,0,13,0,0,0,0,0
+Mohamed Elneny,Arsenal,26,MID,0,1,3,1,0,9,0,0,0,0,0
+Adlène Guédioura,Middlesbrough,26,MID,0,1,0,2,0,20,0,0,0,0,0
+Angel Rangel,Swansea,26,DEF,1,0,1,1,0,24,0,0,0,0,1
+Luciano Narsingh,Swansea,25,MID,0,3,1,0,0,8,0,0,0,0,0
+Viktor Fischer,Middlesbrough,25,MID,0,3,1,0,0,6,0,0,0,0,0
+Chung-yong Lee,Crystal Palace,24,MID,0,1,2,0,0,13,0,0,0,0,0
+Papy Djilobodji,Sunderland,24,DEF,0,0,2,4,1,35,0,0,0,0,0
+Leonardo Ulloa,Leicester,24,FWD,1,0,2,0,0,5,0,0,0,0,1
+Giannelli Imbula,Stoke,24,MID,0,1,2,1,0,20,1,0,0,0,1
+Shaun Maloney,Hull,24,MID,1,2,1,0,0,7,0,0,0,0,2
+James McCarthy,Everton,23,MID,1,1,0,2,0,10,0,0,0,0,0
+Jonathan Calleri,West Ham,23,FWD,1,0,3,0,0,4,0,0,0,0,0
+Branislav Ivanovic,Chelsea,23,DEF,0,1,1,2,0,9,0,0,0,0,2
+James Tarkowski,Burnley,23,DEF,0,0,1,1,0,11,0,0,0,0,0
+Sergio Romero,Man Utd,23,GK,0,0,2,0,0,0,0,0,1,10,3
+Sam McQueen,Southampton,23,MID,0,1,1,0,0,9,0,0,0,0,0
+Aaron Lennon,Everton,22,MID,0,1,2,0,0,5,0,0,0,0,0
+Neil Taylor,Swansea,22,DEF,0,1,2,1,0,26,0,0,0,0,0
+Rudy Gestede,Middlesbrough,21,FWD,1,0,1,3,0,12,0,0,0,0,0
+Patrick Bamford,Middlesbrough,21,FWD,1,0,0,1,0,8,0,0,0,0,2
+Donald Love,Sunderland,21,DEF,0,1,1,1,0,11,0,0,0,0,1
+Jordi Amat,Swansea,21,DEF,0,0,2,5,0,36,0,0,0,0,0
+John Terry,Chelsea,21,DEF,1,0,1,1,0,9,0,0,0,0,0
+Jack Butland,Stoke,20,GK,0,0,2,0,0,8,0,0,0,17,2
+Markus Henriksen,Hull,20,MID,0,0,0,1,0,13,0,0,0,0,0
+Lucas Pérez,Arsenal,20,FWD,1,1,1,0,0,2,0,0,0,0,0
+Steve Mandanda,Crystal Palace,19,GK,0,0,0,0,0,17,0,0,0,24,0
+Jay Fulton,Swansea,19,MID,0,0,3,2,0,15,0,0,0,0,0
+Benjamin Chilwell,Leicester,19,DEF,1,0,1,2,0,18,0,0,0,0,0
+Jefferson Montero,Swansea,18,MID,0,1,0,0,0,9,0,0,0,0,0
+Connor Wickham,Crystal Palace,18,FWD,2,0,0,1,0,6,0,0,0,0,0
+Evandro Goebel,Hull,18,MID,0,0,3,1,0,10,0,0,0,0,0
+Fernando Francisco Reges,Man City,18,MID,0,0,1,3,0,10,0,0,0,0,1
+Dominic Calvert-Lewin,Everton,17,FWD,1,0,0,1,0,7,0,0,0,0,1
+Lewis Cook,Bournemouth,17,MID,0,2,1,1,0,7,0,0,0,0,1
+Oscar dos Santos Emboaba Junior,Chelsea,17,MID,0,1,1,1,0,6,0,0,0,0,0
+Ron-Robert Zieler,Leicester,17,GK,0,0,1,0,0,16,0,0,0,18,0
+Michel Vorm,Spurs,17,GK,0,0,2,0,0,2,0,0,0,7,0
+Darron Gibson,Sunderland,17,MID,0,0,1,4,0,12,0,0,0,0,0
+Mike van der Hoorn,Swansea,16,DEF,1,0,1,1,0,20,0,0,0,0,0
+Ashley Fletcher,West Ham,16,FWD,0,0,0,2,0,13,0,0,0,0,0
+Ademola Lookman,Everton,16,MID,1,0,1,0,0,2,0,0,0,0,0
+Fraizer Campbell,Crystal Palace,16,FWD,1,0,0,0,0,4,0,0,0,0,0
+Ibrahim Afellay,Stoke,15,MID,0,0,0,0,0,5,0,0,0,0,0
+Alberto Moreno,Liverpool,15,DEF,0,1,0,1,0,7,0,0,0,0,1
+Steven Pienaar,Sunderland,15,MID,0,0,2,5,1,13,0,0,0,0,0
+Adrian Mariappa,Watford,15,DEF,0,0,1,0,0,13,0,0,0,0,3
+Kurt Zouma,Chelsea,15,DEF,0,1,0,0,0,8,0,0,0,0,3
+Lys Mousset,Bournemouth,14,FWD,0,1,1,0,0,4,1,0,0,0,0
+Craig Gardner,West Brom,14,MID,0,1,1,1,0,6,0,0,0,0,0
+Axel Tuanzebe,Man Utd,14,DEF,0,0,2,0,0,4,0,0,0,0,0
+Ashley Westwood,Burnley,13,MID,0,0,1,3,0,9,0,0,0,0,0
+Gerard Deulofeu,Everton,13,MID,0,0,0,1,0,6,0,0,0,0,0
+Shay Given,Stoke,13,GK,0,0,0,1,0,14,1,0,1,18,3
+Fabian Delph,Man City,13,MID,1,0,0,1,0,4,0,0,0,0,0
+Omar Elabdellaoui,Hull,13,DEF,0,0,1,0,0,16,0,0,0,0,0
+Joshua Sims,Southampton,12,MID,0,1,1,0,0,1,0,0,0,0,0
+Lee Cattermole,Sunderland,12,MID,0,0,0,4,0,13,0,0,0,0,0
+Diafra Sakho,West Ham,12,FWD,1,0,0,0,0,4,0,0,0,0,2
+Mathieu Flamini,Crystal Palace,12,MID,0,0,0,0,0,6,0,0,0,0,0
+Nathan Dyer,Swansea,12,MID,0,1,0,0,0,11,0,0,0,0,0
+Matt Targett,Southampton,12,DEF,0,0,1,0,0,4,0,0,0,0,0
+Patrick McNair,Sunderland,12,DEF,0,0,1,0,0,9,1,0,0,0,0
+Lynden Gooch,Sunderland,12,MID,0,0,1,3,0,9,0,0,0,0,0
+Jonathan Leko,West Brom,12,MID,0,1,0,0,0,3,0,0,0,0,0
+Jan Kirchhoff,Sunderland,12,MID,0,1,0,1,0,11,0,0,0,0,0
+Nathaniel Chalobah,Chelsea,12,MID,0,1,0,2,0,3,0,0,0,0,0
+Simone Zaza,West Ham,10,FWD,0,0,2,2,0,14,0,0,0,0,0
+Emilio Nsue Lopez,Middlesbrough,10,DEF,0,0,1,0,0,5,0,0,0,0,0
+Gökhan Töre,West Ham,10,MID,0,1,1,0,0,4,0,0,0,0,0
+Timothy Fosu-Mensah,Man Utd,9,DEF,0,0,1,0,0,0,0,0,0,0,0
+Brendan Galloway,Everton,9,DEF,0,0,1,0,0,3,0,0,0,0,0
+Josh Tymon,Hull,9,DEF,0,0,1,1,0,8,0,0,0,0,0
+Jon Flanagan,Burnley,9,DEF,0,0,1,2,0,4,0,0,0,0,0
+Ezekiel Fryers,Crystal Palace,9,DEF,0,1,0,0,0,7,0,0,0,0,0
+Matthew Pennington,Everton,9,DEF,1,0,0,0,0,6,0,0,0,0,0
+Sam Field,West Brom,9,MID,0,0,1,2,0,1,0,0,0,0,0
+Damian Emiliano Martinez,Arsenal,8,GK,0,0,1,0,0,3,0,0,0,5,0
+Jordan Rhodes,Middlesbrough,8,FWD,0,0,0,0,0,2,0,0,0,0,0
+Mauro Zárate,Watford,8,FWD,0,1,0,0,0,3,0,0,0,0,0
+Joshua Harrop,Man Utd,8,MID,1,0,1,0,0,0,0,0,0,0,0
+Adam Federici,Bournemouth,8,GK,0,0,1,1,0,3,0,0,0,5,1
+Max Gradel,Bournemouth,8,MID,0,0,0,3,0,1,0,0,0,0,0
+Will Keane,Hull,8,FWD,0,0,1,0,0,10,0,0,0,0,0
+Georges-Kévin Nkoudou,Spurs,8,MID,0,0,0,0,0,0,0,0,0,0,0
+Jonas Olsson,West Brom,8,DEF,0,0,1,3,0,13,0,0,0,0,0
+Jarrod Bowen,Hull,8,FWD,0,0,0,0,0,8,0,0,0,0,0
+Trent Alexander-Arnold,Liverpool,8,MID,0,0,0,0,0,2,0,0,0,0,0
+Demetri Mitchell,Man Utd,8,DEF,0,0,1,0,0,0,0,0,0,0,2
+Bakary Sako,Crystal Palace,7,MID,0,0,0,0,0,5,0,0,0,0,0
+George Honeyman,Sunderland,7,MID,0,0,1,1,0,4,0,0,0,0,0
+Michael Kightly,Burnley,6,MID,0,0,0,0,0,1,0,0,0,0,0
+Arouna Koné,Everton,6,FWD,0,0,0,0,0,3,0,0,0,0,0
+Joel Dinis Castro Pereira,Man Utd,6,GK,0,0,1,0,0,0,0,0,0,1,0
+Jerome Sinclair,Watford,6,FWD,0,0,0,0,0,1,0,0,0,0,0
+Lewis Grabban,Bournemouth,6,FWD,0,1,0,0,0,2,0,0,0,0,0
+Loïc Remy,Crystal Palace,6,FWD,0,0,1,0,0,3,0,0,0,0,0
+Nampalys Mendy,Leicester,6,MID,0,0,1,1,0,5,0,0,0,0,0
+Pape Souaré,Crystal Palace,6,DEF,0,0,0,0,0,3,0,0,0,0,0
+Ruben Loftus-Cheek,Chelsea,6,MID,0,0,0,0,0,0,0,0,0,0,0
+Jérémy Pied,Southampton,5,DEF,0,0,0,0,0,1,0,0,0,0,0
+Joshua Onomah,Spurs,5,MID,0,0,0,0,0,0,0,0,0,0,0
+Oliver McBurnie,Swansea,5,FWD,0,0,0,0,0,5,0,0,0,0,0
+Paul Robinson,Burnley,5,GK,0,0,0,0,0,7,0,0,0,10,0
+Ben Woodburn,Liverpool,5,MID,0,0,0,0,0,1,0,0,0,0,0
+Julien Ngoy,Stoke,5,FWD,0,0,0,0,0,1,0,0,0,0,0
+Aleix García Serrano,Man City,4,MID,0,0,0,0,0,2,0,0,0,0,0
+Marko Grujic,Liverpool,4,MID,0,0,0,1,0,0,0,0,0,0,0
+Jordon Mutch,Crystal Palace,4,MID,0,0,0,0,0,1,0,0,0,0,0
+David Nugent,Middlesbrough,4,FWD,0,0,0,0,0,0,0,0,0,0,0
+Tyrone Mings,Bournemouth,4,DEF,0,0,0,0,0,16,2,0,0,0,2
+Kevin Stewart,Liverpool,4,DEF,0,0,0,0,0,0,0,0,0,0,0
+Filip Lesniak,Spurs,4,MID,0,1,0,0,0,0,0,0,0,0,0
+Bradley Smith,Bournemouth,4,DEF,0,0,0,1,0,9,0,0,0,0,0
+Ryan Allsop,Bournemouth,3,GK,0,0,0,0,0,1,0,0,0,4,0
+Memphis Depay,Man Utd,3,MID,0,0,0,1,0,1,0,0,0,0,0
+Ola Aina,Chelsea,3,DEF,0,0,0,0,0,0,0,0,0,0,0
+Harrison Reed,Southampton,3,MID,0,0,0,0,0,1,0,0,0,0,0
+Kristoffer Nordfeldt,Swansea,3,GK,0,0,0,0,0,1,0,0,0,4,0
+Aiden O'Neill,Burnley,3,MID,0,0,0,0,0,4,0,0,0,0,0
+Albert Adomah,Middlesbrough,3,MID,0,0,0,0,0,2,0,0,0,0,0
+Luis Hernández,Leicester,3,DEF,0,0,0,1,0,8,0,0,0,0,0
+Kevin Long,Burnley,3,DEF,0,0,0,0,0,6,0,0,0,0,0
+Robert Kenedy Nunes do Nascimento,Chelsea,3,MID,0,0,0,0,0,3,0,0,0,0,0
+Scott McTominay,Man Utd,3,MID,0,0,1,1,0,0,0,0,0,0,0
+Daniel Agyei,Burnley,3,FWD,0,0,0,0,0,0,0,0,0,0,0
+Oviemuno Ejaria,Liverpool,2,MID,0,0,0,0,0,0,0,0,0,0,0
+Asmir Begovic,Chelsea,2,GK,0,0,0,0,0,5,0,0,0,1,0
+Martín Cáceres,Southampton,2,DEF,0,0,0,0,0,1,0,0,0,0,0
+David Ospina,Arsenal,2,GK,0,0,0,0,0,4,0,0,0,4,0
+Lukas Jutkiewicz,Burnley,2,FWD,0,0,0,0,0,0,0,0,0,0,0
+Carl Jenkinson,Arsenal,2,DEF,0,0,0,0,0,1,0,0,0,0,0
+Dion Pereira,Watford,2,MID,0,0,0,0,0,1,0,0,0,0,0
+Mile Jedinak,Crystal Palace,2,MID,0,0,0,0,0,1,0,0,0,0,0
+Jeremain Lens,Sunderland,2,MID,0,0,0,0,0,1,0,0,0,0,0
+Kevin Wimmer,Spurs,2,DEF,0,0,0,3,0,4,1,0,0,0,0
+Costel Pantilimon,Watford,2,GK,0,0,0,0,0,4,0,0,0,6,0
+Ikechi Anya,Watford,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Ainsley Maitland-Niles,Arsenal,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Marcin Wasilewski,Leicester,1,DEF,0,0,0,0,0,2,0,0,0,0,0
+Ben Watson,Watford,1,MID,0,0,0,0,1,2,0,0,0,0,0
+Per Mertesacker,Arsenal,1,DEF,0,0,0,0,0,1,0,0,0,0,0
+Philipp Wollscheid,Stoke,1,DEF,0,0,0,1,0,5,0,0,0,0,0
+Jonathan Benteke,Crystal Palace,1,FWD,0,0,0,0,0,0,0,0,0,0,0
+Baily Cargill,Bournemouth,1,DEF,0,0,0,0,0,0,0,0,0,0,0
+Sullay Kaikai,Crystal Palace,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Mathieu Debuchy,Arsenal,1,DEF,0,0,0,0,0,0,0,0,0,0,0
+Rickie Lambert,West Brom,1,FWD,0,0,0,0,0,0,0,0,0,0,0
+David Jones,Burnley,1,MID,0,0,0,1,0,1,0,0,0,0,0
+Joel Asoro,Sunderland,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Joleon Lescott,Sunderland,1,DEF,0,0,0,0,0,5,0,0,0,0,0
+Angel Gomes,Man Utd,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Samir Nasri,Man City,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Matej Vydra,Watford,1,FWD,0,0,0,0,0,0,0,0,0,0,0
+Declan Rice,West Ham,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Jonjoe Kenny,Everton,1,DEF,0,0,0,0,0,0,0,0,0,0,0
+Matthew James,Leicester,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Matthew Worthington,Bournemouth,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Brandon Mason,Watford,1,DEF,0,0,0,0,0,5,0,0,0,0,0
+Michael Folivi,Watford,1,FWD,0,0,0,0,0,0,0,0,0,0,0
+Zachary Dearnley,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Fredrik Ulvestad,Burnley,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Jeff Reine-Adelaide,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Eunan O'Kane,Bournemouth,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Stephen Ireland,Stoke,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Álvaro Arbeloa,West Ham,0,DEF,0,0,0,3,0,9,0,0,0,0,0
+Alex Pritchard,Spurs,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Alex Pike,West Ham,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+James Wilson,Man Utd,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Steven Berghuis,Watford,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Aaron Wan-Bissaka,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Daniel James,Swansea,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Alex Palmer,West Brom,0,GK,0,0,0,0,0,0,0,0,0,0,0
+James Weir,Hull,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Ethan Robson,Sunderland,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Alex McCarthy,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Stuart Taylor,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Yaya Sanogo,Arsenal,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Danny Ings,Liverpool,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Andrew Eleftheriou,Watford,0,DEF,0,0,0,0,0,2,0,0,0,0,0
+Joe Hart,Man City,0,GK,0,0,0,0,0,0,0,0,0,0,0
+John Obi Mikel,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Andreas Pereira,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Serge Gnabry,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Florin Gardos,Southampton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Daniel Kemp,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Joel Taylor,Stoke,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Daniel Lafferty,Burnley,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Shaun MacDonald,Bournemouth,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Joel Campbell,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Franck Tabanou,Swansea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Almen Abdi,Watford,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Allan McGregor,Hull,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Aaron Ramsdale,Bournemouth,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Joe Williams,Everton,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Abdul Rahman Baba,Chelsea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Alexander Manninger,Liverpool,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Guillermo Varela,Man Utd,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Eliaquim Mangala,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Greg Luer,Hull,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Jack Rose,West Brom,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Elliott Moore,Leicester,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Tyias Browning,Everton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Adam Reach,Middlesbrough,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Dionatan do Nascimento Teixeira,Stoke,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Elliot Embleton,Sunderland,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Domingos Quina,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Hiram Boateng,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
+DeAndre Yedlin,Spurs,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Dominic Solanke,Chelsea,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Harry Wilson,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Dusan Kuciak,Hull,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Greg Olley,Hull,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Harry Lewis,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Eduardo Dos Reis Carvalho,Chelsea,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Gökhan Inler,Leicester,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Tommie Hoban,Watford,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Dimitrios Konstantopoulos,Middlesbrough,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Jake Hesketh,Southampton,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Jakob Haugaard,Stoke,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Sébastien Pocognoli,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Takuma Asano,Arsenal,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Tendayi Darikwa,Burnley,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Alex Bruce,Hull,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Thibaud Verlinden,Stoke,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Alex Baptiste,Middlesbrough,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Thomas Edwards,Stoke,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Thomas Robson,Sunderland,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Giedrius Arlauskis,Watford,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Adam Matthews,Sunderland,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Williams,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
+James Husband,Middlesbrough,0,DEF,0,0,0,0,0,3,0,0,0,0,0
+Tokelo Rantie,Bournemouth,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Emerson Hyndman,Bournemouth,0,MID,0,0,0,0,0,0,0,0,0,0,0
+James Chester,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Gerhard Tremmel,Swansea,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Mohamed Diamé,Hull,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Samuel Shashoua,Spurs,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Carl Stewart,Watford,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Matt Macey,Arsenal,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Olayinka Fredrick Oladotun Ladapo,Crystal Palace,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Oleksandr Zinchenko,Man City,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Mateusz Hewelt,Everton,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Olufela Olomola,Southampton,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Oluwaseyi Ojo,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Oluwatosin Adarabioyo,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Marvin Emnes,Swansea,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Carlos De Pena,Middlesbrough,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Bertrand Traore,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Pablo Maffeo,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Mario Suárez,Watford,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Mario Balotelli,Liverpool,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Marcus Browne,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Charlie Rowan,Watford,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Chris Long,Burnley,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Ben Wynter,Crystal Palace,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Pau López Sabata,Spurs,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Matt Miazga,Chelsea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Noor Husin,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Sam Surridge,Bournemouth,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Nabil Bentaleb,Spurs,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Molla Wagué,Leicester,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Brian Lenihan,Hull,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Moses Makasi,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Moses Odubajo,Hull,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Mouez Hassen,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Michael Simões Domingues,Sunderland,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Michael Phillips,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Muhamed Besic,Everton,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Michael Ledger,Sunderland,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Cameron Carter-Vickers,Spurs,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Brice Dja Djédjé,Watford,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Callum McManaman,West Brom,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Nathan Holland,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Matthew Willock,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Cameron Borthwick-Jackson,Man Utd,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Cameron Brannagan,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Boaz Myhill,West Brom,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Nick Pope,Burnley,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Marco Van Ginkel,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Paulo Gazzaniga,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Pedro Chirivella,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Juan Cuadrado,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Kieran O'Hara,Man Utd,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Cristian Gamboa,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Keshi Anderson,Crystal Palace,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Kane Wilson,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Rouwen Hennings,Burnley,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Dael Fry,Middlesbrough,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Julien de Sart,Middlesbrough,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Julian Speroni,Crystal Palace,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Juan Carlos Paredes,Watford,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Marc Wilson,West Brom,0,DEF,0,0,0,3,0,7,0,0,0,0,0
+Josh Robson,Sunderland,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Josh Maja,Sunderland,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Angus Gunn,Man City,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Josh Cullen,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Joseph Gomez,Liverpool,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Jose Luis Mato Sanmartín,Stoke,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Jose Angel Esmoris Tasende,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Daniel Batty,Hull,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Connor Roberts,Swansea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Connor Randall,Liverpool,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Clinton N'Jie,Spurs,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Lloyd Isgrove,Southampton,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Ben Hinchcliffe,Hull,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Ben Hamer,Leicester,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Chuba Akpom,Arsenal,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Bastian Schweinsteiger,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Mamadou Obbi Oularé,Watford,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Bartosz Kapustka,Leicester,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Maksymilian Stryjek,Sunderland,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Luke McGee,Spurs,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Luke Dreher,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Raphael Spiegel,West Ham,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Reece Burke,West Ham,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Reece Oxford,West Ham,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Rekeem Harper,West Brom,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Rene Gilmartin,Watford,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Rhian Brewster,Liverpool,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Ritchie de Laet,Leicester,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Bafétimbi Gomis,Swansea,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Josh Clackstone,Hull,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Alexis Sánchez,All Teams,264,MID,24,11,13,6,0,41,0,1,0,0,32
+Bamidele Alli,All Teams,225,MID,18,11,17,4,0,22,0,0,0,0,17
+Harry Kane,All Teams,224,FWD,29,7,14,3,0,19,0,1,0,0,33
+Eden Hazard,All Teams,224,MID,16,9,17,3,0,29,0,1,0,0,33
+Romelu Lukaku,All Teams,221,FWD,25,6,13,3,0,42,0,0,0,0,33
+Christian Eriksen,All Teams,218,MID,8,20,16,0,0,24,0,0,0,0,30
+Kevin De Bruyne,All Teams,199,MID,6,21,11,4,0,34,0,1,0,0,33
+Diego Da Silva Costa,All Teams,196,FWD,20,11,14,10,0,30,0,1,0,0,25
+Gylfi Sigurdsson,All Teams,181,MID,9,13,7,2,0,70,0,0,0,0,18
+Roberto Firmino,All Teams,180,MID,11,11,11,5,0,39,0,0,0,0,17
+Gary Cahill,All Teams,178,DEF,6,0,17,5,0,29,1,0,0,0,15
+Joshua King,All Teams,178,MID,16,3,9,1,0,54,0,1,0,0,17
+Marcos Alonso,All Teams,177,DEF,6,5,15,2,0,19,0,0,0,0,11
+Sergio Agüero,All Teams,175,FWD,20,5,8,4,1,30,0,1,0,0,32
+Heung-Min Son,All Teams,174,MID,14,9,10,2,0,18,0,0,0,0,13
+Philippe Coutinho,All Teams,171,MID,13,8,8,2,0,27,0,0,0,0,21
+César Azpilicueta,All Teams,170,DEF,1,5,16,4,0,33,0,0,0,0,22
+Mesut Özil,All Teams,167,MID,8,11,12,2,0,30,0,0,0,0,19
+Jermain Defoe,All Teams,166,FWD,15,3,6,1,0,63,0,0,0,0,24
+Zlatan Ibrahimovic,All Teams,163,FWD,17,7,11,7,0,22,0,1,0,0,28
+Pedro Rodríguez Ledesma,All Teams,162,MID,9,10,15,6,0,15,0,0,0,0,18
+Jamie Vardy,All Teams,161,FWD,13,8,7,2,1,57,0,0,0,0,24
+Sadio Mané,All Teams,156,MID,13,7,8,4,0,26,0,0,0,0,14
+Raheem Sterling,All Teams,149,MID,7,14,9,7,0,27,0,0,0,0,11
+Wilfried Zaha,All Teams,149,MID,7,11,7,8,0,56,0,0,0,0,13
+Tom Heaton,All Teams,149,GK,0,0,10,1,0,48,0,0,1,142,21
+Georginio Wijnaldum,All Teams,149,MID,6,9,11,2,0,37,0,0,0,0,14
+Fernando Llorente,All Teams,146,FWD,15,3,5,2,0,51,0,0,0,0,22
+Ross Barkley,All Teams,144,MID,5,11,12,5,0,36,0,0,0,0,11
+Hugo Lloris,All Teams,143,GK,0,0,15,0,0,24,0,0,0,78,6
+Kyle Walker,All Teams,142,DEF,0,6,14,8,0,21,0,0,0,0,18
+Thibaut Courtois,All Teams,141,GK,0,0,16,1,0,28,0,0,0,69,0
+James Milner,All Teams,139,MID,7,4,12,5,0,35,0,1,0,0,16
+Adam Lallana,All Teams,139,MID,8,7,9,3,0,32,0,0,0,0,14
+David de Gea,All Teams,136,GK,0,0,14,2,0,29,0,0,0,74,5
+Christian Benteke,All Teams,136,FWD,15,2,7,10,0,58,0,2,0,0,13
+Leighton Baines,All Teams,135,DEF,2,5,11,4,0,34,0,1,0,0,15
+Petr Cech,All Teams,134,GK,0,0,12,2,0,37,1,0,0,115,2
+Fraser Forster,All Teams,134,GK,0,0,14,3,0,48,0,0,1,76,4
+Charlie Daniels,All Teams,134,DEF,4,3,10,1,0,53,0,0,0,0,14
+Seamus Coleman,All Teams,133,DEF,4,4,10,3,0,28,0,0,0,0,15
+Robert Snodgrass,All Teams,133,MID,7,6,3,2,0,56,0,0,0,0,16
+Manuel Lanzini,All Teams,133,MID,8,3,9,9,0,53,0,0,0,0,20
+Michail Antonio,All Teams,132,MID,9,8,7,4,1,43,0,0,0,0,8
+David Luiz Moreira Marinho,All Teams,132,DEF,1,1,15,6,0,26,0,0,0,0,10
+Gareth McAuley,All Teams,131,DEF,6,1,7,5,0,45,1,0,0,0,14
+Etienne Capoue,All Teams,131,MID,7,2,7,5,0,60,0,0,0,0,14
+David Silva,All Teams,130,MID,4,9,12,6,0,32,0,0,0,0,12
+Álvaro Negredo,All Teams,130,FWD,9,5,10,5,0,45,0,0,0,0,17
+Troy Deeney,All Teams,130,FWD,10,4,6,7,0,52,1,0,0,0,18
+Nathaniel Clyne,All Teams,129,DEF,0,2,12,0,0,41,0,0,0,0,13
+Ashley Williams,All Teams,127,DEF,1,3,13,7,1,40,0,0,0,0,9
+Nathan Redmond,All Teams,126,MID,7,1,12,2,1,40,0,0,0,0,13
+Jan Vertonghen,All Teams,126,DEF,0,0,15,5,0,21,0,0,0,0,8
+Ryan Bertrand,All Teams,123,DEF,2,5,12,3,0,36,0,0,0,0,9
+Theo Walcott,All Teams,122,MID,10,3,8,1,0,26,0,1,0,0,7
+Cesc Fàbregas,All Teams,121,MID,5,15,4,8,0,14,0,0,0,0,14
+Laurent Koscielny,All Teams,121,DEF,2,1,10,4,1,37,0,0,0,0,19
+Ben Gibson,All Teams,121,DEF,1,1,11,4,0,53,0,0,0,0,14
+Sam Vokes,All Teams,121,FWD,10,4,5,0,0,34,0,0,0,0,12
+Antonio Valencia,All Teams,120,DEF,1,3,12,5,0,20,0,0,0,0,9
+Toby Alderweireld,All Teams,120,DEF,1,0,14,1,0,17,0,0,0,0,4
+Riyad Mahrez,All Teams,120,MID,6,4,9,4,0,48,0,2,0,0,9
+Artur Boruc,All Teams,120,GK,0,0,9,2,0,63,0,0,2,115,7
+Kevin Mirallas,All Teams,119,MID,4,8,11,2,0,26,0,0,0,0,8
+Héctor Bellerín,All Teams,119,DEF,1,5,10,4,0,34,0,0,0,0,12
+Joe Allen,All Teams,118,MID,6,3,10,9,0,49,0,0,0,0,10
+Salomón Rondón,All Teams,118,FWD,8,3,6,2,0,44,0,0,0,0,10
+Marko Arnautovic,All Teams,117,MID,6,7,9,9,1,43,0,1,0,0,8
+Lukasz Fabianski,All Teams,116,GK,0,0,8,1,0,69,0,0,1,117,8
+Olivier Giroud,All Teams,116,FWD,12,5,4,2,0,16,0,0,0,0,17
+Andros Townsend,All Teams,116,MID,3,7,7,4,0,38,0,0,0,0,16
+Matt Phillips,All Teams,115,MID,4,9,6,2,0,28,0,0,0,0,12
+Paul Pogba,All Teams,115,MID,5,4,13,7,0,21,0,0,0,0,14
+Nacho Monreal,All Teams,115,DEF,0,3,11,5,0,43,0,0,0,0,9
+Willian Borges Da Silva,All Teams,114,MID,8,3,6,3,0,19,0,0,0,0,13
+Michael Keane,All Teams,113,DEF,2,1,10,4,0,49,0,0,0,0,10
+Ben Foster,All Teams,113,GK,0,0,6,2,0,51,0,0,0,115,4
+Heurelho Gomes,All Teams,113,GK,0,0,7,1,0,64,1,0,1,117,6
+Steve Cook,All Teams,112,DEF,2,0,10,5,0,67,1,0,0,0,17
+Simon Mignolet,All Teams,110,GK,0,0,9,0,0,30,0,0,2,52,7
+Nacer Chadli,All Teams,110,MID,5,6,6,2,0,32,0,0,0,0,8
+Kasper Schmeichel,All Teams,109,GK,0,0,8,1,0,47,0,0,0,113,10
+Andre Gray,All Teams,108,FWD,9,3,8,2,0,33,0,0,0,0,10
+Dusan Tadic,All Teams,108,MID,3,7,13,4,0,29,0,1,0,0,4
+Junior Stanislas,All Teams,107,MID,7,6,4,1,0,29,0,0,0,0,13
+Dejan Lovren,All Teams,106,DEF,2,1,11,6,0,31,0,0,0,0,6
+Bruno Martins Indi,All Teams,106,DEF,1,0,11,4,0,50,0,0,0,0,9
+Lee Grant,All Teams,106,GK,0,0,9,1,0,34,0,0,0,91,9
+Leroy Sané,All Teams,105,MID,5,7,9,4,0,15,0,0,0,0,8
+Victor Moses,All Teams,105,MID,3,3,17,4,0,15,0,0,0,0,6
+Eric Bailly,All Teams,105,DEF,0,0,13,4,0,15,0,0,0,0,14
+Nemanja Matic,All Teams,105,MID,1,8,15,4,0,24,0,0,0,0,1
+Adam Smith,All Teams,104,DEF,1,5,8,6,0,61,1,0,0,0,12
+Emre Can,All Teams,104,MID,5,2,9,6,0,28,0,0,0,0,12
+Phil Jagielka,All Teams,104,DEF,3,3,6,4,1,32,0,0,0,0,16
+Christian Fuchs,All Teams,104,DEF,2,4,8,10,0,57,0,0,0,0,10
+Victor Wanyama,All Teams,103,MID,4,2,12,10,0,25,0,0,0,0,7
+Darren Fletcher,All Teams,103,MID,2,3,8,0,0,45,0,0,0,0,2
+Erik Pieters,All Teams,103,DEF,0,2,10,5,0,50,0,0,0,0,9
+Craig Dawson,All Teams,102,DEF,4,0,6,10,0,50,0,0,0,0,6
+Cédric Soares,All Teams,102,DEF,0,3,11,7,0,36,0,0,0,0,11
+Jordan Pickford,All Teams,102,GK,0,0,4,0,0,50,0,0,0,135,9
+Winston Reid,All Teams,102,DEF,2,3,9,8,1,48,0,0,0,0,16
+Juan Mata,All Teams,102,MID,6,3,10,3,0,16,1,0,0,0,14
+Víctor Valdés,All Teams,102,GK,0,0,8,1,0,36,0,0,0,79,10
+Ryan Fraser,All Teams,100,MID,3,9,7,3,0,32,0,0,0,0,8
+Nicolás Otamendi,All Teams,100,DEF,1,2,9,9,0,28,0,0,0,0,10
+Chris Brunt,All Teams,99,DEF,3,4,4,5,0,37,0,0,0,0,11
+Jose Fonte,All Teams,98,DEF,0,0,11,4,0,46,0,0,0,0,10
+Daley Blind,All Teams,98,DEF,1,2,9,2,0,17,0,0,0,0,14
+Patrick van Aanholt,All Teams,98,DEF,5,1,5,3,0,53,0,0,0,0,9
+Ander Herrera,All Teams,97,MID,1,6,13,5,1,18,0,0,0,0,11
+Joel Matip,All Teams,97,DEF,1,0,9,3,0,25,0,0,0,0,7
+Divock Origi,All Teams,96,FWD,7,4,7,0,0,18,0,0,0,0,8
+Anthony Martial,All Teams,95,MID,4,6,9,2,0,13,0,0,0,0,9
+Marc Albrighton,All Teams,95,MID,2,6,8,5,0,47,0,0,0,0,3
+Aleksandar Kolarov,All Teams,95,DEF,1,1,9,6,0,27,1,0,0,0,7
+Leroy Fer,All Teams,95,MID,6,2,4,9,0,49,0,0,0,0,5
+Ryan Shawcross,All Teams,94,DEF,1,2,9,6,0,53,2,0,0,0,6
+Alfie Mawson,All Teams,94,DEF,4,0,7,1,0,45,2,0,0,0,9
+Ben Mee,All Teams,94,DEF,1,2,9,5,0,49,2,0,0,0,6
+Eric Dier,All Teams,93,MID,2,0,16,6,0,24,0,0,0,0,4
+James McArthur,All Teams,93,MID,5,3,3,5,0,39,0,0,0,0,8
+Jason Puncheon,All Teams,92,MID,0,6,7,9,0,53,0,0,0,0,6
+James Ward-Prowse,All Teams,92,MID,4,4,9,4,0,26,0,0,0,0,5
+Wayne Hennessey,All Teams,92,GK,0,0,7,1,0,46,0,0,0,83,4
+George Boyd,All Teams,92,MID,2,2,9,3,0,45,0,0,0,0,2
+Marten de Roon,All Teams,91,MID,4,1,8,8,0,44,0,0,0,0,5
+Stephen Ward,All Teams,91,DEF,1,1,8,5,0,53,0,0,0,0,3
+Yohan Cabaye,All Teams,91,MID,4,4,7,7,0,41,0,1,0,0,6
+Shkodran Mustafi,All Teams,90,DEF,2,2,8,11,0,30,0,0,0,0,8
+Ben Davies,All Teams,90,DEF,1,3,8,1,0,13,0,0,0,0,5
+Matthew Lowton,All Teams,90,DEF,0,2,9,9,0,53,0,0,0,0,5
+Alex Iwobi,All Teams,89,MID,3,5,9,1,0,20,0,0,0,0,8
+André Ayew,All Teams,89,MID,6,3,6,1,0,25,0,0,0,0,5
+Simon Francis,All Teams,89,DEF,0,1,10,4,1,54,0,0,0,0,7
+Joel Robles,All Teams,89,GK,0,1,10,2,0,20,0,0,0,54,5
+Robert Huth,All Teams,88,DEF,2,2,9,9,0,49,2,0,0,0,1
+Benik Afobe,All Teams,88,FWD,6,5,5,1,0,24,0,1,0,0,9
+José Holebas,All Teams,87,DEF,2,4,7,14,0,61,0,0,0,0,9
+Sam Clucas,All Teams,87,MID,3,1,5,9,1,75,0,0,0,0,4
+Gaël Clichy,All Teams,87,DEF,1,0,8,2,0,24,0,0,0,0,9
+Joel Ward,All Teams,86,DEF,0,1,7,7,0,63,0,0,0,0,7
+Gnegneri Yaya Touré,All Teams,86,MID,5,0,12,4,0,17,0,0,0,0,6
+Eldin Jakupovic,All Teams,86,GK,0,0,5,0,0,36,0,0,2,73,7
+Danny Simpson,All Teams,85,DEF,0,3,9,12,0,50,0,0,0,0,4
+Granit Xhaka,All Teams,85,MID,2,3,10,5,2,32,0,0,0,0,7
+Harry Arter,All Teams,84,MID,1,4,9,11,1,62,0,1,0,0,6
+Danny Rose,All Teams,84,DEF,2,3,8,8,0,11,0,0,0,0,6
+James Morrison,All Teams,84,MID,5,2,4,3,0,22,0,0,0,0,4
+Calum Chambers,All Teams,83,DEF,2,1,7,4,0,37,0,0,0,0,7
+Islam Slimani,All Teams,83,FWD,7,4,5,1,0,23,0,0,0,0,9
+N'Golo Kanté,All Teams,83,MID,1,1,13,9,0,33,0,0,0,0,1
+Alex Oxlade-Chamberlain,All Teams,83,MID,2,7,4,1,0,22,0,0,0,0,3
+Kyle Naughton,All Teams,82,DEF,1,0,8,5,0,48,1,0,0,0,7
+Ashley Barnes,All Teams,81,FWD,6,3,6,6,1,27,0,0,0,0,10
+Dimitri Payet,All Teams,81,MID,2,8,4,2,0,28,0,0,0,0,10
+Idrissa Gueye,All Teams,80,MID,1,2,9,11,0,31,0,0,0,0,9
+Xherdan Shaqiri,All Teams,80,MID,4,2,8,2,0,21,0,0,0,0,8
+Oriol Romeu Vidal,All Teams,80,MID,1,0,13,11,0,42,0,0,0,0,4
+Jonny Evans,All Teams,79,DEF,2,1,4,8,0,39,0,0,0,0,7
+Peter Crouch,All Teams,79,FWD,7,3,4,3,0,23,0,0,0,0,7
+Cheikhou Kouyaté,All Teams,79,MID,1,1,9,3,0,46,0,0,0,0,3
+Fernando Luiz Rosa,All Teams,78,MID,2,1,10,4,2,27,0,0,0,0,3
+Maya Yoshida,All Teams,78,DEF,1,1,7,2,0,32,0,0,0,0,8
+Adam Forshaw,All Teams,77,MID,0,2,9,4,0,36,0,0,0,0,3
+Jake Livermore,All Teams,77,MID,1,1,4,5,1,62,0,0,0,0,2
+Marcos Rojo,All Teams,77,DEF,1,0,8,5,0,13,0,0,0,0,7
+Steven Davis,All Teams,77,MID,0,3,10,3,0,37,0,0,0,0,0
+Stewart Downing,All Teams,77,MID,1,3,7,1,0,39,0,0,0,0,3
+Jeff Hendrick,All Teams,76,MID,2,1,9,6,1,47,0,0,0,0,1
+Marcus Rashford,All Teams,76,FWD,5,3,7,3,0,15,0,0,0,0,2
+Mousa Dembélé,All Teams,76,MID,1,2,11,5,0,17,0,0,0,0,6
+Wayne Rooney,All Teams,76,FWD,5,5,6,8,0,16,0,0,0,0,9
+Virgil van Dijk,All Teams,75,DEF,1,0,7,3,1,23,0,0,0,0,14
+James Tomkins,All Teams,75,DEF,3,0,6,4,0,36,0,0,0,0,5
+Allan-Roméo Nyom,All Teams,74,DEF,0,2,5,8,0,39,0,0,0,0,6
+Wayne Routledge,All Teams,74,MID,3,2,5,1,0,42,0,0,0,0,2
+Henrikh Mkhitaryan,All Teams,73,MID,4,1,10,1,0,8,0,0,0,0,3
+Jordan Henderson,All Teams,73,MID,1,4,7,8,0,28,0,0,0,0,9
+Jay Rodriguez,All Teams,73,MID,5,2,3,0,0,15,0,0,0,0,8
+Andrew Robertson,All Teams,73,DEF,1,2,5,5,0,59,0,0,0,0,4
+Claudio Bravo,All Teams,73,GK,0,0,6,0,0,26,0,0,1,33,3
+Jonathan Walters,All Teams,72,MID,4,3,6,1,0,22,0,0,0,0,3
+Abel Hernández,All Teams,72,FWD,4,4,4,0,0,23,0,0,0,0,6
+Harry Maguire,All Teams,71,DEF,2,3,4,5,0,53,0,0,0,0,5
+Antonio Barragán,All Teams,71,DEF,0,0,7,5,0,32,0,0,0,0,8
+Miguel Britos,All Teams,71,DEF,1,2,6,6,2,36,0,0,0,0,8
+Mark Noble,All Teams,71,MID,3,0,8,10,0,40,0,1,0,0,5
+Adam Clayton,All Teams,70,MID,0,2,10,10,0,45,0,0,0,0,0
+Matteo Darmian,All Teams,70,DEF,0,0,9,3,0,8,0,0,0,0,6
+Lamine Koné,All Teams,69,DEF,1,0,5,4,0,46,0,0,0,0,5
+Andy Carroll,All Teams,69,FWD,7,2,3,3,0,27,0,0,0,0,6
+James Collins,All Teams,69,DEF,2,0,6,3,0,29,0,0,0,0,7
+Darren Randolph,All Teams,69,GK,0,0,4,1,0,39,0,0,1,64,5
+Scott Arfield,All Teams,69,MID,1,2,6,3,0,36,0,0,0,0,3
+Daniel Drinkwater,All Teams,69,MID,1,1,8,6,0,44,0,0,0,0,3
+Ramiro Funes Mori,All Teams,69,DEF,0,1,7,0,0,19,0,0,0,0,4
+Maarten Stekelenburg,All Teams,68,GK,0,0,4,2,0,24,1,0,2,43,3
+Gareth Barry,All Teams,68,MID,2,1,7,10,0,28,0,0,0,0,3
+Gabriel Fernando de Jesus,All Teams,67,FWD,7,4,3,2,0,5,0,0,0,0,12
+Sebastian Prödl,All Teams,67,DEF,1,2,5,10,1,49,0,0,0,0,3
+Didier Ndong,All Teams,67,MID,1,1,5,5,0,48,0,0,0,0,1
+Nordin Amrabat,All Teams,65,MID,0,3,4,4,0,51,0,0,0,0,5
+Marc Pugh,All Teams,64,MID,2,3,5,1,0,24,0,0,0,0,6
+Adrián San Miguel del Castillo,All Teams,64,GK,0,0,6,1,0,25,0,0,0,53,6
+Willy Caballero,All Teams,64,GK,0,0,6,0,0,13,0,0,1,31,1
+Shinji Okazaki,All Teams,63,FWD,3,1,7,1,0,26,0,0,0,0,3
+Wes Morgan,All Teams,63,DEF,1,1,5,3,0,45,0,0,0,0,0
+Federico Fernández,All Teams,63,DEF,0,1,6,7,0,41,0,0,0,0,4
+Callum Wilson,All Teams,63,FWD,6,1,6,0,0,25,0,0,0,0,2
+Tom Davies,All Teams,63,MID,2,3,8,4,0,17,0,0,0,0,0
+Tom Huddlestone,All Teams,62,MID,1,2,4,5,1,47,1,0,0,0,5
+Ahmed Elmohamady,All Teams,62,MID,0,2,3,3,1,63,1,0,0,0,1
+Charlie Austin,All Teams,62,FWD,6,1,6,1,0,8,0,0,0,0,10
+Glenn Whelan,All Teams,62,MID,0,1,7,5,0,40,1,0,0,0,3
+Jack Wilshere,All Teams,61,MID,0,3,5,4,0,45,0,0,0,0,2
+Scott Dann,All Teams,61,DEF,3,1,2,2,0,36,0,0,0,0,4
+Jesse Lingard,All Teams,60,MID,1,3,7,3,0,12,0,0,0,0,3
+Jack Stephens,All Teams,60,DEF,0,1,6,1,0,24,0,0,0,0,10
+Aaron Cresswell,All Teams,60,DEF,0,2,5,2,1,35,0,0,0,0,1
+John Stones,All Teams,59,DEF,0,0,4,1,0,29,0,0,0,0,4
+Charlie Adam,All Teams,59,MID,1,4,6,7,0,23,0,0,0,0,5
+Wilfred Ndidi,All Teams,59,MID,2,3,4,0,0,28,0,0,0,0,2
+George Friend,All Teams,59,DEF,0,3,4,4,0,35,0,0,0,0,6
+Gastón Ramírez,All Teams,59,MID,2,3,6,8,1,22,0,0,0,0,6
+Demarai Gray,All Teams,58,MID,1,4,4,2,0,20,0,0,0,0,0
+Fabio Pereira da Silva,All Teams,58,DEF,0,0,6,8,0,30,0,0,0,0,8
+Geoff Cameron,All Teams,58,DEF,0,1,6,1,0,25,0,0,0,0,5
+Shane Long,All Teams,57,FWD,3,2,2,2,0,23,0,1,0,0,2
+Vincent Kompany,All Teams,57,DEF,3,0,5,5,0,6,0,0,0,0,6
+Younes Kaboul,All Teams,57,DEF,2,0,4,2,0,36,0,0,0,0,1
+Billy Jones,All Teams,56,DEF,1,0,5,8,0,49,0,0,0,0,6
+Aaron Ramsey,All Teams,56,MID,1,4,4,3,0,20,0,0,0,0,3
+Glen Johnson,All Teams,56,DEF,0,0,6,1,0,34,0,0,0,0,3
+Jason Denayer,All Teams,56,DEF,0,0,6,2,0,30,1,0,0,0,2
+Bacary Sagna,All Teams,55,DEF,0,1,6,2,0,14,0,0,0,0,3
+Vincent Janssen,All Teams,55,FWD,2,3,3,0,0,8,0,0,0,0,3
+Sofiane Feghouli,All Teams,55,MID,3,3,1,1,1,23,0,0,0,0,4
+Pedro Obiang,All Teams,55,MID,1,2,4,7,0,32,0,0,0,0,6
+Andrea Ranocchia,All Teams,55,DEF,2,2,3,2,0,31,0,0,0,0,9
+Nathan Aké,All Teams,55,DEF,3,1,3,1,0,20,0,0,0,0,8
+Tom Cleverley,All Teams,55,MID,0,3,3,4,0,40,0,0,0,0,0
+Phil Jones,All Teams,55,DEF,0,0,5,2,0,14,0,0,0,0,4
+Claudio Yacob,All Teams,54,MID,0,0,4,9,0,36,0,0,0,0,0
+Daniel Sturridge,All Teams,54,FWD,3,5,3,1,0,7,0,0,0,0,2
+Steven Defour,All Teams,54,MID,1,3,5,1,0,13,0,0,0,0,6
+Enner Valencia,All Teams,54,FWD,3,3,2,1,0,12,0,0,0,0,3
+Cristhian Stuani,All Teams,54,FWD,4,0,4,4,0,15,0,0,0,0,4
+Mason Holgate,All Teams,54,DEF,0,1,5,2,0,18,0,0,0,0,5
+Manuel Agudo Durán,All Teams,54,MID,4,3,3,3,1,7,0,0,0,0,2
+Daniel Amartey,All Teams,53,MID,1,1,4,3,0,35,0,0,0,0,3
+Kelechi Iheanacho,All Teams,52,FWD,4,3,1,0,0,9,0,0,0,0,6
+Chris Smalling,All Teams,52,DEF,1,1,4,0,0,16,0,0,0,0,1
+Adama Traoré,All Teams,52,MID,0,1,6,1,0,22,0,0,0,0,2
+Martin Olsson,All Teams,52,DEF,2,0,4,2,0,18,0,0,0,0,3
+Tom Carroll,All Teams,52,MID,1,2,5,1,0,18,0,0,0,0,4
+Francis Coquelin,All Teams,52,MID,0,1,5,5,0,27,0,0,0,0,1
+James McClean,All Teams,52,MID,1,3,2,9,0,24,0,0,0,0,1
+Hal Robson-Kanu,All Teams,52,FWD,3,2,1,3,0,13,0,0,0,0,3
+Kieran Trippier,All Teams,51,DEF,0,5,3,1,0,3,0,0,0,0,7
+Dean Marney,All Teams,51,MID,1,2,5,7,0,28,0,0,0,0,1
+Mame Biram Diouf,All Teams,51,FWD,1,2,5,3,0,26,0,0,0,0,2
+Damien Delaney,All Teams,51,DEF,0,2,3,8,0,39,0,0,0,0,3
+Daryl Janmaat,All Teams,50,DEF,2,1,2,2,0,33,0,0,0,0,0
+Jack Cork,All Teams,50,MID,0,1,3,7,0,51,2,0,0,0,0
+Adnan Januzaj,All Teams,49,MID,0,3,3,3,1,38,0,0,0,0,0
+Fabio Borini,All Teams,49,FWD,2,0,5,5,0,34,0,0,0,0,3
+M'Baye Niang,All Teams,49,FWD,2,2,3,2,0,27,0,0,0,0,6
+Dan Gosling,All Teams,49,MID,2,0,4,6,0,24,0,0,0,0,2
+Victor Anichebe,All Teams,48,FWD,3,1,3,2,0,21,0,0,0,0,5
+Valon Behrami,All Teams,48,MID,0,0,5,7,0,39,0,0,0,0,0
+Jesús Navas,All Teams,48,MID,0,3,2,2,0,17,0,0,0,0,6
+Marouane Fellaini,All Teams,48,MID,1,0,10,8,1,14,0,0,0,0,0
+Michy Batshuayi,All Teams,48,FWD,5,1,0,0,0,3,0,0,0,0,4
+Johann Berg Gudmundsson,All Teams,47,MID,1,3,3,1,0,19,0,0,0,0,3
+Leiva Lucas,All Teams,47,MID,0,3,4,4,0,17,0,0,0,0,2
+Jeffrey Schlupp,All Teams,47,DEF,0,2,3,0,0,17,0,0,0,0,4
+John O'Shea,All Teams,47,DEF,0,1,3,5,0,42,0,0,0,0,3
+Martin Kelly,All Teams,46,DEF,0,2,2,4,0,44,0,0,0,0,0
+Michael Dawson,All Teams,46,DEF,3,0,1,4,0,44,1,0,0,0,4
+Kieran Gibbs,All Teams,45,DEF,0,1,6,3,0,3,0,0,0,0,3
+Luke Shaw,All Teams,45,DEF,0,3,4,1,0,6,0,0,0,0,4
+Yannick Bolasie,All Teams,45,MID,1,4,3,3,0,14,0,0,0,0,3
+Gabriel Armando de Abreu,All Teams,45,DEF,0,0,5,6,0,18,0,0,0,0,2
+Pablo Zabaleta,All Teams,45,DEF,1,1,2,2,0,18,0,0,0,0,5
+Angelo Ogbonna,All Teams,45,DEF,0,0,4,2,0,31,0,0,0,0,2
+Oumar Niasse,All Teams,44,FWD,4,1,2,3,1,30,0,0,0,0,3
+Andrew Surman,All Teams,44,MID,0,1,4,1,1,38,0,0,0,0,0
+Ragnar Klavan,All Teams,43,DEF,0,0,3,3,0,19,0,0,0,0,4
+Moussa Sissoko,All Teams,43,MID,0,3,4,3,0,5,0,0,0,0,0
+Kamil Grosicki,All Teams,43,MID,0,5,3,1,0,27,0,0,0,0,0
+Stefano Okaka,All Teams,43,FWD,4,0,2,5,0,23,0,0,0,0,3
+Duncan Watmore,All Teams,43,MID,0,5,2,1,0,20,0,0,0,0,1
+Roberto Pereyra,All Teams,43,MID,2,3,3,2,1,17,0,0,0,0,2
+Michael Carrick,All Teams,42,MID,0,0,5,2,0,14,0,0,0,0,0
+Luka Milivojevic,All Teams,42,MID,2,0,5,4,0,16,0,0,0,0,3
+Adama Diomande,All Teams,42,FWD,2,0,2,1,0,29,0,0,0,0,2
+Andy King,All Teams,41,MID,1,0,1,4,0,26,0,0,0,0,1
+Sung-yueng Ki,All Teams,41,MID,0,1,4,3,0,28,0,0,0,0,0
+Ilkay Gündogan,All Teams,41,MID,3,1,3,0,0,8,0,0,0,0,2
+Sofiane Boufal,All Teams,40,MID,1,1,3,5,0,22,0,0,0,0,1
+Joe Ledley,All Teams,40,MID,1,1,2,1,0,26,0,0,0,0,1
+Sebastian Larsson,All Teams,40,MID,0,3,3,4,1,35,0,0,0,0,0
+Jordan Ayew,All Teams,39,FWD,1,4,5,1,0,7,0,0,0,0,2
+Odion Ighalo,All Teams,39,FWD,1,1,2,1,0,29,0,0,0,0,2
+Robbie Brady,All Teams,39,MID,1,3,1,1,0,11,0,0,0,0,4
+Ahmed Musa,All Teams,39,FWD,2,0,1,1,0,20,0,0,0,0,5
+Santiago Cazorla,All Teams,38,MID,2,2,4,2,0,5,0,0,0,0,5
+Juan Zuñiga,All Teams,38,DEF,1,1,1,1,0,15,0,0,0,0,2
+Curtis Davies,All Teams,38,DEF,0,2,1,4,0,53,1,0,0,0,3
+Jordy Clasie,All Teams,38,MID,1,1,2,3,0,15,0,0,0,0,3
+Edimilson Fernandes,All Teams,38,MID,0,1,3,4,0,18,0,0,0,0,0
+Abdoulaye Doucouré,All Teams,38,MID,1,0,4,4,0,32,0,0,0,0,0
+Javier Manquillo,All Teams,38,DEF,1,0,2,2,0,28,0,0,0,0,0
+Pierre-Emile Højbjerg,All Teams,38,MID,0,0,6,2,0,16,0,0,0,0,0
+Jack Rodwell,All Teams,38,MID,0,1,2,4,0,32,0,0,0,0,1
+Manolo Gabbiadini,All Teams,38,FWD,4,1,3,1,0,12,0,1,0,0,4
+Lazar Markovic,All Teams,37,MID,2,0,5,4,0,15,0,0,0,0,2
+Danny Welbeck,All Teams,37,FWD,2,2,3,0,0,11,0,0,0,0,0
+Joey Barton,All Teams,37,MID,1,2,4,4,0,16,0,0,0,0,0
+Morgan Schneiderlin,All Teams,37,MID,1,0,5,2,0,14,0,0,0,0,1
+Bradley Guzan,All Teams,36,GK,0,0,3,0,0,17,0,0,0,37,3
+Jordon Ibe,All Teams,36,MID,0,0,3,0,0,22,0,0,0,0,0
+Ramadan Sobhi,All Teams,36,MID,0,2,5,2,0,11,0,0,0,0,1
+Christian Kabasele,All Teams,35,DEF,2,0,1,1,0,15,0,0,0,0,1
+Mamadou Sakho,All Teams,35,DEF,0,0,4,0,0,6,0,0,0,0,6
+Bernardo Espinosa Zúñiga,All Teams,35,DEF,0,0,4,2,0,13,0,0,0,0,3
+Arthur Masuaku,All Teams,34,DEF,0,1,3,1,0,24,0,0,0,0,7
+Modou Barrow,All Teams,34,FWD,0,2,4,1,0,23,0,0,0,0,0
+Vito Mannone,All Teams,34,GK,0,0,2,0,0,19,0,0,0,41,6
+Marc Muniesa,All Teams,34,DEF,1,0,3,2,0,7,0,0,0,0,3
+Alfred N'Diaye,All Teams,34,MID,1,0,4,7,0,30,0,0,0,0,2
+David Meyler,All Teams,33,MID,1,0,2,2,0,23,0,0,0,0,0
+Rob Holding,All Teams,32,DEF,0,0,4,3,0,8,0,0,0,0,3
+Borja Bastón,All Teams,32,FWD,1,2,1,0,0,11,0,0,0,0,1
+Leon Britton,All Teams,32,MID,0,0,5,3,0,24,0,0,0,0,0
+David Marshall,All Teams,32,GK,0,0,0,0,0,44,1,0,0,63,0
+Loris Karius,All Teams,32,GK,0,0,3,0,0,12,0,0,0,20,0
+Håvard Nordtveit,All Teams,31,MID,0,1,3,2,0,20,0,0,0,0,0
+Daniel Ayala,All Teams,31,DEF,1,0,3,3,0,16,0,0,0,0,0
+Wahbi Khazri,All Teams,31,MID,1,0,1,6,0,21,0,0,0,0,3
+Craig Cathcart,All Teams,31,DEF,0,1,2,3,0,21,0,0,0,0,3
+Cuco Martina,All Teams,31,DEF,0,0,3,0,0,6,0,0,0,0,5
+Bojan Krkic,All Teams,30,MID,3,0,0,1,0,12,0,1,0,0,4
+Harry Winks,All Teams,30,MID,1,1,0,1,0,6,0,0,0,0,0
+Stephen Kingsley,All Teams,29,DEF,0,0,3,0,0,20,0,0,0,0,2
+Bryan Oviedo,All Teams,29,MID,0,0,3,4,0,26,0,0,0,0,0
+Wilfried Bony,All Teams,29,FWD,2,0,3,1,0,12,0,0,0,0,3
+Sam Byram,All Teams,29,DEF,0,1,3,5,1,27,0,0,0,0,2
+Erik Lamela,All Teams,28,MID,1,1,4,1,0,2,0,1,0,0,4
+Grant Leadbitter,All Teams,28,MID,1,0,3,1,0,12,0,0,0,0,1
+Isaac Success,All Teams,28,MID,1,1,1,2,0,9,0,0,0,0,0
+Yohan Benalouane,All Teams,27,DEF,0,0,4,4,0,15,0,0,0,0,0
+Phil Bardsley,All Teams,27,DEF,0,0,3,4,1,17,0,0,0,0,0
+Dieumerci Mbokani,All Teams,27,FWD,0,2,3,0,0,16,0,0,0,0,0
+Ashley Young,All Teams,26,MID,0,1,4,2,0,6,0,0,0,0,1
+Ryan Mason,All Teams,26,MID,1,0,0,4,0,27,0,0,0,0,0
+Saido Berahino,All Teams,26,FWD,0,0,4,1,0,13,0,0,0,0,0
+Mohamed Elneny,All Teams,26,MID,0,1,3,1,0,9,0,0,0,0,0
+Adlène Guédioura,All Teams,26,MID,0,1,0,2,0,20,0,0,0,0,0
+Angel Rangel,All Teams,26,DEF,1,0,1,1,0,24,0,0,0,0,1
+Luciano Narsingh,All Teams,25,MID,0,3,1,0,0,8,0,0,0,0,0
+Viktor Fischer,All Teams,25,MID,0,3,1,0,0,6,0,0,0,0,0
+Chung-yong Lee,All Teams,24,MID,0,1,2,0,0,13,0,0,0,0,0
+Papy Djilobodji,All Teams,24,DEF,0,0,2,4,1,35,0,0,0,0,0
+Leonardo Ulloa,All Teams,24,FWD,1,0,2,0,0,5,0,0,0,0,1
+Giannelli Imbula,All Teams,24,MID,0,1,2,1,0,20,1,0,0,0,1
+Shaun Maloney,All Teams,24,MID,1,2,1,0,0,7,0,0,0,0,2
+James McCarthy,All Teams,23,MID,1,1,0,2,0,10,0,0,0,0,0
+Jonathan Calleri,All Teams,23,FWD,1,0,3,0,0,4,0,0,0,0,0
+Branislav Ivanovic,All Teams,23,DEF,0,1,1,2,0,9,0,0,0,0,2
+James Tarkowski,All Teams,23,DEF,0,0,1,1,0,11,0,0,0,0,0
+Sergio Romero,All Teams,23,GK,0,0,2,0,0,0,0,0,1,10,3
+Sam McQueen,All Teams,23,MID,0,1,1,0,0,9,0,0,0,0,0
+Aaron Lennon,All Teams,22,MID,0,1,2,0,0,5,0,0,0,0,0
+Neil Taylor,All Teams,22,DEF,0,1,2,1,0,26,0,0,0,0,0
+Rudy Gestede,All Teams,21,FWD,1,0,1,3,0,12,0,0,0,0,0
+Patrick Bamford,All Teams,21,FWD,1,0,0,1,0,8,0,0,0,0,2
+Donald Love,All Teams,21,DEF,0,1,1,1,0,11,0,0,0,0,1
+Jordi Amat,All Teams,21,DEF,0,0,2,5,0,36,0,0,0,0,0
+John Terry,All Teams,21,DEF,1,0,1,1,0,9,0,0,0,0,0
+Jack Butland,All Teams,20,GK,0,0,2,0,0,8,0,0,0,17,2
+Markus Henriksen,All Teams,20,MID,0,0,0,1,0,13,0,0,0,0,0
+Lucas Pérez,All Teams,20,FWD,1,1,1,0,0,2,0,0,0,0,0
+Steve Mandanda,All Teams,19,GK,0,0,0,0,0,17,0,0,0,24,0
+Jay Fulton,All Teams,19,MID,0,0,3,2,0,15,0,0,0,0,0
+Benjamin Chilwell,All Teams,19,DEF,1,0,1,2,0,18,0,0,0,0,0
+Jefferson Montero,All Teams,18,MID,0,1,0,0,0,9,0,0,0,0,0
+Connor Wickham,All Teams,18,FWD,2,0,0,1,0,6,0,0,0,0,0
+Evandro Goebel,All Teams,18,MID,0,0,3,1,0,10,0,0,0,0,0
+Fernando Francisco Reges,All Teams,18,MID,0,0,1,3,0,10,0,0,0,0,1
+Dominic Calvert-Lewin,All Teams,17,FWD,1,0,0,1,0,7,0,0,0,0,1
+Lewis Cook,All Teams,17,MID,0,2,1,1,0,7,0,0,0,0,1
+Oscar dos Santos Emboaba Junior,All Teams,17,MID,0,1,1,1,0,6,0,0,0,0,0
+Ron-Robert Zieler,All Teams,17,GK,0,0,1,0,0,16,0,0,0,18,0
+Michel Vorm,All Teams,17,GK,0,0,2,0,0,2,0,0,0,7,0
+Darron Gibson,All Teams,17,MID,0,0,1,4,0,12,0,0,0,0,0
+Mike van der Hoorn,All Teams,16,DEF,1,0,1,1,0,20,0,0,0,0,0
+Ashley Fletcher,All Teams,16,FWD,0,0,0,2,0,13,0,0,0,0,0
+Ademola Lookman,All Teams,16,MID,1,0,1,0,0,2,0,0,0,0,0
+Fraizer Campbell,All Teams,16,FWD,1,0,0,0,0,4,0,0,0,0,0
+Ibrahim Afellay,All Teams,15,MID,0,0,0,0,0,5,0,0,0,0,0
+Alberto Moreno,All Teams,15,DEF,0,1,0,1,0,7,0,0,0,0,1
+Steven Pienaar,All Teams,15,MID,0,0,2,5,1,13,0,0,0,0,0
+Adrian Mariappa,All Teams,15,DEF,0,0,1,0,0,13,0,0,0,0,3
+Kurt Zouma,All Teams,15,DEF,0,1,0,0,0,8,0,0,0,0,3
+Lys Mousset,All Teams,14,FWD,0,1,1,0,0,4,1,0,0,0,0
+Craig Gardner,All Teams,14,MID,0,1,1,1,0,6,0,0,0,0,0
+Axel Tuanzebe,All Teams,14,DEF,0,0,2,0,0,4,0,0,0,0,0
+Ashley Westwood,All Teams,13,MID,0,0,1,3,0,9,0,0,0,0,0
+Gerard Deulofeu,All Teams,13,MID,0,0,0,1,0,6,0,0,0,0,0
+Shay Given,All Teams,13,GK,0,0,0,1,0,14,1,0,1,18,3
+Fabian Delph,All Teams,13,MID,1,0,0,1,0,4,0,0,0,0,0
+Omar Elabdellaoui,All Teams,13,DEF,0,0,1,0,0,16,0,0,0,0,0
+Joshua Sims,All Teams,12,MID,0,1,1,0,0,1,0,0,0,0,0
+Lee Cattermole,All Teams,12,MID,0,0,0,4,0,13,0,0,0,0,0
+Diafra Sakho,All Teams,12,FWD,1,0,0,0,0,4,0,0,0,0,2
+Mathieu Flamini,All Teams,12,MID,0,0,0,0,0,6,0,0,0,0,0
+Nathan Dyer,All Teams,12,MID,0,1,0,0,0,11,0,0,0,0,0
+Matt Targett,All Teams,12,DEF,0,0,1,0,0,4,0,0,0,0,0
+Patrick McNair,All Teams,12,DEF,0,0,1,0,0,9,1,0,0,0,0
+Lynden Gooch,All Teams,12,MID,0,0,1,3,0,9,0,0,0,0,0
+Jonathan Leko,All Teams,12,MID,0,1,0,0,0,3,0,0,0,0,0
+Jan Kirchhoff,All Teams,12,MID,0,1,0,1,0,11,0,0,0,0,0
+Nathaniel Chalobah,All Teams,12,MID,0,1,0,2,0,3,0,0,0,0,0
+Simone Zaza,All Teams,10,FWD,0,0,2,2,0,14,0,0,0,0,0
+Emilio Nsue Lopez,All Teams,10,DEF,0,0,1,0,0,5,0,0,0,0,0
+Gökhan Töre,All Teams,10,MID,0,1,1,0,0,4,0,0,0,0,0
+Timothy Fosu-Mensah,All Teams,9,DEF,0,0,1,0,0,0,0,0,0,0,0
+Brendan Galloway,All Teams,9,DEF,0,0,1,0,0,3,0,0,0,0,0
+Josh Tymon,All Teams,9,DEF,0,0,1,1,0,8,0,0,0,0,0
+Jon Flanagan,All Teams,9,DEF,0,0,1,2,0,4,0,0,0,0,0
+Ezekiel Fryers,All Teams,9,DEF,0,1,0,0,0,7,0,0,0,0,0
+Matthew Pennington,All Teams,9,DEF,1,0,0,0,0,6,0,0,0,0,0
+Sam Field,All Teams,9,MID,0,0,1,2,0,1,0,0,0,0,0
+Damian Emiliano Martinez,All Teams,8,GK,0,0,1,0,0,3,0,0,0,5,0
+Jordan Rhodes,All Teams,8,FWD,0,0,0,0,0,2,0,0,0,0,0
+Mauro Zárate,All Teams,8,FWD,0,1,0,0,0,3,0,0,0,0,0
+Joshua Harrop,All Teams,8,MID,1,0,1,0,0,0,0,0,0,0,0
+Adam Federici,All Teams,8,GK,0,0,1,1,0,3,0,0,0,5,1
+Max Gradel,All Teams,8,MID,0,0,0,3,0,1,0,0,0,0,0
+Will Keane,All Teams,8,FWD,0,0,1,0,0,10,0,0,0,0,0
+Georges-Kévin Nkoudou,All Teams,8,MID,0,0,0,0,0,0,0,0,0,0,0
+Jonas Olsson,All Teams,8,DEF,0,0,1,3,0,13,0,0,0,0,0
+Jarrod Bowen,All Teams,8,FWD,0,0,0,0,0,8,0,0,0,0,0
+Trent Alexander-Arnold,All Teams,8,MID,0,0,0,0,0,2,0,0,0,0,0
+Demetri Mitchell,All Teams,8,DEF,0,0,1,0,0,0,0,0,0,0,2
+Bakary Sako,All Teams,7,MID,0,0,0,0,0,5,0,0,0,0,0
+George Honeyman,All Teams,7,MID,0,0,1,1,0,4,0,0,0,0,0
+Michael Kightly,All Teams,6,MID,0,0,0,0,0,1,0,0,0,0,0
+Arouna Koné,All Teams,6,FWD,0,0,0,0,0,3,0,0,0,0,0
+Joel Dinis Castro Pereira,All Teams,6,GK,0,0,1,0,0,0,0,0,0,1,0
+Jerome Sinclair,All Teams,6,FWD,0,0,0,0,0,1,0,0,0,0,0
+Lewis Grabban,All Teams,6,FWD,0,1,0,0,0,2,0,0,0,0,0
+Loïc Remy,All Teams,6,FWD,0,0,1,0,0,3,0,0,0,0,0
+Nampalys Mendy,All Teams,6,MID,0,0,1,1,0,5,0,0,0,0,0
+Pape Souaré,All Teams,6,DEF,0,0,0,0,0,3,0,0,0,0,0
+Ruben Loftus-Cheek,All Teams,6,MID,0,0,0,0,0,0,0,0,0,0,0
+Jérémy Pied,All Teams,5,DEF,0,0,0,0,0,1,0,0,0,0,0
+Joshua Onomah,All Teams,5,MID,0,0,0,0,0,0,0,0,0,0,0
+Oliver McBurnie,All Teams,5,FWD,0,0,0,0,0,5,0,0,0,0,0
+Paul Robinson,All Teams,5,GK,0,0,0,0,0,7,0,0,0,10,0
+Ben Woodburn,All Teams,5,MID,0,0,0,0,0,1,0,0,0,0,0
+Julien Ngoy,All Teams,5,FWD,0,0,0,0,0,1,0,0,0,0,0
+Aleix García Serrano,All Teams,4,MID,0,0,0,0,0,2,0,0,0,0,0
+Marko Grujic,All Teams,4,MID,0,0,0,1,0,0,0,0,0,0,0
+Jordon Mutch,All Teams,4,MID,0,0,0,0,0,1,0,0,0,0,0
+David Nugent,All Teams,4,FWD,0,0,0,0,0,0,0,0,0,0,0
+Tyrone Mings,All Teams,4,DEF,0,0,0,0,0,16,2,0,0,0,2
+Kevin Stewart,All Teams,4,DEF,0,0,0,0,0,0,0,0,0,0,0
+Filip Lesniak,All Teams,4,MID,0,1,0,0,0,0,0,0,0,0,0
+Bradley Smith,All Teams,4,DEF,0,0,0,1,0,9,0,0,0,0,0
+Ryan Allsop,All Teams,3,GK,0,0,0,0,0,1,0,0,0,4,0
+Memphis Depay,All Teams,3,MID,0,0,0,1,0,1,0,0,0,0,0
+Ola Aina,All Teams,3,DEF,0,0,0,0,0,0,0,0,0,0,0
+Harrison Reed,All Teams,3,MID,0,0,0,0,0,1,0,0,0,0,0
+Kristoffer Nordfeldt,All Teams,3,GK,0,0,0,0,0,1,0,0,0,4,0
+Aiden O'Neill,All Teams,3,MID,0,0,0,0,0,4,0,0,0,0,0
+Albert Adomah,All Teams,3,MID,0,0,0,0,0,2,0,0,0,0,0
+Luis Hernández,All Teams,3,DEF,0,0,0,1,0,8,0,0,0,0,0
+Kevin Long,All Teams,3,DEF,0,0,0,0,0,6,0,0,0,0,0
+Robert Kenedy Nunes do Nascimento,All Teams,3,MID,0,0,0,0,0,3,0,0,0,0,0
+Scott McTominay,All Teams,3,MID,0,0,1,1,0,0,0,0,0,0,0
+Daniel Agyei,All Teams,3,FWD,0,0,0,0,0,0,0,0,0,0,0
+Oviemuno Ejaria,All Teams,2,MID,0,0,0,0,0,0,0,0,0,0,0
+Asmir Begovic,All Teams,2,GK,0,0,0,0,0,5,0,0,0,1,0
+Martín Cáceres,All Teams,2,DEF,0,0,0,0,0,1,0,0,0,0,0
+David Ospina,All Teams,2,GK,0,0,0,0,0,4,0,0,0,4,0
+Lukas Jutkiewicz,All Teams,2,FWD,0,0,0,0,0,0,0,0,0,0,0
+Carl Jenkinson,All Teams,2,DEF,0,0,0,0,0,1,0,0,0,0,0
+Dion Pereira,All Teams,2,MID,0,0,0,0,0,1,0,0,0,0,0
+Mile Jedinak,All Teams,2,MID,0,0,0,0,0,1,0,0,0,0,0
+Jeremain Lens,All Teams,2,MID,0,0,0,0,0,1,0,0,0,0,0
+Kevin Wimmer,All Teams,2,DEF,0,0,0,3,0,4,1,0,0,0,0
+Costel Pantilimon,All Teams,2,GK,0,0,0,0,0,4,0,0,0,6,0
+Ikechi Anya,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Ainsley Maitland-Niles,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Marcin Wasilewski,All Teams,1,DEF,0,0,0,0,0,2,0,0,0,0,0
+Ben Watson,All Teams,1,MID,0,0,0,0,1,2,0,0,0,0,0
+Per Mertesacker,All Teams,1,DEF,0,0,0,0,0,1,0,0,0,0,0
+Philipp Wollscheid,All Teams,1,DEF,0,0,0,1,0,5,0,0,0,0,0
+Jonathan Benteke,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
+Baily Cargill,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
+Sullay Kaikai,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Mathieu Debuchy,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
+Rickie Lambert,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
+David Jones,All Teams,1,MID,0,0,0,1,0,1,0,0,0,0,0
+Joel Asoro,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Joleon Lescott,All Teams,1,DEF,0,0,0,0,0,5,0,0,0,0,0
+Angel Gomes,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Samir Nasri,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Matej Vydra,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
+Declan Rice,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Jonjoe Kenny,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
+Matthew James,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Matthew Worthington,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+Brandon Mason,All Teams,1,DEF,0,0,0,0,0,5,0,0,0,0,0
+Michael Folivi,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
+Zachary Dearnley,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Fredrik Ulvestad,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Jeff Reine-Adelaide,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Eunan O'Kane,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Stephen Ireland,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Álvaro Arbeloa,All Teams,0,DEF,0,0,0,3,0,9,0,0,0,0,0
+Alex Pritchard,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Alex Pike,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+James Wilson,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Steven Berghuis,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Aaron Wan-Bissaka,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Daniel James,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Alex Palmer,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+James Weir,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Ethan Robson,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Alex McCarthy,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Stuart Taylor,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Yaya Sanogo,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Danny Ings,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Andrew Eleftheriou,All Teams,0,DEF,0,0,0,0,0,2,0,0,0,0,0
+Joe Hart,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+John Obi Mikel,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Andreas Pereira,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Serge Gnabry,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Florin Gardos,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Daniel Kemp,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Joel Taylor,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Daniel Lafferty,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Shaun MacDonald,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Joel Campbell,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Franck Tabanou,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Almen Abdi,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Allan McGregor,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Aaron Ramsdale,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Joe Williams,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Abdul Rahman Baba,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Alexander Manninger,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Guillermo Varela,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Eliaquim Mangala,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Greg Luer,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Jack Rose,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Elliott Moore,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Tyias Browning,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Adam Reach,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Dionatan do Nascimento Teixeira,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Elliot Embleton,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Domingos Quina,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Hiram Boateng,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+DeAndre Yedlin,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Dominic Solanke,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Harry Wilson,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Dusan Kuciak,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Greg Olley,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Harry Lewis,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Eduardo Dos Reis Carvalho,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Gökhan Inler,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Tommie Hoban,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Dimitrios Konstantopoulos,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Jake Hesketh,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Jakob Haugaard,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Sébastien Pocognoli,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Takuma Asano,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Tendayi Darikwa,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Alex Bruce,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Thibaud Verlinden,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Alex Baptiste,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Thomas Edwards,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Thomas Robson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Giedrius Arlauskis,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Adam Matthews,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Williams,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+James Husband,All Teams,0,DEF,0,0,0,0,0,3,0,0,0,0,0
+Tokelo Rantie,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Emerson Hyndman,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+James Chester,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Gerhard Tremmel,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Mohamed Diamé,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Samuel Shashoua,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Carl Stewart,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Matt Macey,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Olayinka Fredrick Oladotun Ladapo,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Oleksandr Zinchenko,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Mateusz Hewelt,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Olufela Olomola,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Oluwaseyi Ojo,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Oluwatosin Adarabioyo,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Marvin Emnes,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Carlos De Pena,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Bertrand Traore,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Pablo Maffeo,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Mario Suárez,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Mario Balotelli,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Marcus Browne,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Charlie Rowan,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Chris Long,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Ben Wynter,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Pau López Sabata,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Matt Miazga,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Noor Husin,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Sam Surridge,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Nabil Bentaleb,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Molla Wagué,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Brian Lenihan,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Moses Makasi,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Moses Odubajo,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Mouez Hassen,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Michael Simões Domingues,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Michael Phillips,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Muhamed Besic,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Michael Ledger,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Cameron Carter-Vickers,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Brice Dja Djédjé,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Callum McManaman,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Nathan Holland,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Matthew Willock,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Cameron Borthwick-Jackson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Cameron Brannagan,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Boaz Myhill,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Nick Pope,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Marco Van Ginkel,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Paulo Gazzaniga,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Pedro Chirivella,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Juan Cuadrado,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Kieran O'Hara,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Cristian Gamboa,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Keshi Anderson,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Kane Wilson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Rouwen Hennings,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Dael Fry,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Julien de Sart,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Julian Speroni,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Juan Carlos Paredes,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Marc Wilson,All Teams,0,DEF,0,0,0,3,0,7,0,0,0,0,0
+Josh Robson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Josh Maja,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Angus Gunn,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Josh Cullen,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Joseph Gomez,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Jose Luis Mato Sanmartín,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Jose Angel Esmoris Tasende,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Daniel Batty,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Connor Roberts,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Connor Randall,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Clinton N'Jie,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Lloyd Isgrove,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Ben Hinchcliffe,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Ben Hamer,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Chuba Akpom,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Bastian Schweinsteiger,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Mamadou Obbi Oularé,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Bartosz Kapustka,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Maksymilian Stryjek,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Luke McGee,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Luke Dreher,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Raphael Spiegel,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Reece Burke,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Reece Oxford,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Rekeem Harper,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Rene Gilmartin,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Rhian Brewster,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Ritchie de Laet,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Bafétimbi Gomis,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Josh Clackstone,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
