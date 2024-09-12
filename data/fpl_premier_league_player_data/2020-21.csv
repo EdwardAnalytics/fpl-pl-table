@@ -1,4 +1,4 @@
-name,team,total_points,position,goals_scored,assists,clean_sheets,yellow_cards,red_cards,goals_conceded,own_goals,penalties_missed,penalties_saved,saves,bonus_points
+Player Name,Team,Total Points,Position,Goals Scored,Assists,Clean Sheets,Yellow Cards,Red Cards,Goals Conceded,Own Goals,Penalties Missed,Penalties Saved,Saves,Bonus Points
 Bruno Miguel Borges Fernandes,Man Utd,244,MID,18,14,13,6,0,36,0,1,0,0,36
 Harry Kane,Spurs,242,FWD,23,14,12,1,0,39,0,0,0,0,40
 Mohamed Salah,Liverpool,231,MID,22,6,11,0,0,41,0,0,0,0,21

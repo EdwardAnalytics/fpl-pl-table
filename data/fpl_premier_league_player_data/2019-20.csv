@@ -1,4 +1,4 @@
-name,team,total_points,position,goals_scored,assists,clean_sheets,yellow_cards,red_cards,goals_conceded,own_goals,penalties_missed,penalties_saved,saves,bonus_points
+Player Name,Team,Total Points,Position,Goals Scored,Assists,Clean Sheets,Yellow Cards,Red Cards,Goals Conceded,Own Goals,Penalties Missed,Penalties Saved,Saves,Bonus Points
 Kevin De Bruyne 215,Man City,251,MID,13,23,18,3,0,22,0,0,0,0,35
 Mohamed Salah 191,Liverpool,233,MID,19,10,16,1,0,26,0,0,0,0,26
 Sadio ManÃ© 192,Liverpool,221,MID,18,10,12,3,0,28,0,0,0,0,27
