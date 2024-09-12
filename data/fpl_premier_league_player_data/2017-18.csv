@@ -1,4 +1,4 @@
-name,team,total_points,position,goals_scored,assists,clean_sheets,yellow_cards,red_cards,goals_conceded,own_goals,penalties_missed,penalties_saved,saves,bonus_points
+Player Name,Team,Total Points,Position,Goals Scored,Assists,Clean Sheets,Yellow Cards,Red Cards,Goals Conceded,Own Goals,Penalties Missed,Penalties Saved,Saves,Bonus Points
 Mohamed Salah,Liverpool,303,MID,32,12,15,1,0,29,0,1,0,0,26
 Raheem Sterling,Man City,229,MID,18,17,13,3,1,23,0,0,0,0,19
 Harry Kane,Spurs,217,FWD,29,2,15,5,0,34,0,1,0,0,31

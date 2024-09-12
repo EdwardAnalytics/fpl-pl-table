@@ -2,6 +2,52 @@ import streamlit as st
 import base64
 import altair as alt
 import pandas as pd
+from src.data_prep.fpl_pl_table_players import get_season_string
+from src.data_prep.join_table_data import get_list_of_seasons
+
+# Get most recent available data
+seasons = get_list_of_seasons()
+latest_season = max(seasons)
+latest_season = int(latest_season[:4])
+
+
+def generate_streamlit_tables(season_index):
+    season_start = latest_season - season_index
+    season = get_season_string(season_start)
+    # Load data
+    try:
+        league_table = pd.read_csv(
+            f"data/fpl_premier_league_tables_joined/{season}.csv"
+        )
+        player_stats = pd.read_csv(f"data/fpl_premier_league_player_data/{season}.csv")
+    except:
+        return
+    # Display the output tables
+    league_name = f"{season} FPL Premier League"
+    st.header(league_name, divider="grey")
+
+    league_table_tab, player_statistics_tab = st.tabs(
+        ["📃League Table", "📈 Player Statistics"]
+    )
+
+    with league_table_tab:
+        st.dataframe(league_table, hide_index=True)
+
+    with player_statistics_tab:
+        # Get distinct values using set, convert to list and sort alphabetically
+        teams = sorted(
+            [team for team in player_stats["team"].unique() if isinstance(team, str)]
+        )
+
+        # Move "All Teams" to the front
+        teams.remove("All Teams")
+        teams.insert(0, "All Teams")
+
+        selected_team = st.selectbox(label="Select Team", options=teams, index=0)
+        player_stats_filtered = player_stats[player_stats["team"] == selected_team]
+        st.write("")
+
+        st.dataframe(player_stats_filtered, hide_index=True)
 
 
 def main():
@@ -44,25 +90,84 @@ def main():
         unsafe_allow_html=True,
     )
 
-    season = "2016-17"
-    # Display the output tables
-    league_name = f"{season} FPL Premier League"
-    st.header(league_name, divider="grey")
+    # Run function for individual seasons
+    season_index = 0
+    generate_streamlit_tables(season_index=season_index)
 
-    league_table_tab, player_statistics_tab = st.tabs(
-        ["📃League Table", "📈 Player Statistics"]
-    )
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
 
-    # Load data
-    league_table = pd.read_csv(f"data/fpl_premier_league_tables_joined/{season}.csv")
-    player_stats = pd.read_csv(f"data/fpl_premier_league_player_data/{season}.csv")
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
 
-    with league_table_tab:
-        st.dataframe(league_table, hide_index=True)
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
 
-    with player_statistics_tab:
-        # Add dropdown filter ##########
-        st.dataframe(player_stats, hide_index=True)
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
+
+    season_index += 1
+    generate_streamlit_tables(season_index=season_index)
 
 
 if __name__ == "__main__":

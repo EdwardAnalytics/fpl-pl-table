@@ -74,7 +74,7 @@ def join_table_data(season, team_name_mapping):
         np.where(
             fpl_pl_table_sorted["Difference"] < 0,
             fpl_pl_table_sorted["Difference"].apply(lambda x: f"⬇️ {x}"),
-            "",
+            " ",
         ),
     )
 
@@ -133,6 +133,10 @@ def join_table_data(season, team_name_mapping):
 
     # Rename the columns using the mapping
     fpl_pl_table_sorted.rename(columns=column_rename_mapping, inplace=True)
+
+    # Remove value column
+    # Some teams are inflated due to red flags/loaned out/sold players etc.
+    fpl_pl_table_sorted = fpl_pl_table_sorted.drop(columns=["Team Value (Latest GW)"])
 
     return fpl_pl_table_sorted
 

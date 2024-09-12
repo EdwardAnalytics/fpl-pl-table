@@ -1,4 +1,4 @@
-name,team,total_points,position,goals_scored,assists,clean_sheets,yellow_cards,red_cards,goals_conceded,own_goals,penalties_missed,penalties_saved,saves,bonus_points
+Player Name,Team,Total Points,Position,Goals Scored,Assists,Clean Sheets,Yellow Cards,Red Cards,Goals Conceded,Own Goals,Penalties Missed,Penalties Saved,Saves,Bonus Points
 Alexis Sánchez,Arsenal,264,MID,24,11,13,6,0,41,0,1,0,0,32
 Bamidele Alli,Spurs,225,MID,18,11,17,4,0,22,0,0,0,0,17
 Harry Kane,Spurs,224,FWD,29,7,14,3,0,19,0,1,0,0,33

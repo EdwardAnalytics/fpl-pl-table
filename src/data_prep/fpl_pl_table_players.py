@@ -174,6 +174,28 @@ def process_fpl_data(df, season_year):
     # Remove _ from names
     player_df["name"] = player_df["name"].str.replace("_", " ")
 
+    # Rename columns
+    column_name_mapping = {
+        "name": "Player Name",
+        "team": "Team",
+        "total_points": "Total Points",
+        "position": "Position",
+        "goals_scored": "Goals Scored",
+        "assists": "Assists",
+        "clean_sheets": "Clean Sheets",
+        "yellow_cards": "Yellow Cards",
+        "red_cards": "Red Cards",
+        "goals_conceded": "Goals Conceded",
+        "own_goals": "Own Goals",
+        "penalties_missed": "Penalties Missed",
+        "penalties_saved": "Penalties Saved",
+        "saves": "Saves",
+        "bonus_points": "Bonus Points",
+    }
+
+    # Rename the columns using the mapping
+    player_df.rename(columns=column_name_mapping, inplace=True)
+
     return summary_df, player_df
 
 
