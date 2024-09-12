@@ -61,7 +61,7 @@ def get_current_gameweek(season_string):
     try:
         df = pd.read_csv(
             f"https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/{season_string}/gws/merged_gw.csv",
-            encoding="ISO-8859-1",
+            encoding="utf-8",
         )
         return int(df["GW"].max())
     except Exception as e:

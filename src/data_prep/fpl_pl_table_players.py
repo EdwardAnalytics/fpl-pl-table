@@ -3,7 +3,7 @@ import numpy as np
 from unidecode import unidecode
 
 
-def fetch_data_from_url(url, encoding="ISO-8859-1"):
+def fetch_data_from_url(url, encoding="utf-8"):
     """
     Fetch data from a URL and return a DataFrame.
 
@@ -217,8 +217,14 @@ def get_fpl_player_data_aggregated(season_year):
         A DataFrame containing the aggregated FPL player data.
     """
     vaastav_url = f"https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/{season_year}/gws/merged_gw.csv"
-    df = fetch_data_from_url(vaastav_url)
+    if int(season_year[:4]) <= 2018:
+        encoding = "latin-1"
+    else:
+        encoding = "utf-8"
+
+    df = fetch_data_from_url(vaastav_url, encoding=encoding)
     summary_df, player_df = process_fpl_data(df, season_year)
+
     return summary_df, player_df
 
 
@@ -240,7 +246,12 @@ def save_season_data(season_start, file_path_team, file_path_player):
     season_string = get_season_string(season_start)
     season_df, player_df = get_fpl_player_data_aggregated(season_year=season_string)
     season_df.to_csv(file_path_team, index=False)
-    player_df.to_csv(file_path_player, index=False, encoding="ISO-8859-1")
+    if season_start <= 2018:
+        encoding = "latin-1"
+    else:
+        encoding = "utf-8"
+
+    player_df.to_csv(file_path_player, index=False, encoding=encoding)
 
 
 def get_completed_seasons_fpl(first_season_start, latest_season_start):

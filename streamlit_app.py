@@ -20,8 +20,17 @@ def generate_streamlit_tables(season_index):
         league_table = pd.read_csv(
             f"data/fpl_premier_league_tables_joined/{season}.csv"
         )
-
-        player_stats = pd.read_csv(f"data/fpl_premier_league_player_data/{season}.csv")
+        if season_start <= 2018:
+            encoding = "latin-1"
+        else:
+            encoding = "utf-8"
+        player_stats = pd.read_csv(
+            f"data/fpl_premier_league_player_data/{season}.csv", encoding=encoding
+        )
+        # Manual encoding fix due to indexs being added
+        player_stats["Player Name"] = player_stats["Player Name"].str.replace(
+            r"\s\d+$", "", regex=True
+        )
 
     except:
         return
