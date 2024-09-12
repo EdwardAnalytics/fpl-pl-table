@@ -6,6 +6,9 @@ from src.data_prep.fpl_pl_table_players import get_season_string
 from src.data_prep.join_table_data import get_list_of_seasons
 import json
 
+# Set the page configuration to wide mode
+st.set_page_config(layout="wide")
+
 # Get most recent available data
 seasons = get_list_of_seasons()
 latest_season = max(seasons)
