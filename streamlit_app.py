@@ -36,7 +36,7 @@ def generate_streamlit_tables(season_index):
     with player_statistics_tab:
         # Get distinct values using set, convert to list and sort alphabetically
         teams = sorted(
-            [team for team in player_stats["team"].unique() if isinstance(team, str)]
+            [team for team in player_stats["Team"].unique() if isinstance(team, str)]
         )
 
         # Move "All Teams" to the front
@@ -44,7 +44,7 @@ def generate_streamlit_tables(season_index):
         teams.insert(0, "All Teams")
 
         selected_team = st.selectbox(label="Select Team", options=teams, index=0)
-        player_stats_filtered = player_stats[player_stats["team"] == selected_team]
+        player_stats_filtered = player_stats[player_stats["Team"] == selected_team]
         st.write("")
 
         st.dataframe(player_stats_filtered, hide_index=True)
