@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from unidecode import unidecode
 
 
 def fetch_data_from_url(url, encoding="ISO-8859-1"):
@@ -18,7 +19,9 @@ def fetch_data_from_url(url, encoding="ISO-8859-1"):
     df : pd.DataFrame
         The DataFrame containing the fetched data.
     """
-    return pd.read_csv(url, encoding=encoding)
+
+    df = pd.read_csv(url, encoding=encoding)
+    return df
 
 
 def get_season_string(season_start):
@@ -237,7 +240,7 @@ def save_season_data(season_start, file_path_team, file_path_player):
     season_string = get_season_string(season_start)
     season_df, player_df = get_fpl_player_data_aggregated(season_year=season_string)
     season_df.to_csv(file_path_team, index=False)
-    player_df.to_csv(file_path_player, index=False)
+    player_df.to_csv(file_path_player, index=False, encoding="ISO-8859-1")
 
 
 def get_completed_seasons_fpl(first_season_start, latest_season_start):

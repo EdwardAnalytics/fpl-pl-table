@@ -5,8 +5,8 @@ Mohamed Salah,Liverpool,231,MID,22,6,11,0,0,41,0,0,0,0,21
 Heung-Min Son,Spurs,228,MID,17,11,13,0,0,36,0,0,0,0,26
 Patrick Bamford,Leeds,194,FWD,17,11,10,3,0,50,0,0,0,0,26
 Jamie Vardy,Leicester,187,FWD,15,14,8,1,0,44,0,1,0,0,23
-Emiliano MartÃ­nez,Aston Villa,186,GK,0,0,15,1,0,46,0,0,1,142,27
-Sadio ManÃ©,Liverpool,176,MID,11,11,12,3,0,28,0,0,0,0,14
+Emiliano Martínez,Aston Villa,186,GK,0,0,15,1,0,46,0,0,1,142,27
+Sadio Mané,Liverpool,176,MID,11,11,12,3,0,28,0,0,0,0,14
 Marcus Rashford,Man Utd,174,MID,11,11,12,4,0,39,0,0,0,0,9
 Stuart Dallas,Leeds,171,DEF,8,3,12,7,0,53,0,0,0,0,15
 Ollie Watkins,Aston Villa,168,FWD,14,9,14,2,1,46,0,1,0,0,18
@@ -15,7 +15,7 @@ Andrew Robertson,Liverpool,161,DEF,1,8,12,2,0,42,0,0,0,0,19
 Jack Harrison,Leeds,160,MID,8,10,11,2,0,45,0,0,0,0,15
 Trent Alexander-Arnold,Liverpool,160,DEF,2,8,10,2,0,40,0,0,0,0,26
 Ederson Santana de Moraes,Man City,160,GK,0,1,19,3,0,28,0,0,1,66,3
-Ilkay GÃ¼ndogan,Man City,157,MID,13,4,12,1,0,16,0,1,0,0,22
+Ilkay Gündogan,Man City,157,MID,13,4,12,1,0,16,0,1,0,0,22
 James Ward-Prowse,Southampton,156,MID,8,7,9,5,0,68,0,1,0,0,17
 Raheem Sterling,Man City,154,MID,10,9,14,4,0,23,0,1,0,0,10
 Illan Meslier,Leeds,154,GK,0,0,11,0,0,52,1,0,1,140,20
@@ -27,7 +27,7 @@ Tomas Soucek,West Ham,147,MID,10,2,11,7,1,47,1,0,0,0,16
 Riyad Mahrez,Man City,145,MID,9,8,11,0,0,22,0,0,0,0,15
 Nick Pope,Burnley,144,GK,0,0,11,1,0,37,0,0,0,114,20
 Aaron Wan-Bissaka,Man Utd,144,DEF,2,5,13,3,0,36,0,0,0,0,11
-RÃºben Santos Gato Alves Dias,Man City,142,DEF,1,1,17,4,0,21,1,0,0,0,12
+Rúben Santos Gato Alves Dias,Man City,142,DEF,1,1,17,4,0,21,1,0,0,0,12
 Roberto Firmino,Liverpool,141,FWD,9,8,10,2,0,39,0,0,0,0,15
 Kevin De Bruyne,Man City,141,MID,6,12,12,1,0,17,0,1,0,0,19
 Jarrod Bowen,West Ham,141,MID,8,6,9,0,0,33,0,0,0,0,8
@@ -35,13 +35,13 @@ Alisson Ramses Becker,Liverpool,140,GK,1,0,10,1,0,32,0,0,1,84,13
 Sam Johnstone,West Brom,140,GK,0,1,6,1,0,74,0,0,1,166,19
 Edouard Mendy,Chelsea,140,GK,0,0,16,2,0,25,0,0,1,57,8
 Benjamin Chilwell,Chelsea,139,DEF,3,6,12,3,0,23,0,0,0,0,11
-JoÃ£o Pedro Cavaco Cancelo,Man City,138,DEF,2,4,14,5,1,21,0,0,0,0,18
+João Pedro Cavaco Cancelo,Man City,138,DEF,2,4,14,5,1,21,0,0,0,0,18
 Chris Wood,Burnley,138,FWD,12,3,9,0,0,43,0,0,0,0,16
 Matt Targett,Aston Villa,138,DEF,0,4,16,7,0,44,0,0,0,0,9
 Che Adams,Southampton,137,FWD,9,7,7,1,0,51,0,0,0,0,16
 Wilfried Zaha,Crystal Palace,136,MID,11,4,6,6,0,52,0,0,0,0,11
 Jack Grealish,Aston Villa,135,MID,6,12,12,6,0,28,0,0,0,0,13
-Bertrand TraorÃ©,Aston Villa,135,MID,7,7,11,1,0,31,0,0,0,0,7
+Bertrand Traoré,Aston Villa,135,MID,7,7,11,1,0,31,0,0,0,0,7
 Phil Foden,Man City,135,MID,9,8,6,0,0,16,0,0,0,0,17
 Callum Wilson,Newcastle,134,FWD,12,6,5,2,0,37,0,0,0,0,22
 Raphael Dias Belloli,Leeds,133,MID,6,10,9,3,0,34,0,0,0,0,11
@@ -49,7 +49,7 @@ Lukasz Fabianski,West Ham,133,GK,0,0,10,2,0,44,0,0,1,102,11
 Youri Tielemans,Leicester,133,MID,6,4,11,6,0,50,0,0,0,0,11
 James Maddison,Leicester,133,MID,8,7,10,4,0,28,0,0,0,0,12
 Leandro Trossard,Brighton,132,MID,5,6,12,2,0,30,0,0,0,0,15
-Rui Pedro dos Santos PatrÃ­cio,Wolves,132,GK,0,0,10,1,0,51,0,0,1,100,12
+Rui Pedro dos Santos Patrício,Wolves,132,GK,0,0,10,1,0,51,0,0,1,100,12
 Bernd Leno,Arsenal,131,GK,0,0,11,0,1,37,1,0,1,86,11
 Pierre-Emerick Aubameyang,Arsenal,131,MID,10,3,10,2,0,26,1,0,0,0,11
 Danny Ings,Southampton,131,FWD,12,4,6,1,0,40,0,0,0,0,21
@@ -75,16 +75,16 @@ Gylfi Sigurdsson,Everton,122,MID,6,5,10,2,0,29,0,1,0,0,13
 Lucas Digne,Everton,120,DEF,0,9,9,2,1,42,0,0,0,0,18
 Ezri Konsa Ngoyo,Aston Villa,119,DEF,2,0,12,3,0,46,0,0,0,0,8
 Michail Antonio,West Ham,118,FWD,10,5,6,3,0,25,0,0,0,0,19
-Pascal GroÃ,Brighton,116,MID,3,8,10,3,0,28,0,1,0,0,11
+Pascal Groß,Brighton,116,MID,3,8,10,3,0,28,0,1,0,0,11
 Stuart Armstrong,Southampton,115,MID,4,7,8,3,0,56,0,0,0,0,4
 Gabriel Fernando de Jesus,Man City,115,FWD,9,5,11,2,0,17,0,0,0,0,16
 John McGinn,Aston Villa,114,MID,3,7,14,12,0,46,0,0,0,0,2
 Jorge Luiz Frello Filho,Chelsea,114,MID,7,2,14,2,0,17,0,2,0,0,15
 Jordan Pickford,Everton,114,GK,0,0,10,1,0,39,0,0,0,89,8
-Nicolas PÃ©pÃ©,Arsenal,114,MID,10,3,4,1,1,21,0,0,0,0,11
+Nicolas Pépé,Arsenal,114,MID,10,3,4,1,1,21,0,0,0,0,11
 Bukayo Saka,Arsenal,114,MID,5,5,8,1,0,31,1,0,0,0,8
 Dwight McNeil,Burnley,113,MID,2,5,11,1,0,50,0,0,0,0,8
-CÃ©sar Azpilicueta,Chelsea,113,DEF,1,2,13,5,1,20,0,0,0,0,12
+César Azpilicueta,Chelsea,113,DEF,1,2,13,5,1,20,0,0,0,0,12
 Gareth Bale,Spurs,113,MID,11,3,5,1,0,12,0,0,0,0,16
 Reece James,Chelsea,112,DEF,1,3,9,3,0,29,0,0,0,0,15
 Ashley Westwood,Burnley,112,MID,3,4,11,7,0,55,0,0,0,0,5
@@ -92,10 +92,10 @@ Anwar El Ghazi,Aston Villa,111,MID,10,0,5,2,0,22,0,0,0,0,13
 Ezgjan Alioski,Leeds,110,DEF,2,3,10,7,0,35,0,0,0,0,7
 Kelechi Iheanacho,Leicester,110,FWD,12,2,5,1,0,23,0,1,0,0,18
 James Tarkowski,Burnley,109,DEF,1,0,11,6,0,50,0,0,0,0,9
-NÃ©lson Cabral Semedo,Wolves,109,DEF,1,3,9,5,0,45,1,0,0,0,11
+Nélson Cabral Semedo,Wolves,109,DEF,1,3,9,5,0,45,1,0,0,0,11
 Jonny Evans,Leicester,109,DEF,2,2,10,7,0,31,1,0,0,0,12
 Kurt Zouma,Chelsea,108,DEF,5,0,9,3,0,25,0,0,0,0,6
-Pierre-Emile HÃ¸jbjerg,Spurs,107,MID,2,4,12,9,0,45,0,0,0,0,6
+Pierre-Emile Højbjerg,Spurs,107,MID,2,4,12,9,0,45,0,0,0,0,6
 Ademola Lookman,Fulham,107,MID,4,4,10,5,0,33,0,1,0,0,8
 Christian Benteke,Crystal Palace,106,FWD,10,2,5,1,1,34,0,0,0,0,14
 Conor Coady,Wolves,106,DEF,1,0,10,5,0,51,0,0,0,0,7
@@ -103,39 +103,39 @@ Mason Greenwood,Man Utd,106,MID,7,2,7,2,0,23,0,0,0,0,9
 Jesse Lingard,West Ham,106,MID,9,5,4,3,0,19,0,1,0,0,15
 Rob Holding,Arsenal,105,DEF,0,1,11,2,0,26,1,0,0,0,10
 Neal Maupay,Brighton,105,FWD,8,2,10,1,1,34,0,1,0,0,12
-RÃºben Diogo da Silva Neves,Wolves,104,MID,5,1,8,8,0,42,0,0,0,0,10
+Rúben Diogo da Silva Neves,Wolves,104,MID,5,1,8,8,0,42,0,0,0,0,10
 Ben White,Brighton,104,DEF,0,0,12,3,1,44,0,0,0,0,5
 Matthew Lowton,Burnley,103,DEF,1,1,10,5,0,47,0,0,0,0,6
 Ola Aina,Fulham,102,DEF,2,1,8,3,0,36,0,0,0,0,8
-Victor LindelÃ¶f,Man Utd,102,DEF,1,1,10,0,0,30,0,0,0,0,3
+Victor Lindelöf,Man Utd,102,DEF,1,1,10,0,0,30,0,0,0,0,3
 Ben Mee,Burnley,102,DEF,2,0,10,3,0,41,0,0,0,0,7
 James Justin,Leicester,101,DEF,2,2,9,4,0,25,0,0,0,0,13
-James RodrÃ­guez,Everton,101,MID,6,5,5,4,0,27,0,0,0,0,11
-Robert SÃ¡nchez,Brighton,101,GK,0,0,10,2,0,27,0,0,0,66,8
+James Rodríguez,Everton,101,MID,6,5,5,4,0,27,0,0,0,0,11
+Robert Sánchez,Brighton,101,GK,0,0,10,2,0,27,0,0,0,66,8
 Ben Godfrey,Everton,100,DEF,0,2,11,4,0,35,1,0,0,0,7
 Angelo Ogbonna,West Ham,100,DEF,3,0,9,5,0,34,0,0,0,0,5
 David McGoldrick,Sheffield Utd,100,FWD,8,1,9,7,0,37,0,0,0,0,12
 Tosin Adarabioyo,Fulham,100,DEF,0,1,9,1,0,41,1,0,0,0,11
 Luke Ayling,Leeds,100,DEF,0,0,12,7,0,54,0,0,0,0,2
-Romain SaÃ¯ss,Wolves,99,DEF,3,0,8,2,0,40,0,0,0,0,11
+Romain Saïss,Wolves,99,DEF,3,0,8,2,0,40,0,0,0,0,11
 Tanguy Ndombele,Spurs,99,MID,3,3,12,3,0,24,0,0,0,0,7
 Mateusz Klich,Leeds,99,MID,4,5,8,6,0,44,0,0,0,0,3
 Edinson Cavani,Man Utd,99,FWD,10,4,4,4,0,18,0,0,0,0,14
 Georginio Wijnaldum,Liverpool,97,MID,2,1,10,1,0,39,0,0,0,0,3
-Miguel AlmirÃ³n,Newcastle,97,MID,4,2,5,3,0,48,0,0,0,0,8
-JoÃ«l Veltman,Brighton,96,DEF,1,1,9,3,0,27,0,0,0,0,10
+Miguel Almirón,Newcastle,97,MID,4,2,5,3,0,48,0,0,0,0,8
+Joël Veltman,Brighton,96,DEF,1,1,9,3,0,27,0,0,0,0,10
 Kieran Tierney,Arsenal,96,DEF,1,4,8,4,0,27,0,0,0,0,4
 Ferran Torres,Man City,95,MID,7,4,7,1,0,13,0,0,0,0,4
 Timothy Castagne,Leicester,94,DEF,2,4,6,1,0,37,0,0,0,0,7
-HÃ©ctor BellerÃ­n,Arsenal,94,DEF,1,3,7,8,0,24,0,0,0,0,17
+Héctor Bellerín,Arsenal,94,DEF,1,3,7,8,0,24,0,0,0,0,17
 Alex McCarthy,Southampton,94,GK,0,0,7,2,0,57,0,0,0,93,8
 Jan Bednarek,Southampton,94,DEF,1,1,9,5,1,62,1,0,0,0,11
 Andros Townsend,Crystal Palace,94,MID,1,5,7,0,0,37,0,0,0,0,8
 Bernardo Mota Veiga de Carvalho e Silva,Man City,94,MID,2,7,11,5,0,18,0,0,0,0,9
-Adama TraorÃ©,Wolves,94,MID,2,4,7,4,0,41,0,0,0,0,5
+Adama Traoré,Wolves,94,MID,2,4,7,4,0,41,0,0,0,0,5
 Kyle Walker-Peters,Southampton,93,DEF,0,3,9,4,0,41,0,0,0,0,7
 Joachim Andersen,Fulham,93,DEF,1,1,9,6,1,36,0,0,0,0,7
-Antonio RÃ¼diger,Chelsea,93,DEF,1,0,11,0,0,10,1,0,0,0,9
+Antonio Rüdiger,Chelsea,93,DEF,1,0,11,0,0,10,1,0,0,0,9
 Paul Pogba,Man Utd,92,MID,3,6,5,3,0,26,0,0,0,0,11
 Thiago Thiago,Chelsea,92,DEF,2,0,10,3,1,25,0,0,0,0,10
 Scott McTominay,Man Utd,91,MID,4,2,9,3,0,25,0,0,0,0,4
@@ -146,7 +146,7 @@ Kyle Walker,Man City,91,DEF,1,1,9,1,0,20,0,0,0,0,7
 Danny Welbeck,Brighton,89,FWD,6,4,6,0,0,18,0,1,0,0,15
 Matthew Cash,Aston Villa,89,DEF,0,2,11,6,1,35,0,0,0,0,8
 Rodrigo Moreno,Leeds,89,FWD,7,4,3,3,0,21,0,0,0,0,16
-Sergio ReguilÃ³n,Spurs,89,DEF,0,6,8,5,0,31,1,0,0,0,4
+Sergio Reguilón,Spurs,89,DEF,0,6,8,5,0,31,1,0,0,0,4
 Toby Alderweireld,Spurs,88,DEF,1,0,10,2,0,25,1,0,0,0,4
 Bobby Decordova-Reid,Fulham,88,FWD,5,3,9,7,0,32,0,0,0,0,6
 Diogo Jota,Liverpool,86,MID,9,0,4,2,0,15,0,0,0,0,9
@@ -156,13 +156,13 @@ Ivan Ricardo Neves Abreu Cavaleiro,Fulham,85,MID,3,0,7,2,0,43,0,1,0,0,4
 Allan Saint-Maximin,Newcastle,85,MID,3,5,7,0,0,26,0,0,0,0,5
 Adam Webster,Brighton,85,DEF,1,0,9,4,0,35,0,0,0,0,0
 Charlie Taylor,Burnley,83,DEF,0,2,8,1,0,42,0,0,0,0,5
-Cheikhou KouyatÃ©,Crystal Palace,82,MID,1,0,8,4,0,56,0,0,0,0,2
+Cheikhou Kouyaté,Crystal Palace,82,MID,1,0,8,4,0,56,0,0,0,0,2
 Christian Pulisic,Chelsea,82,MID,4,3,7,2,0,21,0,0,0,0,3
 Seamus Coleman,Everton,81,DEF,0,3,8,0,0,19,0,0,0,0,4
 Karl Darlow,Newcastle,80,GK,0,0,4,3,0,43,0,0,1,88,6
 Lucas Rodrigues Moura da Silva,Spurs,80,MID,3,5,4,1,0,18,0,0,0,0,5
 Serge Aurier,Spurs,80,DEF,2,3,6,0,0,22,0,0,0,0,4
-Abdoulaye DoucourÃ©,Everton,80,MID,2,3,9,6,0,36,0,0,0,0,2
+Abdoulaye Doucouré,Everton,80,MID,2,3,9,6,0,36,0,0,0,0,2
 Mason Holgate,Everton,80,DEF,1,0,9,9,0,32,0,0,0,0,4
 Joseph Willock,Newcastle,79,MID,8,0,4,1,0,18,0,1,0,0,5
 Darnell Furlong,West Brom,79,DEF,1,3,6,5,0,63,1,0,0,0,2
@@ -170,14 +170,14 @@ Callum Robinson,West Brom,79,FWD,5,3,3,0,0,42,0,0,0,0,8
 Yerry Mina,Everton,79,DEF,2,0,6,2,0,22,0,0,0,0,7
 Wilfred Ndidi,Leicester,79,MID,1,4,7,6,0,31,0,0,0,0,11
 Kyle Bartley,West Brom,79,DEF,3,1,5,4,0,53,0,0,0,0,3
-Gabriel MagalhÃ£es,Arsenal,78,DEF,2,0,6,2,1,24,0,0,0,0,7
+Gabriel Magalhães,Arsenal,78,DEF,2,0,6,2,1,24,0,0,0,0,7
 Marc Albrighton,Leicester,78,MID,1,7,4,2,0,22,0,0,0,0,3
 Ryan Bertrand,Southampton,78,DEF,0,2,8,5,0,51,0,0,0,0,4
 Willian Borges Da Silva,Arsenal,78,MID,1,7,3,0,0,17,0,0,0,0,9
 Yves Bissouma,Brighton,77,MID,1,0,11,8,1,42,0,0,0,0,2
 Eric Dier,Spurs,77,DEF,0,0,8,3,0,34,0,0,0,0,2
 Leander Dendoncker,Wolves,77,MID,1,2,11,4,0,33,1,0,0,0,2
-AndrÃ©-Frank Zambo Anguissa,Fulham,76,MID,0,3,6,6,0,40,0,0,0,0,4
+André-Frank Zambo Anguissa,Fulham,76,MID,0,3,6,6,0,40,0,0,0,0,4
 Conor Townsend,West Brom,76,DEF,0,2,6,0,0,36,0,0,0,0,8
 Ross Barkley,Aston Villa,76,MID,3,2,8,0,0,24,0,0,0,0,4
 Theo Walcott,Southampton,76,MID,3,4,5,0,0,28,0,0,0,0,2
@@ -186,10 +186,10 @@ Daniel Castelo Podence,Wolves,75,MID,3,2,8,3,0,24,0,0,0,0,5
 Anthony Martial,Man Utd,75,FWD,4,7,4,0,1,23,0,0,0,0,3
 Emile Smith Rowe,Arsenal,74,MID,2,5,9,0,0,10,0,0,0,0,3
 Josh Brownhill,Burnley,74,MID,0,1,10,2,0,42,0,0,0,0,0
-Joelinton CÃ¡ssio ApolinÃ¡rio de Lira,Newcastle,74,FWD,4,2,3,3,0,36,0,0,0,0,5
+Joelinton Cássio Apolinário de Lira,Newcastle,74,FWD,4,2,3,3,0,36,0,0,0,0,5
 Jonjo Shelvey,Newcastle,74,MID,1,3,6,7,0,46,0,0,0,0,2
-JoÃ£o Filipe Iria Santos Moutinho,Wolves,73,MID,1,1,6,3,1,40,0,0,0,0,4
-SaÃ¯d Benrahma,West Ham,73,MID,1,6,3,0,0,19,0,0,0,0,4
+João Filipe Iria Santos Moutinho,Wolves,73,MID,1,1,6,3,1,40,0,0,0,0,4
+Saïd Benrahma,West Ham,73,MID,1,6,3,0,0,19,0,0,0,0,4
 Douglas Luiz Soares de Paulo,Aston Villa,72,MID,0,2,12,8,1,41,0,0,0,0,0
 Fabio Silva,Wolves,72,FWD,4,3,0,2,0,29,0,0,0,0,5
 Conor Gallagher,West Brom,71,MID,2,2,5,11,0,48,0,0,0,0,3
@@ -220,19 +220,19 @@ Fernando Luiz Rosa,Man City,65,DEF,0,2,7,6,0,10,0,0,0,0,8
 Jairo Riedewald,Crystal Palace,64,MID,2,0,4,4,0,39,0,0,0,0,4
 Dan Burn,Brighton,64,DEF,1,0,6,5,0,28,1,0,0,0,1
 George Baldock,Sheffield Utd,63,DEF,0,2,4,7,0,51,0,0,0,0,2
-Aleksandar MitroviÄ,Fulham,63,FWD,3,3,1,3,0,24,0,1,0,0,7
+Aleksandar Mitrović,Fulham,63,FWD,3,3,1,3,0,24,0,1,0,0,7
 Luka Milivojevic,Crystal Palace,63,MID,1,1,7,8,1,47,0,1,0,0,3
-HÃ©lder Wander Sousa de Azevedo e Costa,Leeds,63,MID,3,4,3,0,0,23,1,0,0,0,2
+Hélder Wander Sousa de Azevedo e Costa,Leeds,63,MID,3,4,3,0,0,23,1,0,0,0,2
 Benjamin Mendy,Man City,63,DEF,2,1,5,2,0,10,0,0,0,0,8
-N'Golo KantÃ©,Chelsea,62,MID,0,2,10,7,0,24,0,0,0,0,0
-Daniel Ceballos FernÃ¡ndez,Arsenal,62,MID,0,4,6,4,0,17,0,0,0,0,7
+N'Golo Kanté,Chelsea,62,MID,0,2,10,7,0,24,0,0,0,0,0
+Daniel Ceballos Fernández,Arsenal,62,MID,0,4,6,4,0,17,0,0,0,0,7
 Matej Vydra,Burnley,62,FWD,3,2,3,0,0,24,0,0,0,0,2
 Andreas Christensen,Chelsea,61,DEF,0,0,8,2,1,17,0,0,0,0,9
 Liam Cooper,Leeds,59,DEF,1,0,6,4,1,41,0,0,0,0,2
 Callum Hudson-Odoi,Chelsea,59,MID,2,3,6,0,0,5,0,0,0,0,2
-Ãaglar SÃ¶yÃ¼ncÃ¼,Leicester,59,DEF,1,0,5,2,0,30,0,0,0,0,3
+Çaglar Söyüncü,Leicester,59,DEF,1,0,5,2,0,30,0,0,0,0,3
 Aymeric Laporte,Man City,58,DEF,0,0,7,1,0,10,0,0,0,0,4
-Ayoze PÃ©rez,Leicester,58,MID,2,1,5,2,0,21,0,0,0,0,2
+Ayoze Pérez,Leicester,58,MID,2,1,5,2,0,21,0,0,0,0,2
 Tyrick Mitchell,Crystal Palace,58,DEF,1,2,4,1,0,32,0,0,0,0,5
 Adam Lallana,Brighton,58,MID,1,1,5,0,0,18,0,0,0,0,2
 Max Kilman,Wolves,58,DEF,0,1,5,4,0,11,0,0,0,0,8
@@ -244,7 +244,7 @@ Jordan Henderson,Liverpool,56,MID,1,2,4,0,0,23,0,0,0,0,2
 Enda Stevens,Sheffield Utd,56,DEF,0,1,4,6,0,54,0,0,0,0,2
 Mahmoud Ahmed Ibrahim Hassan,Aston Villa,56,MID,2,1,6,0,0,14,0,0,0,0,3
 Mario Lemina,Fulham,55,MID,1,1,3,5,0,27,0,0,0,0,3
-Thiago AlcÃ¡ntara do Nascimento,Liverpool,55,MID,1,0,8,4,0,18,0,0,0,0,1
+Thiago Alcántara do Nascimento,Liverpool,55,MID,1,0,8,4,0,18,0,0,0,0,1
 Steven Bergwijn,Spurs,55,MID,1,4,5,3,0,15,0,0,0,0,2
 Patrick van Aanholt,Crystal Palace,54,DEF,0,2,4,2,0,36,0,0,0,0,5
 Jay Rodriguez,Burnley,54,FWD,1,3,4,3,0,25,0,0,0,0,2
@@ -252,7 +252,7 @@ Oliver Norwood,Sheffield Utd,54,MID,0,0,5,6,0,43,0,0,0,0,0
 Mateo Kovacic,Chelsea,54,MID,0,1,9,4,0,26,0,0,0,0,0
 Rayan Ait Nouri,Wolves,54,DEF,1,1,3,1,0,23,0,0,0,0,6
 Gary Cahill,Crystal Palace,53,DEF,1,1,4,3,0,39,0,0,0,0,6
-Federico FernÃ¡ndez,Newcastle,53,DEF,0,0,5,4,0,38,1,0,0,0,6
+Federico Fernández,Newcastle,53,DEF,0,0,5,4,0,38,1,0,0,0,6
 Ben Davies,Spurs,52,DEF,0,2,4,1,0,16,0,0,0,0,1
 Ben Davies,Liverpool,52,DEF,0,2,4,1,0,16,0,0,0,0,1
 Matt Ritchie,Newcastle,52,MID,0,5,3,2,0,22,1,0,0,0,5
@@ -271,7 +271,7 @@ Erik Pieters,Burnley,50,DEF,0,3,3,1,0,19,1,0,0,0,5
 Tyler Roberts,Leeds,49,MID,1,2,4,3,0,19,0,0,0,0,0
 John Lundstram,Sheffield Utd,48,MID,0,2,3,8,1,41,0,1,0,0,2
 Takumi Minamino,Southampton,48,MID,3,0,2,1,0,18,0,0,0,0,2
-AndrÃ© Filipe Tavares Gomes,Everton,48,MID,0,1,5,3,0,22,0,0,0,0,0
+André Filipe Tavares Gomes,Everton,48,MID,0,1,5,3,0,22,0,0,0,0,0
 Martin Dubravka,Newcastle,48,GK,0,0,3,0,0,19,0,0,0,45,6
 Alexis Mac Allister,Brighton,48,MID,1,1,5,1,0,14,0,0,0,0,3
 Matt Doherty,Spurs,47,DEF,0,2,4,2,1,15,0,0,0,0,4
@@ -292,14 +292,14 @@ James Milner,Liverpool,44,MID,0,2,4,3,0,10,0,0,0,0,2
 Ethan Ampadu,Sheffield Utd,44,DEF,0,0,2,3,0,41,1,0,0,0,4
 Robbie Brady,Burnley,44,MID,1,1,7,3,0,6,0,0,0,0,3
 Jamaal Lascelles,Newcastle,44,DEF,2,0,2,4,0,32,0,0,0,0,3
-RaÃºl JimÃ©nez,Wolves,43,FWD,4,1,4,0,0,10,1,0,0,0,7
-Davinson SÃ¡nchez,Spurs,43,DEF,0,0,4,1,0,22,1,0,0,0,3
+Raúl Jiménez,Wolves,43,FWD,4,1,4,0,0,10,1,0,0,0,7
+Davinson Sánchez,Spurs,43,DEF,0,0,4,1,0,22,1,0,0,0,3
 Daniel James,Man Utd,43,MID,3,1,4,3,0,7,0,0,0,0,1
 Issa Diop,West Ham,42,DEF,2,0,2,3,0,22,1,0,0,0,1
 Joel Matip,Liverpool,42,DEF,1,2,3,2,0,5,0,0,0,0,5
 Arthur Masuaku,West Ham,42,DEF,0,2,4,2,0,15,0,0,0,0,4
 Nampalys Mendy,Leicester,41,MID,0,1,4,5,0,25,0,0,0,0,0
-SÃ©bastien Haller,West Ham,41,FWD,3,0,3,0,0,12,0,0,0,0,4
+Sébastien Haller,West Ham,41,FWD,3,0,3,0,0,12,0,0,0,0,4
 Jack Stephens,Southampton,41,DEF,0,0,4,2,0,39,0,0,0,0,6
 Karlan Grant,West Brom,41,FWD,1,0,3,1,0,26,0,0,0,0,3
 Michy Batshuayi,Crystal Palace,41,FWD,2,2,2,0,0,15,0,0,0,0,2
@@ -308,17 +308,17 @@ David Luiz Moreira Marinho,Arsenal,41,DEF,1,0,3,1,1,20,0,0,0,0,0
 Dara O'Shea,West Brom,41,DEF,0,0,3,3,0,51,0,0,0,0,1
 Isaac Hayden,Newcastle,40,MID,0,0,4,8,0,33,0,0,0,0,0
 Josh Maja,Fulham,40,FWD,3,0,5,0,0,9,0,0,0,0,5
-Willian JosÃ© Da Silva,Wolves,40,FWD,1,1,5,0,0,13,0,0,0,0,3
-Martin Ãdegaard,Arsenal,40,MID,1,2,3,0,0,12,0,0,0,0,3
+Willian José Da Silva,Wolves,40,FWD,1,1,5,0,0,13,0,0,0,0,3
+Martin Ødegaard,Arsenal,40,MID,1,2,3,0,0,12,0,0,0,0,3
 Paul Dummett,Newcastle,40,DEF,1,0,3,2,0,20,0,0,0,0,2
 Grady Diangana,West Brom,39,MID,1,0,1,0,0,33,0,0,0,0,0
 Ryan Fraser,Newcastle,39,MID,0,4,4,0,1,18,0,0,0,0,0
 Scott Dann,Crystal Palace,39,DEF,1,1,2,1,0,24,0,0,0,0,1
-FabiÃ¡n Balbuena,West Ham,39,DEF,1,0,4,1,1,19,0,0,0,0,0
+Fabián Balbuena,West Ham,39,DEF,1,0,4,1,1,19,0,0,0,0,0
 Jayden Bogle,Sheffield Utd,39,DEF,2,0,2,2,0,20,0,0,0,0,0
 Billy Sharp,Sheffield Utd,39,FWD,3,0,0,1,0,15,0,0,0,0,6
 Robin Koch,Leeds,38,DEF,0,0,4,1,0,21,0,0,0,0,2
-Sergio AgÃ¼ero,Man City,38,FWD,4,1,4,0,0,4,0,1,0,0,3
+Sergio Agüero,Man City,38,FWD,4,1,4,0,0,4,0,1,0,0,3
 Aaron Connolly,Brighton,38,FWD,2,1,1,0,0,17,0,0,0,0,2
 Dennis Praet,Leicester,37,MID,1,2,3,0,0,11,0,0,0,0,1
 Mathew Ryan,Arsenal,37,GK,0,0,3,1,0,21,0,0,0,24,0
@@ -330,7 +330,7 @@ Calum Chambers,Arsenal,36,DEF,0,3,2,0,0,10,0,0,0,0,3
 Tariq Lamptey,Brighton,35,DEF,1,3,2,2,1,15,0,0,0,0,2
 Steven Alzate,Brighton,35,MID,1,0,5,2,0,17,0,0,0,0,3
 Giovani Lo Celso,Spurs,35,MID,1,1,5,5,0,10,0,0,0,0,0
-Pablo MarÃ­,Arsenal,34,DEF,0,0,4,2,0,8,0,0,0,0,1
+Pablo Marí,Arsenal,34,DEF,0,0,4,2,0,8,0,0,0,0,1
 Rhian Brewster,Sheffield Utd,34,FWD,0,0,2,1,0,16,0,0,0,0,0
 Okay Yokuslu,West Brom,34,MID,0,1,4,4,0,20,0,0,0,0,0
 Jack Cork,Burnley,33,MID,0,0,4,2,0,24,0,0,0,0,0
@@ -347,19 +347,19 @@ Dwight Gayle,Newcastle,31,FWD,1,1,0,0,0,9,0,0,0,0,3
 Andy Carroll,Newcastle,30,FWD,1,1,1,1,0,8,0,0,0,0,3
 Hal Robson-Kanu,West Brom,30,FWD,2,0,0,2,0,12,0,0,0,0,3
 Bamidele Alli,Spurs,30,MID,0,2,3,0,0,9,0,0,0,0,0
-Fabian SchÃ¤r,Newcastle,30,DEF,1,0,2,4,1,21,0,0,0,0,1
+Fabian Schär,Newcastle,30,DEF,1,0,2,4,1,21,0,0,0,0,1
 Fraser Forster,Southampton,30,GK,0,0,2,0,0,11,0,0,1,20,0
-Nathan AkÃ©,Man City,29,DEF,1,0,3,4,0,13,0,0,0,0,1
+Nathan Aké,Man City,29,DEF,1,0,3,4,0,13,0,0,0,0,1
 Kean Bryan,Sheffield Utd,29,DEF,1,0,2,1,0,17,1,0,0,0,0
 Manuel Lanzini,West Ham,28,MID,1,1,1,1,0,5,0,0,0,0,0
 Nathaniel Clyne,Crystal Palace,28,DEF,0,1,2,2,0,22,0,0,0,0,0
 Ryan Fredericks,West Ham,28,DEF,1,1,1,2,0,9,0,0,0,0,0
 Erik Lamela,Spurs,28,MID,1,1,1,4,1,17,0,0,0,0,0
-CÃ©dric Soares,Arsenal,28,DEF,0,1,2,1,0,11,0,0,0,0,3
+Cédric Soares,Arsenal,28,DEF,0,1,2,1,0,11,0,0,0,0,3
 Javier Manquillo,Newcastle,28,DEF,0,0,3,1,0,15,0,0,0,0,0
 Rhys Williams,Liverpool,28,DEF,0,0,3,0,0,6,0,0,0,0,1
 Jacob Ramsey,Aston Villa,28,MID,0,0,2,0,0,10,0,0,0,0,0
-Pablo HernÃ¡ndez DomÃ­nguez,Leeds,28,MID,0,3,1,1,0,6,0,0,0,0,0
+Pablo Hernández Domínguez,Leeds,28,MID,0,3,1,1,0,6,0,0,0,0,0
 Joe Rodon,Spurs,27,DEF,0,0,2,0,0,12,0,0,0,0,3
 Joe Bryan,Fulham,27,DEF,1,1,0,2,0,17,0,0,0,0,2
 Mark Noble,West Ham,27,MID,0,0,0,1,0,15,0,0,0,0,0
@@ -382,17 +382,17 @@ Keinan Davis,Aston Villa,23,FWD,1,1,1,0,0,1,0,0,0,0,0
 Morgan Gibbs-White,Wolves,22,MID,1,0,0,1,0,6,0,0,0,0,3
 Jakub Moder,Brighton,21,MID,0,0,2,0,0,10,0,0,0,0,0
 Alex Oxlade-Chamberlain,Liverpool,21,MID,1,1,0,0,0,6,0,0,0,0,0
-Bernard AnÃ­cio Caldeira Duarte,Everton,21,MID,1,0,2,2,0,7,0,0,0,0,1
+Bernard Anício Caldeira Duarte,Everton,21,MID,1,0,2,2,0,7,0,0,0,0,1
 Branislav Ivanovic,West Brom,20,DEF,0,0,2,2,0,19,0,0,0,0,0
 Conor Hourihane,Aston Villa,20,MID,1,1,2,0,0,2,0,0,0,0,3
 Harry Winks,Spurs,19,MID,0,0,1,5,0,16,0,0,0,0,0
 Daniel Amartey,Leicester,19,DEF,1,0,0,3,0,12,0,0,0,0,2
-Fernando MarÃ§al,Wolves,19,DEF,0,0,1,2,0,9,0,0,0,0,0
+Fernando Marçal,Wolves,19,DEF,0,0,1,2,0,9,0,0,0,0,0
 James Tomkins,Crystal Palace,18,DEF,0,0,2,1,0,12,0,0,0,0,2
 Filip Krovinovic,West Brom,17,MID,0,0,1,0,0,11,0,0,0,0,0
 Andriy Yarmolenko,West Ham,17,MID,0,1,1,3,0,7,0,0,0,0,0
 Jamie Shackleton,Leeds,17,MID,0,0,1,0,0,11,0,0,0,0,0
-Cengiz Ãnder,Leicester,16,MID,0,2,0,0,0,5,0,0,0,0,0
+Cengiz Ünder,Leicester,16,MID,0,2,0,0,0,5,0,0,0,0,0
 Jonathan Castro Otto,Wolves,16,DEF,0,0,1,0,0,4,0,0,0,0,1
 Virgil van Dijk,Liverpool,15,DEF,1,0,1,1,0,11,0,0,0,0,1
 Jean-Philippe Mateta,Crystal Palace,15,FWD,1,0,0,0,0,4,0,0,0,0,2
@@ -401,7 +401,7 @@ Ian Carlo Poveda-Ocampo,Leeds,14,MID,0,0,0,0,0,5,0,0,0,0,0
 Japhet Tanganga,Spurs,14,DEF,0,0,2,2,0,8,0,0,0,0,0
 Hamza Choudhury,Leicester,14,MID,0,0,2,1,0,2,0,0,0,0,0
 Mohammed Salisu,Southampton,14,DEF,0,0,0,1,0,19,0,0,0,0,0
-Francisco Casilla CortÃ©s,Leeds,14,GK,0,0,1,0,0,2,0,0,0,8,2
+Francisco Casilla Cortés,Leeds,14,GK,0,0,1,0,0,2,0,0,0,8,2
 Robert Snodgrass,West Brom,14,MID,0,0,0,2,0,14,0,0,0,0,0
 Kevin Long,Burnley,14,DEF,0,0,1,2,0,13,0,0,0,0,1
 Lys Mousset,Sheffield Utd,13,FWD,0,0,0,0,0,10,0,0,0,0,0
@@ -415,7 +415,7 @@ Daniel Jebbison,Sheffield Utd,12,FWD,1,0,2,0,0,2,0,0,0,0,1
 Shane Long,Southampton,12,FWD,0,0,1,0,0,6,0,0,0,0,0
 Anthony Elanga,Man Utd,11,MID,1,0,0,0,0,2,0,0,0,0,2
 Joshua King,Everton,11,FWD,0,0,0,0,0,2,0,0,0,0,0
-AdriÃ¡n San Miguel del Castillo,Liverpool,11,GK,0,0,1,0,0,9,0,0,0,10,2
+Adrián San Miguel del Castillo,Liverpool,11,GK,0,0,1,0,0,9,0,0,0,10,2
 Neco Williams,Liverpool,11,DEF,0,0,1,1,0,1,0,0,0,0,0
 Matthew Longstaff,Newcastle,10,MID,0,0,1,0,0,8,0,0,0,0,0
 Tim Ream,Fulham,10,DEF,0,0,0,0,0,13,0,0,0,0,0
@@ -426,7 +426,7 @@ Darren Randolph,West Ham,10,GK,0,0,1,0,0,3,0,0,0,6,0
 Caoimhin Kelleher,Liverpool,10,GK,0,0,1,0,0,1,0,0,0,6,0
 Divock Origi,Liverpool,10,FWD,0,0,1,0,0,0,0,0,0,0,0
 Owen Otasowie,Wolves,9,MID,0,1,0,1,0,6,0,0,0,0,0
-Davy PrÃ¶pper,Brighton,9,MID,0,0,0,0,0,2,0,0,0,0,0
+Davy Pröpper,Brighton,9,MID,0,0,0,0,0,2,0,0,0,0,0
 Jimmy Dunne,Burnley,9,DEF,1,0,0,1,0,6,0,0,0,0,0
 Andi Zeqiri,Brighton,9,FWD,0,0,0,0,0,2,0,0,0,0,0
 Max Lowe,Sheffield Utd,9,DEF,0,0,0,1,0,10,0,0,0,0,0
@@ -482,28 +482,28 @@ Terence Kongolo,Fulham,2,DEF,0,0,0,0,0,1,0,0,0,0,0
 Rekeem Harper,West Brom,2,MID,0,0,0,0,0,2,0,0,0,0,0
 Lewis Richardson,Burnley,2,FWD,0,0,0,0,0,0,0,0,0,0,0
 Lee Peltier,West Brom,2,DEF,0,0,0,1,0,8,0,0,0,0,0
-Marek RodÃ¡k,Fulham,2,GK,0,0,0,0,0,5,0,0,0,4,0
+Marek Rodák,Fulham,2,GK,0,0,0,0,0,5,0,0,0,4,0
 Konstantinos Tsimikas,Liverpool,2,DEF,0,0,0,0,0,0,0,0,0,0,0
 Zack Steffen,Man City,2,GK,0,0,0,0,0,1,0,0,0,1,0
 David Button,West Brom,2,GK,0,0,0,0,0,2,0,0,0,4,0
-JoÃ£o VirgÃ­nia,Everton,2,GK,0,0,0,0,0,0,0,0,0,3,0
+João Virgínia,Everton,2,GK,0,0,0,0,0,0,0,0,0,3,0
 Leif Davis,Leeds,2,DEF,0,0,0,0,0,0,0,0,0,0,0
 Elliot Anderson,Newcastle,1,MID,0,0,0,0,0,0,0,0,0,0,0
 Nathan Broadhead,Everton,1,MID,0,0,0,0,0,0,0,0,0,0,0
 Maxime Le Marchand,Fulham,1,DEF,0,0,0,2,0,1,0,0,0,0,0
-RÃºnar Alex RÃºnarsson,Arsenal,1,GK,0,0,0,0,0,0,0,0,0,2,0
+Rúnar Alex Rúnarsson,Arsenal,1,GK,0,0,0,0,0,0,0,0,0,2,0
 Jaden Philogene-Bidace,Aston Villa,1,MID,0,0,0,0,0,0,0,0,0,0,0
 Willy Caballero,Chelsea,1,GK,0,0,0,0,0,3,0,0,0,0,0
 Niall Huggins,Leeds,1,FWD,0,0,0,0,0,0,0,0,0,0,0
 Jake Vokins,Southampton,1,DEF,0,0,0,0,0,2,0,0,0,0,0
 Odion Ighalo,Man Utd,1,FWD,0,0,0,0,0,1,0,0,0,0,0
 Oskar Buur,Wolves,1,DEF,0,0,0,0,0,0,0,0,0,0,0
-RÃºben GonÃ§alo Silva Nascimento Vinagre,Wolves,1,DEF,0,0,0,0,0,7,0,0,0,0,0
+Rúben Gonçalo Silva Nascimento Vinagre,Wolves,1,DEF,0,0,0,0,0,7,0,0,0,0,0
 Tyrese Francois,Fulham,1,MID,0,0,0,0,0,1,0,0,0,0,0
 Martin Kelly,Crystal Palace,1,DEF,0,0,0,0,0,0,0,0,0,0,0
 Antwoine Hackford,Sheffield Utd,1,FWD,0,0,0,0,0,0,0,0,0,0,0
 Thakgalo Leshabela,Leicester,1,MID,0,0,0,0,0,0,0,0,0,0,0
-JosÃ© Izquierdo,Brighton,1,MID,0,0,0,0,0,0,0,0,0,0,0
+José Izquierdo,Brighton,1,MID,0,0,0,0,0,0,0,0,0,0,0
 Theo Corbeanu,Wolves,1,MID,0,0,0,0,0,0,0,0,0,0,0
 William Fish,Man Utd,1,DEF,0,0,0,0,0,0,0,0,0,0,0
 Jean-Philippe Gbamin,Everton,1,MID,0,0,0,0,0,1,0,0,0,0,0
@@ -547,7 +547,7 @@ Anthony Driscoll-Glennon,Burnley,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Angus Gunn,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Andy Lonergan,West Brom,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Valentino Livramento,Chelsea,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Andreas SÃ¶ndergaard,Wolves,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Andreas Söndergaard,Wolves,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Andreas Pereira,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Allan Tchaptchet,Southampton,0,DEF,0,0,0,0,0,3,0,0,0,0,0
 Vontae Daley-Campbell,Leicester,0,DEF,0,0,0,0,0,0,0,0,0,0,0
@@ -559,7 +559,7 @@ Will Ferry,Southampton,0,MID,0,0,0,0,0,0,0,0,0,0,0
 William Osula,Sheffield Utd,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 William Saliba,Arsenal,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Albian Ajeti,West Ham,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-AdriÃ¡n BernabÃ©,Man City,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Adrián Bernabé,Man City,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Adrien Silva,Leicester,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Ademipo Odubeko,West Ham,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Yoshinori Muto,Newcastle,0,FWD,0,0,0,0,0,0,0,0,0,0,0
@@ -575,7 +575,7 @@ Cameron Carter-Vickers,Spurs,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Sylvester Jasper,Fulham,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Caleb Taylor,West Brom,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Tahith Chong,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Bruno AndrÃ© Cavaco Jordao,Wolves,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Bruno André Cavaco Jordao,Wolves,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Brandon Pierrick,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Bobby Thomas,Burnley,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Tawanda Maswanhise,Leicester,0,MID,0,0,0,0,0,0,0,0,0,0,0
@@ -610,22 +610,22 @@ Max Sanders,Brighton,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Max Thompson,Burnley,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Mbwana Samatta,Aston Villa,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Meritan Shabani,Wolves,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Mesut Ãzil,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Mesut Özil,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Michael Hector,Fulham,0,DEF,0,0,0,2,0,10,0,0,0,0,0
 Jonathan Leko,West Brom,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Michael Verrips,Sheffield Utd,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Jonas LÃ¶ssl,Everton,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Jonas Lössl,Everton,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Michal Karbownik,Brighton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Miguel Azeez,Arsenal,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Joe Hart,Spurs,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Joe Gelhardt,Leeds,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-MoisÃ©s Caicedo,Brighton,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Moisés Caicedo,Brighton,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Jesurun Rak-Sakyi,Crystal Palace,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Jensen Weir,Brighton,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Jed Steer,Aston Villa,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Jean MichaÃ«l Seri,Fulham,0,MID,0,0,0,0,0,0,0,0,0,0,0
-JosÃ© Diogo Dalot Teixeira,Man Utd,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-JosÃ© Ignacio Peleteiro Romallo,Aston Villa,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Jean Michaël Seri,Fulham,0,MID,0,0,0,0,0,0,0,0,0,0,0
+José Diogo Dalot Teixeira,Man Utd,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+José Ignacio Peleteiro Romallo,Aston Villa,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Matt Macey,Arsenal,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Marcus Bettinelli,Fulham,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Luke Cundle,Wolves,0,MID,0,0,0,0,0,0,0,0,0,0,0
@@ -634,7 +634,7 @@ Luke Mbete,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Lewis Richards,Wolves,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Leonardo Campana,Wolves,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Leighton Clarkson,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
-LÃ©o Bonatini,Wolves,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Léo Bonatini,Wolves,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Mace Goodridge,Burnley,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Lee Grant,Man Utd,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Kyron Gordon,Sheffield Utd,0,DEF,0,0,0,0,0,0,0,0,0,0,0
@@ -643,7 +643,7 @@ Kyle John,Everton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Matija Sarkic,Wolves,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Mark Gillespie,Newcastle,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Kgaogelo Chauke,Southampton,0,MID,0,0,0,0,0,0,0,0,0,0,0
-MartÃ­n Montoya,Brighton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Martín Montoya,Brighton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Kevin McDonald,Fulham,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Kenneth Zohore,West Brom,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Kelland Watts,Newcastle,0,DEF,0,0,0,0,0,0,0,0,0,0,0
@@ -669,7 +669,7 @@ Reece Hannam,Crystal Palace,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Faustino Anjorin,Chelsea,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Liam Hughes,Liverpool,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Facundo Pellistri,Man Utd,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Fabricio Agosto RamÃ­rez,Fulham,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Fabricio Agosto Ramírez,Fulham,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Richard Nartey,Burnley,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Ellis Simms,Everton,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Elia Caprile,Leeds,0,GK,0,0,0,0,0,0,0,0,0,0,0
@@ -682,7 +682,7 @@ Daniel Langley,Newcastle,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Ryan Astley,Everton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Ryan Bennett,Wolves,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Nathan Ferguson,Crystal Palace,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-FrÃ©dÃ©ric Guilbert,Aston Villa,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Frédéric Guilbert,Aston Villa,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Glenn Murray,Brighton,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Harry Boyes,Sheffield Utd,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Jarrad Branthwaite,Everton,0,DEF,0,0,0,0,0,0,0,0,0,0,0
@@ -693,7 +693,7 @@ James Bree,Aston Villa,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Jamal Baptiste,West Ham,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Jakub Ojrzynski,Liverpool,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Jake Cain,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
-NicolÃ¡s Otamendi,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Nicolás Otamendi,Man City,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Nigel Lonwijk,Wolves,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Nile John,Spurs,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Jack Wilshere,West Ham,0,MID,0,0,0,0,0,0,0,0,0,0,0
@@ -708,7 +708,7 @@ Harvey Elliott,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Harry Wilson,Liverpool,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Harry Tyrer,Everton,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Harry Lewis,Southampton,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Ãrjan Nyland,Aston Villa,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Ørjan Nyland,Aston Villa,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Neil Taylor,Aston Villa,-1,DEF,0,0,0,1,0,2,0,0,0,0,0
 Alexandre Jankewitz,Southampton,-1,MID,0,0,0,0,1,9,0,0,0,0,0
 Kayne Ramsay,Southampton,-3,DEF,0,0,0,1,0,9,0,0,0,0,0
@@ -718,8 +718,8 @@ Mohamed Salah,All Teams,231,MID,22,6,11,0,0,41,0,0,0,0,21
 Heung-Min Son,All Teams,228,MID,17,11,13,0,0,36,0,0,0,0,26
 Patrick Bamford,All Teams,194,FWD,17,11,10,3,0,50,0,0,0,0,26
 Jamie Vardy,All Teams,187,FWD,15,14,8,1,0,44,0,1,0,0,23
-Emiliano MartÃ­nez,All Teams,186,GK,0,0,15,1,0,46,0,0,1,142,27
-Sadio ManÃ©,All Teams,176,MID,11,11,12,3,0,28,0,0,0,0,14
+Emiliano Martínez,All Teams,186,GK,0,0,15,1,0,46,0,0,1,142,27
+Sadio Mané,All Teams,176,MID,11,11,12,3,0,28,0,0,0,0,14
 Marcus Rashford,All Teams,174,MID,11,11,12,4,0,39,0,0,0,0,9
 Stuart Dallas,All Teams,171,DEF,8,3,12,7,0,53,0,0,0,0,15
 Ollie Watkins,All Teams,168,FWD,14,9,14,2,1,46,0,1,0,0,18
@@ -728,7 +728,7 @@ Andrew Robertson,All Teams,161,DEF,1,8,12,2,0,42,0,0,0,0,19
 Jack Harrison,All Teams,160,MID,8,10,11,2,0,45,0,0,0,0,15
 Trent Alexander-Arnold,All Teams,160,DEF,2,8,10,2,0,40,0,0,0,0,26
 Ederson Santana de Moraes,All Teams,160,GK,0,1,19,3,0,28,0,0,1,66,3
-Ilkay GÃ¼ndogan,All Teams,157,MID,13,4,12,1,0,16,0,1,0,0,22
+Ilkay Gündogan,All Teams,157,MID,13,4,12,1,0,16,0,1,0,0,22
 James Ward-Prowse,All Teams,156,MID,8,7,9,5,0,68,0,1,0,0,17
 Raheem Sterling,All Teams,154,MID,10,9,14,4,0,23,0,1,0,0,10
 Illan Meslier,All Teams,154,GK,0,0,11,0,0,52,1,0,1,140,20
@@ -740,7 +740,7 @@ Tomas Soucek,All Teams,147,MID,10,2,11,7,1,47,1,0,0,0,16
 Riyad Mahrez,All Teams,145,MID,9,8,11,0,0,22,0,0,0,0,15
 Nick Pope,All Teams,144,GK,0,0,11,1,0,37,0,0,0,114,20
 Aaron Wan-Bissaka,All Teams,144,DEF,2,5,13,3,0,36,0,0,0,0,11
-RÃºben Santos Gato Alves Dias,All Teams,142,DEF,1,1,17,4,0,21,1,0,0,0,12
+Rúben Santos Gato Alves Dias,All Teams,142,DEF,1,1,17,4,0,21,1,0,0,0,12
 Roberto Firmino,All Teams,141,FWD,9,8,10,2,0,39,0,0,0,0,15
 Kevin De Bruyne,All Teams,141,MID,6,12,12,1,0,17,0,1,0,0,19
 Jarrod Bowen,All Teams,141,MID,8,6,9,0,0,33,0,0,0,0,8
@@ -748,13 +748,13 @@ Alisson Ramses Becker,All Teams,140,GK,1,0,10,1,0,32,0,0,1,84,13
 Sam Johnstone,All Teams,140,GK,0,1,6,1,0,74,0,0,1,166,19
 Edouard Mendy,All Teams,140,GK,0,0,16,2,0,25,0,0,1,57,8
 Benjamin Chilwell,All Teams,139,DEF,3,6,12,3,0,23,0,0,0,0,11
-JoÃ£o Pedro Cavaco Cancelo,All Teams,138,DEF,2,4,14,5,1,21,0,0,0,0,18
+João Pedro Cavaco Cancelo,All Teams,138,DEF,2,4,14,5,1,21,0,0,0,0,18
 Chris Wood,All Teams,138,FWD,12,3,9,0,0,43,0,0,0,0,16
 Matt Targett,All Teams,138,DEF,0,4,16,7,0,44,0,0,0,0,9
 Che Adams,All Teams,137,FWD,9,7,7,1,0,51,0,0,0,0,16
 Wilfried Zaha,All Teams,136,MID,11,4,6,6,0,52,0,0,0,0,11
 Jack Grealish,All Teams,135,MID,6,12,12,6,0,28,0,0,0,0,13
-Bertrand TraorÃ©,All Teams,135,MID,7,7,11,1,0,31,0,0,0,0,7
+Bertrand Traoré,All Teams,135,MID,7,7,11,1,0,31,0,0,0,0,7
 Phil Foden,All Teams,135,MID,9,8,6,0,0,16,0,0,0,0,17
 Callum Wilson,All Teams,134,FWD,12,6,5,2,0,37,0,0,0,0,22
 Raphael Dias Belloli,All Teams,133,MID,6,10,9,3,0,34,0,0,0,0,11
@@ -762,7 +762,7 @@ Lukasz Fabianski,All Teams,133,GK,0,0,10,2,0,44,0,0,1,102,11
 Youri Tielemans,All Teams,133,MID,6,4,11,6,0,50,0,0,0,0,11
 James Maddison,All Teams,133,MID,8,7,10,4,0,28,0,0,0,0,12
 Leandro Trossard,All Teams,132,MID,5,6,12,2,0,30,0,0,0,0,15
-Rui Pedro dos Santos PatrÃ­cio,All Teams,132,GK,0,0,10,1,0,51,0,0,1,100,12
+Rui Pedro dos Santos Patrício,All Teams,132,GK,0,0,10,1,0,51,0,0,1,100,12
 Bernd Leno,All Teams,131,GK,0,0,11,0,1,37,1,0,1,86,11
 Pierre-Emerick Aubameyang,All Teams,131,MID,10,3,10,2,0,26,1,0,0,0,11
 Danny Ings,All Teams,131,FWD,12,4,6,1,0,40,0,0,0,0,21
@@ -788,16 +788,16 @@ Gylfi Sigurdsson,All Teams,122,MID,6,5,10,2,0,29,0,1,0,0,13
 Lucas Digne,All Teams,120,DEF,0,9,9,2,1,42,0,0,0,0,18
 Ezri Konsa Ngoyo,All Teams,119,DEF,2,0,12,3,0,46,0,0,0,0,8
 Michail Antonio,All Teams,118,FWD,10,5,6,3,0,25,0,0,0,0,19
-Pascal GroÃ,All Teams,116,MID,3,8,10,3,0,28,0,1,0,0,11
+Pascal Groß,All Teams,116,MID,3,8,10,3,0,28,0,1,0,0,11
 Stuart Armstrong,All Teams,115,MID,4,7,8,3,0,56,0,0,0,0,4
 Gabriel Fernando de Jesus,All Teams,115,FWD,9,5,11,2,0,17,0,0,0,0,16
 John McGinn,All Teams,114,MID,3,7,14,12,0,46,0,0,0,0,2
 Jorge Luiz Frello Filho,All Teams,114,MID,7,2,14,2,0,17,0,2,0,0,15
 Jordan Pickford,All Teams,114,GK,0,0,10,1,0,39,0,0,0,89,8
-Nicolas PÃ©pÃ©,All Teams,114,MID,10,3,4,1,1,21,0,0,0,0,11
+Nicolas Pépé,All Teams,114,MID,10,3,4,1,1,21,0,0,0,0,11
 Bukayo Saka,All Teams,114,MID,5,5,8,1,0,31,1,0,0,0,8
 Dwight McNeil,All Teams,113,MID,2,5,11,1,0,50,0,0,0,0,8
-CÃ©sar Azpilicueta,All Teams,113,DEF,1,2,13,5,1,20,0,0,0,0,12
+César Azpilicueta,All Teams,113,DEF,1,2,13,5,1,20,0,0,0,0,12
 Gareth Bale,All Teams,113,MID,11,3,5,1,0,12,0,0,0,0,16
 Reece James,All Teams,112,DEF,1,3,9,3,0,29,0,0,0,0,15
 Ashley Westwood,All Teams,112,MID,3,4,11,7,0,55,0,0,0,0,5
@@ -805,10 +805,10 @@ Anwar El Ghazi,All Teams,111,MID,10,0,5,2,0,22,0,0,0,0,13
 Ezgjan Alioski,All Teams,110,DEF,2,3,10,7,0,35,0,0,0,0,7
 Kelechi Iheanacho,All Teams,110,FWD,12,2,5,1,0,23,0,1,0,0,18
 James Tarkowski,All Teams,109,DEF,1,0,11,6,0,50,0,0,0,0,9
-NÃ©lson Cabral Semedo,All Teams,109,DEF,1,3,9,5,0,45,1,0,0,0,11
+Nélson Cabral Semedo,All Teams,109,DEF,1,3,9,5,0,45,1,0,0,0,11
 Jonny Evans,All Teams,109,DEF,2,2,10,7,0,31,1,0,0,0,12
 Kurt Zouma,All Teams,108,DEF,5,0,9,3,0,25,0,0,0,0,6
-Pierre-Emile HÃ¸jbjerg,All Teams,107,MID,2,4,12,9,0,45,0,0,0,0,6
+Pierre-Emile Højbjerg,All Teams,107,MID,2,4,12,9,0,45,0,0,0,0,6
 Ademola Lookman,All Teams,107,MID,4,4,10,5,0,33,0,1,0,0,8
 Christian Benteke,All Teams,106,FWD,10,2,5,1,1,34,0,0,0,0,14
 Conor Coady,All Teams,106,DEF,1,0,10,5,0,51,0,0,0,0,7
@@ -816,39 +816,39 @@ Mason Greenwood,All Teams,106,MID,7,2,7,2,0,23,0,0,0,0,9
 Jesse Lingard,All Teams,106,MID,9,5,4,3,0,19,0,1,0,0,15
 Rob Holding,All Teams,105,DEF,0,1,11,2,0,26,1,0,0,0,10
 Neal Maupay,All Teams,105,FWD,8,2,10,1,1,34,0,1,0,0,12
-RÃºben Diogo da Silva Neves,All Teams,104,MID,5,1,8,8,0,42,0,0,0,0,10
+Rúben Diogo da Silva Neves,All Teams,104,MID,5,1,8,8,0,42,0,0,0,0,10
 Ben White,All Teams,104,DEF,0,0,12,3,1,44,0,0,0,0,5
 Matthew Lowton,All Teams,103,DEF,1,1,10,5,0,47,0,0,0,0,6
 Ola Aina,All Teams,102,DEF,2,1,8,3,0,36,0,0,0,0,8
-Victor LindelÃ¶f,All Teams,102,DEF,1,1,10,0,0,30,0,0,0,0,3
+Victor Lindelöf,All Teams,102,DEF,1,1,10,0,0,30,0,0,0,0,3
 Ben Mee,All Teams,102,DEF,2,0,10,3,0,41,0,0,0,0,7
 James Justin,All Teams,101,DEF,2,2,9,4,0,25,0,0,0,0,13
-James RodrÃ­guez,All Teams,101,MID,6,5,5,4,0,27,0,0,0,0,11
-Robert SÃ¡nchez,All Teams,101,GK,0,0,10,2,0,27,0,0,0,66,8
+James Rodríguez,All Teams,101,MID,6,5,5,4,0,27,0,0,0,0,11
+Robert Sánchez,All Teams,101,GK,0,0,10,2,0,27,0,0,0,66,8
 Ben Godfrey,All Teams,100,DEF,0,2,11,4,0,35,1,0,0,0,7
 Angelo Ogbonna,All Teams,100,DEF,3,0,9,5,0,34,0,0,0,0,5
 David McGoldrick,All Teams,100,FWD,8,1,9,7,0,37,0,0,0,0,12
 Tosin Adarabioyo,All Teams,100,DEF,0,1,9,1,0,41,1,0,0,0,11
 Luke Ayling,All Teams,100,DEF,0,0,12,7,0,54,0,0,0,0,2
-Romain SaÃ¯ss,All Teams,99,DEF,3,0,8,2,0,40,0,0,0,0,11
+Romain Saïss,All Teams,99,DEF,3,0,8,2,0,40,0,0,0,0,11
 Tanguy Ndombele,All Teams,99,MID,3,3,12,3,0,24,0,0,0,0,7
 Mateusz Klich,All Teams,99,MID,4,5,8,6,0,44,0,0,0,0,3
 Edinson Cavani,All Teams,99,FWD,10,4,4,4,0,18,0,0,0,0,14
 Georginio Wijnaldum,All Teams,97,MID,2,1,10,1,0,39,0,0,0,0,3
-Miguel AlmirÃ³n,All Teams,97,MID,4,2,5,3,0,48,0,0,0,0,8
-JoÃ«l Veltman,All Teams,96,DEF,1,1,9,3,0,27,0,0,0,0,10
+Miguel Almirón,All Teams,97,MID,4,2,5,3,0,48,0,0,0,0,8
+Joël Veltman,All Teams,96,DEF,1,1,9,3,0,27,0,0,0,0,10
 Kieran Tierney,All Teams,96,DEF,1,4,8,4,0,27,0,0,0,0,4
 Ferran Torres,All Teams,95,MID,7,4,7,1,0,13,0,0,0,0,4
 Timothy Castagne,All Teams,94,DEF,2,4,6,1,0,37,0,0,0,0,7
-HÃ©ctor BellerÃ­n,All Teams,94,DEF,1,3,7,8,0,24,0,0,0,0,17
+Héctor Bellerín,All Teams,94,DEF,1,3,7,8,0,24,0,0,0,0,17
 Alex McCarthy,All Teams,94,GK,0,0,7,2,0,57,0,0,0,93,8
 Jan Bednarek,All Teams,94,DEF,1,1,9,5,1,62,1,0,0,0,11
 Andros Townsend,All Teams,94,MID,1,5,7,0,0,37,0,0,0,0,8
 Bernardo Mota Veiga de Carvalho e Silva,All Teams,94,MID,2,7,11,5,0,18,0,0,0,0,9
-Adama TraorÃ©,All Teams,94,MID,2,4,7,4,0,41,0,0,0,0,5
+Adama Traoré,All Teams,94,MID,2,4,7,4,0,41,0,0,0,0,5
 Kyle Walker-Peters,All Teams,93,DEF,0,3,9,4,0,41,0,0,0,0,7
 Joachim Andersen,All Teams,93,DEF,1,1,9,6,1,36,0,0,0,0,7
-Antonio RÃ¼diger,All Teams,93,DEF,1,0,11,0,0,10,1,0,0,0,9
+Antonio Rüdiger,All Teams,93,DEF,1,0,11,0,0,10,1,0,0,0,9
 Paul Pogba,All Teams,92,MID,3,6,5,3,0,26,0,0,0,0,11
 Thiago Thiago,All Teams,92,DEF,2,0,10,3,1,25,0,0,0,0,10
 Scott McTominay,All Teams,91,MID,4,2,9,3,0,25,0,0,0,0,4
@@ -859,7 +859,7 @@ Kyle Walker,All Teams,91,DEF,1,1,9,1,0,20,0,0,0,0,7
 Danny Welbeck,All Teams,89,FWD,6,4,6,0,0,18,0,1,0,0,15
 Matthew Cash,All Teams,89,DEF,0,2,11,6,1,35,0,0,0,0,8
 Rodrigo Moreno,All Teams,89,FWD,7,4,3,3,0,21,0,0,0,0,16
-Sergio ReguilÃ³n,All Teams,89,DEF,0,6,8,5,0,31,1,0,0,0,4
+Sergio Reguilón,All Teams,89,DEF,0,6,8,5,0,31,1,0,0,0,4
 Toby Alderweireld,All Teams,88,DEF,1,0,10,2,0,25,1,0,0,0,4
 Bobby Decordova-Reid,All Teams,88,FWD,5,3,9,7,0,32,0,0,0,0,6
 Diogo Jota,All Teams,86,MID,9,0,4,2,0,15,0,0,0,0,9
@@ -869,13 +869,13 @@ Ivan Ricardo Neves Abreu Cavaleiro,All Teams,85,MID,3,0,7,2,0,43,0,1,0,0,4
 Allan Saint-Maximin,All Teams,85,MID,3,5,7,0,0,26,0,0,0,0,5
 Adam Webster,All Teams,85,DEF,1,0,9,4,0,35,0,0,0,0,0
 Charlie Taylor,All Teams,83,DEF,0,2,8,1,0,42,0,0,0,0,5
-Cheikhou KouyatÃ©,All Teams,82,MID,1,0,8,4,0,56,0,0,0,0,2
+Cheikhou Kouyaté,All Teams,82,MID,1,0,8,4,0,56,0,0,0,0,2
 Christian Pulisic,All Teams,82,MID,4,3,7,2,0,21,0,0,0,0,3
 Seamus Coleman,All Teams,81,DEF,0,3,8,0,0,19,0,0,0,0,4
 Karl Darlow,All Teams,80,GK,0,0,4,3,0,43,0,0,1,88,6
 Lucas Rodrigues Moura da Silva,All Teams,80,MID,3,5,4,1,0,18,0,0,0,0,5
 Serge Aurier,All Teams,80,DEF,2,3,6,0,0,22,0,0,0,0,4
-Abdoulaye DoucourÃ©,All Teams,80,MID,2,3,9,6,0,36,0,0,0,0,2
+Abdoulaye Doucouré,All Teams,80,MID,2,3,9,6,0,36,0,0,0,0,2
 Mason Holgate,All Teams,80,DEF,1,0,9,9,0,32,0,0,0,0,4
 Joseph Willock,All Teams,79,MID,8,0,4,1,0,18,0,1,0,0,5
 Darnell Furlong,All Teams,79,DEF,1,3,6,5,0,63,1,0,0,0,2
@@ -883,14 +883,14 @@ Callum Robinson,All Teams,79,FWD,5,3,3,0,0,42,0,0,0,0,8
 Yerry Mina,All Teams,79,DEF,2,0,6,2,0,22,0,0,0,0,7
 Wilfred Ndidi,All Teams,79,MID,1,4,7,6,0,31,0,0,0,0,11
 Kyle Bartley,All Teams,79,DEF,3,1,5,4,0,53,0,0,0,0,3
-Gabriel MagalhÃ£es,All Teams,78,DEF,2,0,6,2,1,24,0,0,0,0,7
+Gabriel Magalhães,All Teams,78,DEF,2,0,6,2,1,24,0,0,0,0,7
 Marc Albrighton,All Teams,78,MID,1,7,4,2,0,22,0,0,0,0,3
 Ryan Bertrand,All Teams,78,DEF,0,2,8,5,0,51,0,0,0,0,4
 Willian Borges Da Silva,All Teams,78,MID,1,7,3,0,0,17,0,0,0,0,9
 Yves Bissouma,All Teams,77,MID,1,0,11,8,1,42,0,0,0,0,2
 Eric Dier,All Teams,77,DEF,0,0,8,3,0,34,0,0,0,0,2
 Leander Dendoncker,All Teams,77,MID,1,2,11,4,0,33,1,0,0,0,2
-AndrÃ©-Frank Zambo Anguissa,All Teams,76,MID,0,3,6,6,0,40,0,0,0,0,4
+André-Frank Zambo Anguissa,All Teams,76,MID,0,3,6,6,0,40,0,0,0,0,4
 Conor Townsend,All Teams,76,DEF,0,2,6,0,0,36,0,0,0,0,8
 Ross Barkley,All Teams,76,MID,3,2,8,0,0,24,0,0,0,0,4
 Theo Walcott,All Teams,76,MID,3,4,5,0,0,28,0,0,0,0,2
@@ -899,10 +899,10 @@ Daniel Castelo Podence,All Teams,75,MID,3,2,8,3,0,24,0,0,0,0,5
 Anthony Martial,All Teams,75,FWD,4,7,4,0,1,23,0,0,0,0,3
 Emile Smith Rowe,All Teams,74,MID,2,5,9,0,0,10,0,0,0,0,3
 Josh Brownhill,All Teams,74,MID,0,1,10,2,0,42,0,0,0,0,0
-Joelinton CÃ¡ssio ApolinÃ¡rio de Lira,All Teams,74,FWD,4,2,3,3,0,36,0,0,0,0,5
+Joelinton Cássio Apolinário de Lira,All Teams,74,FWD,4,2,3,3,0,36,0,0,0,0,5
 Jonjo Shelvey,All Teams,74,MID,1,3,6,7,0,46,0,0,0,0,2
-JoÃ£o Filipe Iria Santos Moutinho,All Teams,73,MID,1,1,6,3,1,40,0,0,0,0,4
-SaÃ¯d Benrahma,All Teams,73,MID,1,6,3,0,0,19,0,0,0,0,4
+João Filipe Iria Santos Moutinho,All Teams,73,MID,1,1,6,3,1,40,0,0,0,0,4
+Saïd Benrahma,All Teams,73,MID,1,6,3,0,0,19,0,0,0,0,4
 Douglas Luiz Soares de Paulo,All Teams,72,MID,0,2,12,8,1,41,0,0,0,0,0
 Fabio Silva,All Teams,72,FWD,4,3,0,2,0,29,0,0,0,0,5
 Conor Gallagher,All Teams,71,MID,2,2,5,11,0,48,0,0,0,0,3
@@ -933,19 +933,19 @@ Fernando Luiz Rosa,All Teams,65,DEF,0,2,7,6,0,10,0,0,0,0,8
 Jairo Riedewald,All Teams,64,MID,2,0,4,4,0,39,0,0,0,0,4
 Dan Burn,All Teams,64,DEF,1,0,6,5,0,28,1,0,0,0,1
 George Baldock,All Teams,63,DEF,0,2,4,7,0,51,0,0,0,0,2
-Aleksandar MitroviÄ,All Teams,63,FWD,3,3,1,3,0,24,0,1,0,0,7
+Aleksandar Mitrović,All Teams,63,FWD,3,3,1,3,0,24,0,1,0,0,7
 Luka Milivojevic,All Teams,63,MID,1,1,7,8,1,47,0,1,0,0,3
-HÃ©lder Wander Sousa de Azevedo e Costa,All Teams,63,MID,3,4,3,0,0,23,1,0,0,0,2
+Hélder Wander Sousa de Azevedo e Costa,All Teams,63,MID,3,4,3,0,0,23,1,0,0,0,2
 Benjamin Mendy,All Teams,63,DEF,2,1,5,2,0,10,0,0,0,0,8
-N'Golo KantÃ©,All Teams,62,MID,0,2,10,7,0,24,0,0,0,0,0
-Daniel Ceballos FernÃ¡ndez,All Teams,62,MID,0,4,6,4,0,17,0,0,0,0,7
+N'Golo Kanté,All Teams,62,MID,0,2,10,7,0,24,0,0,0,0,0
+Daniel Ceballos Fernández,All Teams,62,MID,0,4,6,4,0,17,0,0,0,0,7
 Matej Vydra,All Teams,62,FWD,3,2,3,0,0,24,0,0,0,0,2
 Andreas Christensen,All Teams,61,DEF,0,0,8,2,1,17,0,0,0,0,9
 Liam Cooper,All Teams,59,DEF,1,0,6,4,1,41,0,0,0,0,2
 Callum Hudson-Odoi,All Teams,59,MID,2,3,6,0,0,5,0,0,0,0,2
-Ãaglar SÃ¶yÃ¼ncÃ¼,All Teams,59,DEF,1,0,5,2,0,30,0,0,0,0,3
+Çaglar Söyüncü,All Teams,59,DEF,1,0,5,2,0,30,0,0,0,0,3
 Aymeric Laporte,All Teams,58,DEF,0,0,7,1,0,10,0,0,0,0,4
-Ayoze PÃ©rez,All Teams,58,MID,2,1,5,2,0,21,0,0,0,0,2
+Ayoze Pérez,All Teams,58,MID,2,1,5,2,0,21,0,0,0,0,2
 Tyrick Mitchell,All Teams,58,DEF,1,2,4,1,0,32,0,0,0,0,5
 Adam Lallana,All Teams,58,MID,1,1,5,0,0,18,0,0,0,0,2
 Max Kilman,All Teams,58,DEF,0,1,5,4,0,11,0,0,0,0,8
@@ -957,7 +957,7 @@ Jordan Henderson,All Teams,56,MID,1,2,4,0,0,23,0,0,0,0,2
 Enda Stevens,All Teams,56,DEF,0,1,4,6,0,54,0,0,0,0,2
 Mahmoud Ahmed Ibrahim Hassan,All Teams,56,MID,2,1,6,0,0,14,0,0,0,0,3
 Mario Lemina,All Teams,55,MID,1,1,3,5,0,27,0,0,0,0,3
-Thiago AlcÃ¡ntara do Nascimento,All Teams,55,MID,1,0,8,4,0,18,0,0,0,0,1
+Thiago Alcántara do Nascimento,All Teams,55,MID,1,0,8,4,0,18,0,0,0,0,1
 Steven Bergwijn,All Teams,55,MID,1,4,5,3,0,15,0,0,0,0,2
 Patrick van Aanholt,All Teams,54,DEF,0,2,4,2,0,36,0,0,0,0,5
 Jay Rodriguez,All Teams,54,FWD,1,3,4,3,0,25,0,0,0,0,2
@@ -965,7 +965,7 @@ Oliver Norwood,All Teams,54,MID,0,0,5,6,0,43,0,0,0,0,0
 Mateo Kovacic,All Teams,54,MID,0,1,9,4,0,26,0,0,0,0,0
 Rayan Ait Nouri,All Teams,54,DEF,1,1,3,1,0,23,0,0,0,0,6
 Gary Cahill,All Teams,53,DEF,1,1,4,3,0,39,0,0,0,0,6
-Federico FernÃ¡ndez,All Teams,53,DEF,0,0,5,4,0,38,1,0,0,0,6
+Federico Fernández,All Teams,53,DEF,0,0,5,4,0,38,1,0,0,0,6
 Ben Davies,All Teams,52,DEF,0,2,4,1,0,16,0,0,0,0,1
 Ben Davies,All Teams,52,DEF,0,2,4,1,0,16,0,0,0,0,1
 Matt Ritchie,All Teams,52,MID,0,5,3,2,0,22,1,0,0,0,5
@@ -984,7 +984,7 @@ Erik Pieters,All Teams,50,DEF,0,3,3,1,0,19,1,0,0,0,5
 Tyler Roberts,All Teams,49,MID,1,2,4,3,0,19,0,0,0,0,0
 John Lundstram,All Teams,48,MID,0,2,3,8,1,41,0,1,0,0,2
 Takumi Minamino,All Teams,48,MID,3,0,2,1,0,18,0,0,0,0,2
-AndrÃ© Filipe Tavares Gomes,All Teams,48,MID,0,1,5,3,0,22,0,0,0,0,0
+André Filipe Tavares Gomes,All Teams,48,MID,0,1,5,3,0,22,0,0,0,0,0
 Martin Dubravka,All Teams,48,GK,0,0,3,0,0,19,0,0,0,45,6
 Alexis Mac Allister,All Teams,48,MID,1,1,5,1,0,14,0,0,0,0,3
 Matt Doherty,All Teams,47,DEF,0,2,4,2,1,15,0,0,0,0,4
@@ -1005,14 +1005,14 @@ James Milner,All Teams,44,MID,0,2,4,3,0,10,0,0,0,0,2
 Ethan Ampadu,All Teams,44,DEF,0,0,2,3,0,41,1,0,0,0,4
 Robbie Brady,All Teams,44,MID,1,1,7,3,0,6,0,0,0,0,3
 Jamaal Lascelles,All Teams,44,DEF,2,0,2,4,0,32,0,0,0,0,3
-RaÃºl JimÃ©nez,All Teams,43,FWD,4,1,4,0,0,10,1,0,0,0,7
-Davinson SÃ¡nchez,All Teams,43,DEF,0,0,4,1,0,22,1,0,0,0,3
+Raúl Jiménez,All Teams,43,FWD,4,1,4,0,0,10,1,0,0,0,7
+Davinson Sánchez,All Teams,43,DEF,0,0,4,1,0,22,1,0,0,0,3
 Daniel James,All Teams,43,MID,3,1,4,3,0,7,0,0,0,0,1
 Issa Diop,All Teams,42,DEF,2,0,2,3,0,22,1,0,0,0,1
 Joel Matip,All Teams,42,DEF,1,2,3,2,0,5,0,0,0,0,5
 Arthur Masuaku,All Teams,42,DEF,0,2,4,2,0,15,0,0,0,0,4
 Nampalys Mendy,All Teams,41,MID,0,1,4,5,0,25,0,0,0,0,0
-SÃ©bastien Haller,All Teams,41,FWD,3,0,3,0,0,12,0,0,0,0,4
+Sébastien Haller,All Teams,41,FWD,3,0,3,0,0,12,0,0,0,0,4
 Jack Stephens,All Teams,41,DEF,0,0,4,2,0,39,0,0,0,0,6
 Karlan Grant,All Teams,41,FWD,1,0,3,1,0,26,0,0,0,0,3
 Michy Batshuayi,All Teams,41,FWD,2,2,2,0,0,15,0,0,0,0,2
@@ -1021,17 +1021,17 @@ David Luiz Moreira Marinho,All Teams,41,DEF,1,0,3,1,1,20,0,0,0,0,0
 Dara O'Shea,All Teams,41,DEF,0,0,3,3,0,51,0,0,0,0,1
 Isaac Hayden,All Teams,40,MID,0,0,4,8,0,33,0,0,0,0,0
 Josh Maja,All Teams,40,FWD,3,0,5,0,0,9,0,0,0,0,5
-Willian JosÃ© Da Silva,All Teams,40,FWD,1,1,5,0,0,13,0,0,0,0,3
-Martin Ãdegaard,All Teams,40,MID,1,2,3,0,0,12,0,0,0,0,3
+Willian José Da Silva,All Teams,40,FWD,1,1,5,0,0,13,0,0,0,0,3
+Martin Ødegaard,All Teams,40,MID,1,2,3,0,0,12,0,0,0,0,3
 Paul Dummett,All Teams,40,DEF,1,0,3,2,0,20,0,0,0,0,2
 Grady Diangana,All Teams,39,MID,1,0,1,0,0,33,0,0,0,0,0
 Ryan Fraser,All Teams,39,MID,0,4,4,0,1,18,0,0,0,0,0
 Scott Dann,All Teams,39,DEF,1,1,2,1,0,24,0,0,0,0,1
-FabiÃ¡n Balbuena,All Teams,39,DEF,1,0,4,1,1,19,0,0,0,0,0
+Fabián Balbuena,All Teams,39,DEF,1,0,4,1,1,19,0,0,0,0,0
 Jayden Bogle,All Teams,39,DEF,2,0,2,2,0,20,0,0,0,0,0
 Billy Sharp,All Teams,39,FWD,3,0,0,1,0,15,0,0,0,0,6
 Robin Koch,All Teams,38,DEF,0,0,4,1,0,21,0,0,0,0,2
-Sergio AgÃ¼ero,All Teams,38,FWD,4,1,4,0,0,4,0,1,0,0,3
+Sergio Agüero,All Teams,38,FWD,4,1,4,0,0,4,0,1,0,0,3
 Aaron Connolly,All Teams,38,FWD,2,1,1,0,0,17,0,0,0,0,2
 Dennis Praet,All Teams,37,MID,1,2,3,0,0,11,0,0,0,0,1
 Mathew Ryan,All Teams,37,GK,0,0,3,1,0,21,0,0,0,24,0
@@ -1043,7 +1043,7 @@ Calum Chambers,All Teams,36,DEF,0,3,2,0,0,10,0,0,0,0,3
 Tariq Lamptey,All Teams,35,DEF,1,3,2,2,1,15,0,0,0,0,2
 Steven Alzate,All Teams,35,MID,1,0,5,2,0,17,0,0,0,0,3
 Giovani Lo Celso,All Teams,35,MID,1,1,5,5,0,10,0,0,0,0,0
-Pablo MarÃ­,All Teams,34,DEF,0,0,4,2,0,8,0,0,0,0,1
+Pablo Marí,All Teams,34,DEF,0,0,4,2,0,8,0,0,0,0,1
 Rhian Brewster,All Teams,34,FWD,0,0,2,1,0,16,0,0,0,0,0
 Okay Yokuslu,All Teams,34,MID,0,1,4,4,0,20,0,0,0,0,0
 Jack Cork,All Teams,33,MID,0,0,4,2,0,24,0,0,0,0,0
@@ -1060,19 +1060,19 @@ Dwight Gayle,All Teams,31,FWD,1,1,0,0,0,9,0,0,0,0,3
 Andy Carroll,All Teams,30,FWD,1,1,1,1,0,8,0,0,0,0,3
 Hal Robson-Kanu,All Teams,30,FWD,2,0,0,2,0,12,0,0,0,0,3
 Bamidele Alli,All Teams,30,MID,0,2,3,0,0,9,0,0,0,0,0
-Fabian SchÃ¤r,All Teams,30,DEF,1,0,2,4,1,21,0,0,0,0,1
+Fabian Schär,All Teams,30,DEF,1,0,2,4,1,21,0,0,0,0,1
 Fraser Forster,All Teams,30,GK,0,0,2,0,0,11,0,0,1,20,0
-Nathan AkÃ©,All Teams,29,DEF,1,0,3,4,0,13,0,0,0,0,1
+Nathan Aké,All Teams,29,DEF,1,0,3,4,0,13,0,0,0,0,1
 Kean Bryan,All Teams,29,DEF,1,0,2,1,0,17,1,0,0,0,0
 Manuel Lanzini,All Teams,28,MID,1,1,1,1,0,5,0,0,0,0,0
 Nathaniel Clyne,All Teams,28,DEF,0,1,2,2,0,22,0,0,0,0,0
 Ryan Fredericks,All Teams,28,DEF,1,1,1,2,0,9,0,0,0,0,0
 Erik Lamela,All Teams,28,MID,1,1,1,4,1,17,0,0,0,0,0
-CÃ©dric Soares,All Teams,28,DEF,0,1,2,1,0,11,0,0,0,0,3
+Cédric Soares,All Teams,28,DEF,0,1,2,1,0,11,0,0,0,0,3
 Javier Manquillo,All Teams,28,DEF,0,0,3,1,0,15,0,0,0,0,0
 Rhys Williams,All Teams,28,DEF,0,0,3,0,0,6,0,0,0,0,1
 Jacob Ramsey,All Teams,28,MID,0,0,2,0,0,10,0,0,0,0,0
-Pablo HernÃ¡ndez DomÃ­nguez,All Teams,28,MID,0,3,1,1,0,6,0,0,0,0,0
+Pablo Hernández Domínguez,All Teams,28,MID,0,3,1,1,0,6,0,0,0,0,0
 Joe Rodon,All Teams,27,DEF,0,0,2,0,0,12,0,0,0,0,3
 Joe Bryan,All Teams,27,DEF,1,1,0,2,0,17,0,0,0,0,2
 Mark Noble,All Teams,27,MID,0,0,0,1,0,15,0,0,0,0,0
@@ -1095,17 +1095,17 @@ Keinan Davis,All Teams,23,FWD,1,1,1,0,0,1,0,0,0,0,0
 Morgan Gibbs-White,All Teams,22,MID,1,0,0,1,0,6,0,0,0,0,3
 Jakub Moder,All Teams,21,MID,0,0,2,0,0,10,0,0,0,0,0
 Alex Oxlade-Chamberlain,All Teams,21,MID,1,1,0,0,0,6,0,0,0,0,0
-Bernard AnÃ­cio Caldeira Duarte,All Teams,21,MID,1,0,2,2,0,7,0,0,0,0,1
+Bernard Anício Caldeira Duarte,All Teams,21,MID,1,0,2,2,0,7,0,0,0,0,1
 Branislav Ivanovic,All Teams,20,DEF,0,0,2,2,0,19,0,0,0,0,0
 Conor Hourihane,All Teams,20,MID,1,1,2,0,0,2,0,0,0,0,3
 Harry Winks,All Teams,19,MID,0,0,1,5,0,16,0,0,0,0,0
 Daniel Amartey,All Teams,19,DEF,1,0,0,3,0,12,0,0,0,0,2
-Fernando MarÃ§al,All Teams,19,DEF,0,0,1,2,0,9,0,0,0,0,0
+Fernando Marçal,All Teams,19,DEF,0,0,1,2,0,9,0,0,0,0,0
 James Tomkins,All Teams,18,DEF,0,0,2,1,0,12,0,0,0,0,2
 Filip Krovinovic,All Teams,17,MID,0,0,1,0,0,11,0,0,0,0,0
 Andriy Yarmolenko,All Teams,17,MID,0,1,1,3,0,7,0,0,0,0,0
 Jamie Shackleton,All Teams,17,MID,0,0,1,0,0,11,0,0,0,0,0
-Cengiz Ãnder,All Teams,16,MID,0,2,0,0,0,5,0,0,0,0,0
+Cengiz Ünder,All Teams,16,MID,0,2,0,0,0,5,0,0,0,0,0
 Jonathan Castro Otto,All Teams,16,DEF,0,0,1,0,0,4,0,0,0,0,1
 Virgil van Dijk,All Teams,15,DEF,1,0,1,1,0,11,0,0,0,0,1
 Jean-Philippe Mateta,All Teams,15,FWD,1,0,0,0,0,4,0,0,0,0,2
@@ -1114,7 +1114,7 @@ Ian Carlo Poveda-Ocampo,All Teams,14,MID,0,0,0,0,0,5,0,0,0,0,0
 Japhet Tanganga,All Teams,14,DEF,0,0,2,2,0,8,0,0,0,0,0
 Hamza Choudhury,All Teams,14,MID,0,0,2,1,0,2,0,0,0,0,0
 Mohammed Salisu,All Teams,14,DEF,0,0,0,1,0,19,0,0,0,0,0
-Francisco Casilla CortÃ©s,All Teams,14,GK,0,0,1,0,0,2,0,0,0,8,2
+Francisco Casilla Cortés,All Teams,14,GK,0,0,1,0,0,2,0,0,0,8,2
 Robert Snodgrass,All Teams,14,MID,0,0,0,2,0,14,0,0,0,0,0
 Kevin Long,All Teams,14,DEF,0,0,1,2,0,13,0,0,0,0,1
 Lys Mousset,All Teams,13,FWD,0,0,0,0,0,10,0,0,0,0,0
@@ -1128,7 +1128,7 @@ Daniel Jebbison,All Teams,12,FWD,1,0,2,0,0,2,0,0,0,0,1
 Shane Long,All Teams,12,FWD,0,0,1,0,0,6,0,0,0,0,0
 Anthony Elanga,All Teams,11,MID,1,0,0,0,0,2,0,0,0,0,2
 Joshua King,All Teams,11,FWD,0,0,0,0,0,2,0,0,0,0,0
-AdriÃ¡n San Miguel del Castillo,All Teams,11,GK,0,0,1,0,0,9,0,0,0,10,2
+Adrián San Miguel del Castillo,All Teams,11,GK,0,0,1,0,0,9,0,0,0,10,2
 Neco Williams,All Teams,11,DEF,0,0,1,1,0,1,0,0,0,0,0
 Matthew Longstaff,All Teams,10,MID,0,0,1,0,0,8,0,0,0,0,0
 Tim Ream,All Teams,10,DEF,0,0,0,0,0,13,0,0,0,0,0
@@ -1139,7 +1139,7 @@ Darren Randolph,All Teams,10,GK,0,0,1,0,0,3,0,0,0,6,0
 Caoimhin Kelleher,All Teams,10,GK,0,0,1,0,0,1,0,0,0,6,0
 Divock Origi,All Teams,10,FWD,0,0,1,0,0,0,0,0,0,0,0
 Owen Otasowie,All Teams,9,MID,0,1,0,1,0,6,0,0,0,0,0
-Davy PrÃ¶pper,All Teams,9,MID,0,0,0,0,0,2,0,0,0,0,0
+Davy Pröpper,All Teams,9,MID,0,0,0,0,0,2,0,0,0,0,0
 Jimmy Dunne,All Teams,9,DEF,1,0,0,1,0,6,0,0,0,0,0
 Andi Zeqiri,All Teams,9,FWD,0,0,0,0,0,2,0,0,0,0,0
 Max Lowe,All Teams,9,DEF,0,0,0,1,0,10,0,0,0,0,0
@@ -1195,28 +1195,28 @@ Terence Kongolo,All Teams,2,DEF,0,0,0,0,0,1,0,0,0,0,0
 Rekeem Harper,All Teams,2,MID,0,0,0,0,0,2,0,0,0,0,0
 Lewis Richardson,All Teams,2,FWD,0,0,0,0,0,0,0,0,0,0,0
 Lee Peltier,All Teams,2,DEF,0,0,0,1,0,8,0,0,0,0,0
-Marek RodÃ¡k,All Teams,2,GK,0,0,0,0,0,5,0,0,0,4,0
+Marek Rodák,All Teams,2,GK,0,0,0,0,0,5,0,0,0,4,0
 Konstantinos Tsimikas,All Teams,2,DEF,0,0,0,0,0,0,0,0,0,0,0
 Zack Steffen,All Teams,2,GK,0,0,0,0,0,1,0,0,0,1,0
 David Button,All Teams,2,GK,0,0,0,0,0,2,0,0,0,4,0
-JoÃ£o VirgÃ­nia,All Teams,2,GK,0,0,0,0,0,0,0,0,0,3,0
+João Virgínia,All Teams,2,GK,0,0,0,0,0,0,0,0,0,3,0
 Leif Davis,All Teams,2,DEF,0,0,0,0,0,0,0,0,0,0,0
 Elliot Anderson,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
 Nathan Broadhead,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
 Maxime Le Marchand,All Teams,1,DEF,0,0,0,2,0,1,0,0,0,0,0
-RÃºnar Alex RÃºnarsson,All Teams,1,GK,0,0,0,0,0,0,0,0,0,2,0
+Rúnar Alex Rúnarsson,All Teams,1,GK,0,0,0,0,0,0,0,0,0,2,0
 Jaden Philogene-Bidace,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
 Willy Caballero,All Teams,1,GK,0,0,0,0,0,3,0,0,0,0,0
 Niall Huggins,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
 Jake Vokins,All Teams,1,DEF,0,0,0,0,0,2,0,0,0,0,0
 Odion Ighalo,All Teams,1,FWD,0,0,0,0,0,1,0,0,0,0,0
 Oskar Buur,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
-RÃºben GonÃ§alo Silva Nascimento Vinagre,All Teams,1,DEF,0,0,0,0,0,7,0,0,0,0,0
+Rúben Gonçalo Silva Nascimento Vinagre,All Teams,1,DEF,0,0,0,0,0,7,0,0,0,0,0
 Tyrese Francois,All Teams,1,MID,0,0,0,0,0,1,0,0,0,0,0
 Martin Kelly,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
 Antwoine Hackford,All Teams,1,FWD,0,0,0,0,0,0,0,0,0,0,0
 Thakgalo Leshabela,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
-JosÃ© Izquierdo,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
+José Izquierdo,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
 Theo Corbeanu,All Teams,1,MID,0,0,0,0,0,0,0,0,0,0,0
 William Fish,All Teams,1,DEF,0,0,0,0,0,0,0,0,0,0,0
 Jean-Philippe Gbamin,All Teams,1,MID,0,0,0,0,0,1,0,0,0,0,0
@@ -1260,7 +1260,7 @@ Anthony Driscoll-Glennon,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Angus Gunn,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Andy Lonergan,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Valentino Livramento,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-Andreas SÃ¶ndergaard,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Andreas Söndergaard,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Andreas Pereira,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Allan Tchaptchet,All Teams,0,DEF,0,0,0,0,0,3,0,0,0,0,0
 Vontae Daley-Campbell,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
@@ -1272,7 +1272,7 @@ Will Ferry,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 William Osula,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 William Saliba,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Albian Ajeti,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-AdriÃ¡n BernabÃ©,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Adrián Bernabé,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Adrien Silva,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Ademipo Odubeko,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Yoshinori Muto,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
@@ -1288,7 +1288,7 @@ Cameron Carter-Vickers,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Sylvester Jasper,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Caleb Taylor,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Tahith Chong,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Bruno AndrÃ© Cavaco Jordao,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Bruno André Cavaco Jordao,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Brandon Pierrick,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Bobby Thomas,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Tawanda Maswanhise,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
@@ -1323,22 +1323,22 @@ Max Sanders,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Max Thompson,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Mbwana Samatta,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Meritan Shabani,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Mesut Ãzil,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Mesut Özil,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Michael Hector,All Teams,0,DEF,0,0,0,2,0,10,0,0,0,0,0
 Jonathan Leko,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Michael Verrips,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Jonas LÃ¶ssl,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Jonas Lössl,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Michal Karbownik,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Miguel Azeez,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Joe Hart,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Joe Gelhardt,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
-MoisÃ©s Caicedo,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Moisés Caicedo,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Jesurun Rak-Sakyi,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Jensen Weir,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Jed Steer,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Jean MichaÃ«l Seri,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-JosÃ© Diogo Dalot Teixeira,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-JosÃ© Ignacio Peleteiro Romallo,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+Jean Michaël Seri,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
+José Diogo Dalot Teixeira,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+José Ignacio Peleteiro Romallo,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Matt Macey,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Marcus Bettinelli,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Luke Cundle,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
@@ -1347,7 +1347,7 @@ Luke Mbete,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Lewis Richards,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Leonardo Campana,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Leighton Clarkson,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-LÃ©o Bonatini,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
+Léo Bonatini,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Mace Goodridge,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Lee Grant,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Kyron Gordon,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
@@ -1356,7 +1356,7 @@ Kyle John,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Matija Sarkic,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Mark Gillespie,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Kgaogelo Chauke,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-MartÃ­n Montoya,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Martín Montoya,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Kevin McDonald,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Kenneth Zohore,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Kelland Watts,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
@@ -1382,7 +1382,7 @@ Reece Hannam,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Faustino Anjorin,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Liam Hughes,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Facundo Pellistri,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-Fabricio Agosto RamÃ­rez,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Fabricio Agosto Ramírez,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Richard Nartey,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Ellis Simms,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Elia Caprile,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
@@ -1395,7 +1395,7 @@ Daniel Langley,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Ryan Astley,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Ryan Bennett,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Nathan Ferguson,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
-FrÃ©dÃ©ric Guilbert,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Frédéric Guilbert,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Glenn Murray,All Teams,0,FWD,0,0,0,0,0,0,0,0,0,0,0
 Harry Boyes,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Jarrad Branthwaite,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
@@ -1406,7 +1406,7 @@ James Bree,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Jamal Baptiste,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Jakub Ojrzynski,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Jake Cain,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
-NicolÃ¡s Otamendi,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
+Nicolás Otamendi,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Nigel Lonwijk,All Teams,0,DEF,0,0,0,0,0,0,0,0,0,0,0
 Nile John,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Jack Wilshere,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
@@ -1421,7 +1421,7 @@ Harvey Elliott,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Harry Wilson,All Teams,0,MID,0,0,0,0,0,0,0,0,0,0,0
 Harry Tyrer,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Harry Lewis,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
-Ãrjan Nyland,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
+Ørjan Nyland,All Teams,0,GK,0,0,0,0,0,0,0,0,0,0,0
 Neil Taylor,All Teams,-1,DEF,0,0,0,1,0,2,0,0,0,0,0
 Alexandre Jankewitz,All Teams,-1,MID,0,0,0,0,1,9,0,0,0,0,0
 Kayne Ramsay,All Teams,-3,DEF,0,0,0,1,0,9,0,0,0,0,0

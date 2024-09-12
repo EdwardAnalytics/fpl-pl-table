@@ -4,6 +4,7 @@ import altair as alt
 import pandas as pd
 from src.data_prep.fpl_pl_table_players import get_season_string
 from src.data_prep.join_table_data import get_list_of_seasons
+from unidecode import unidecode
 
 # Get most recent available data
 seasons = get_list_of_seasons()
@@ -19,12 +20,16 @@ def generate_streamlit_tables(season_index):
         league_table = pd.read_csv(
             f"data/fpl_premier_league_tables_joined/{season}.csv"
         )
+
         player_stats = pd.read_csv(f"data/fpl_premier_league_player_data/{season}.csv")
+
     except:
         return
     # Display the output tables
     league_name = f"{season}"
-    st.header(league_name, divider="grey")
+    st.write("")
+
+    st.subheader(league_name, divider="grey")
 
     league_table_tab, player_statistics_tab = st.tabs(
         ["📃League Table", "📈 Player Statistics"]
@@ -44,7 +49,9 @@ def generate_streamlit_tables(season_index):
         teams.insert(0, "All Teams")
 
         selected_team = st.selectbox(label="Select Team", options=teams, index=0)
+
         player_stats_filtered = player_stats[player_stats["Team"] == selected_team]
+        player_stats_filtered = player_stats_filtered.drop(columns=["Team"])
         st.write("")
 
         st.dataframe(player_stats_filtered, hide_index=True)

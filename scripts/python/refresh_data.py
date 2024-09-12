@@ -23,14 +23,14 @@ current_gameweek = get_current_gameweek(season_string)
 check_and_update_metadata(current_gameweek)
 
 # Get completed seasons fpl
-# get_completed_seasons_fpl(first_season_start=2016, latest_season_start=2023)
+get_completed_seasons_fpl(first_season_start=2016, latest_season_start=2023)
 
 # Get current season fpl
 # Only run if new player data run
 get_current_season_fpl(season_start=season_start)
 
 # Get completed seasons actual
-# get_completed_seasons_actual(first_season_start=2016, latest_season_start=2023)
+get_completed_seasons_actual(first_season_start=2016, latest_season_start=2023)
 
 # Get current season actual
 # Only run if new player data run
