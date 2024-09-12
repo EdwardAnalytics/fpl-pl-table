@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from unidecode import unidecode
 
 
 def fetch_data_from_url(url, encoding="utf-8"):
