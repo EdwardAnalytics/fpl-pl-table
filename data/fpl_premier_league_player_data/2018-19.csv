@@ -1,4 +1,4 @@
-name,team,total_points,position,goals_scored,assists,clean_sheets,yellow_cards,red_cards,goals_conceded,own_goals,penalties_missed,penalties_saved,saves,bonus_points
+Player Name,Team,Total Points,Position,Goals Scored,Assists,Clean Sheets,Yellow Cards,Red Cards,Goals Conceded,Own Goals,Penalties Missed,Penalties Saved,Saves,Bonus Points
 Mohamed Salah 253,Liverpool,259,MID,22,12,21,1,0,20,0,0,0,0,18
 Eden Hazard 122,Chelsea,238,MID,16,15,12,2,0,35,0,0,0,0,35
 Raheem Sterling 270,Man City,234,MID,17,15,17,3,0,19,0,0,0,0,25
