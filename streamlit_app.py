@@ -23,7 +23,7 @@ def generate_streamlit_tables(season_index):
     except:
         return
     # Display the output tables
-    league_name = f"{season} FPL Premier League"
+    league_name = f"{season}"
     st.header(league_name, divider="grey")
 
     league_table_tab, player_statistics_tab = st.tabs(
