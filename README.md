@@ -1,7 +1,7 @@
 # FPL Premier League Table
 
 ### Overview
-This shows how the Premier League table would look if it was ranked by their individual players Fantasy Premier League points.
+This shows how the Premier League table would look if teams were ranked by their individual players' Fantasy Premier League points.
 
 ### Hosted Dashboard Location
 https://fpl-pl-table.streamlit.app/
