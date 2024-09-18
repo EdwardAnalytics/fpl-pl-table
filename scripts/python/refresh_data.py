@@ -1,6 +1,5 @@
 from src.data_prep.reload_data import (
     get_current_season_start_year,
-    get_season_string,
     get_current_gameweek,
     check_and_update_metadata,
     get_current_season_fpl,
@@ -9,6 +8,7 @@ from src.data_prep.reload_data import (
     get_completed_seasons_actual,
 )
 from src.tools.yaml_loader import load_yaml_file
+from src.tools.season_string import get_season_string
 from src.data_prep.join_table_data import join_all_seasons
 
 # Get Team name mapping

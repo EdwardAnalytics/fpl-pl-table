@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from src.tools.season_string import get_season_string
 
 
 def fetch_data_from_url(url, encoding="utf-8"):
@@ -21,25 +22,6 @@ def fetch_data_from_url(url, encoding="utf-8"):
 
     df = pd.read_csv(url, encoding=encoding)
     return df
-
-
-def get_season_string(season_start):
-    """
-    Generate a season string in the format YYYY-YY.
-
-    Parameters
-    ----------
-    season_start : int
-        The start year of the season.
-
-    Returns
-    -------
-    season_string : str
-        The season string in the format "YYYY-YY".
-    """
-    season_end = season_start + 1
-    season_end_string = str(season_end)[-2:]
-    return f"{season_start}-{season_end_string}"
 
 
 def process_fpl_data(df, season_year):

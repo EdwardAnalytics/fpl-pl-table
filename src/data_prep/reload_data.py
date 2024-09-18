@@ -11,6 +11,7 @@ from src.data_prep.actual_pl_table import (
 from datetime import datetime
 import sys
 import json
+from src.tools.season_string import get_season_string
 
 
 def get_current_season_start_year():
@@ -23,25 +24,6 @@ def get_current_season_start_year():
         return current_year
     else:
         return current_year - 1
-
-
-def get_season_string(season_start):
-    """
-    Generate a season string in the format YYYY-YY.
-
-    Parameters
-    ----------
-    season_start : int
-        The start year of the season.
-
-    Returns
-    -------
-    season_string : str
-        The season string in the format "YYYY-YY".
-    """
-    season_end = season_start + 1
-    season_end_string = str(season_end)[-2:]
-    return f"{season_start}-{season_end_string}"
 
 
 def get_current_gameweek(season_string):

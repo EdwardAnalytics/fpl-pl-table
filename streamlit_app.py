@@ -2,9 +2,9 @@ import streamlit as st
 import base64
 import altair as alt
 import pandas as pd
-from src.data_prep.fpl_pl_table_players import get_season_string
 from src.data_prep.join_table_data import get_list_of_seasons
 import json
+from src.tools.season_string import get_season_string
 
 # Set the page configuration to wide mode
 st.set_page_config(layout="wide")
