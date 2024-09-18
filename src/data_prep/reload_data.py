@@ -15,7 +15,14 @@ from src.tools.season_string import get_season_string
 
 
 def get_current_season_start_year():
-    """Get the start year of the current Premier League season."""
+    """
+    Get the start year of the current Premier League season based on the current date.
+
+    Returns
+    -------
+    start_year : int
+        The start year of the current season.
+    """
     today = datetime.now()
     current_year = today.year
     current_month = today.month
@@ -28,12 +35,12 @@ def get_current_season_start_year():
 
 def get_current_gameweek(season_string):
     """
-    Fetch the latest scored gameweek from the data source.
+    Fetch the latest scored gameweek from the Fantasy Premier League data source.
 
     Parameters
     ----------
     season_string : str
-        The season string in the format "YYYY-YY".
+        The season string in the format 'YYYY-YY'.
 
     Returns
     -------
@@ -55,26 +62,35 @@ def get_current_gameweek(season_string):
 
 def check_and_update_metadata(current_gameweek):
     """
-    Check if the metadata for scoring needs to be updated and update if necessary.
+    Check if the current gameweek has been scored.
+
+    This is logged in the data/scoring_meta.json each time the data is scored. The latest
+    gameweek in the source data is compared with this. If they match (i.e. the latest
+    game week has been scored), the script is stopped running, otherwise, the script
+    continues.
 
     Parameters
     ----------
     current_gameweek : int
-        The latest gameweek number.
+        The latest gameweek number to compare against the metadata.
+
+    Returns
+    -------
+    None
     """
-    # Check if data updated:
+    # File path to the metadata
     file_path = "data/scoring_meta.json"
 
     # Read the JSON data from the file
     with open(file_path, "r") as file:
         scoring_meta = json.load(file)
 
+    # Check if the metadata is up to date
     if scoring_meta.get("scoring_data_gameweek") == current_gameweek:
         print("Model training up to date.")
         sys.exit()  # Exit the script
 
-    # Store metadata for scoring
-    file_path = "data/scoring_meta.json"
+    # Store metadata for the latest scoring
     scoring_meta = {"scoring_data_gameweek": current_gameweek}
     with open(file_path, "w") as file:
         json.dump(scoring_meta, file)

@@ -1,42 +1,86 @@
+import os
 import numpy as np
 import pandas as pd
-import os
 
 
-def join_table_data(season, team_name_mapping):
+def load_table_data(season):
     """
-    Join Fantasy Premier League (FPL) data with actual Premier League data for a specific season.
-
-    This function loads FPL and actual Premier League tables for a given season, maps team names,
-    merges the data, sorts by various performance metrics, calculates rank differences, and reorders
-    and renames columns for final output.
+    Load FPL and actual Premier League table data for a given season.
 
     Parameters
     ----------
     season : str
         The season to process, formatted as 'YYYY-YY'.
+
+    Returns
+    -------
+    fpl_pl_table : pd.DataFrame
+        FPL data for the specified season.
+    actual_pl_table : pd.DataFrame
+        Actual Premier League data for the specified season.
+    """
+    fpl_pl_table = pd.read_csv(f"data/fpl_premier_league_tables/{season}.csv")
+    actual_pl_table = pd.read_csv(f"data/actual_premier_league_tables/{season}.csv")
+    return fpl_pl_table, actual_pl_table
+
+
+def map_team_names(fpl_pl_table, team_name_mapping):
+    """
+    Map FPL team names to actual Premier League team names.
+
+    Parameters
+    ----------
+    fpl_pl_table : pd.DataFrame
+        FPL data containing team names.
     team_name_mapping : dict
         A dictionary mapping FPL team names to actual Premier League team names.
 
     Returns
     -------
-    pd.DataFrame
-        A DataFrame containing the joined and processed data with rankings and differences.
+    fpl_pl_table : pd.DataFrame
+        DataFrame with the mapped team names.
     """
-    # Load tables
-    fpl_pl_table = pd.read_csv(f"data/fpl_premier_league_tables/{season}.csv")
-    actual_pl_table = pd.read_csv(f"data/actual_premier_league_tables/{season}.csv")
-
-    # Map team name variations to join
     fpl_pl_table["mapped_team"] = fpl_pl_table["team"].map(team_name_mapping)
+    return fpl_pl_table
 
-    # Join tables and rename position column
-    fpl_pl_table = fpl_pl_table.merge(
+
+def merge_tables(fpl_pl_table, actual_pl_table):
+    """
+    Merge FPL data with actual Premier League data.
+
+    Parameters
+    ----------
+    fpl_pl_table : pd.DataFrame
+        FPL data with mapped team names.
+    actual_pl_table : pd.DataFrame
+        Actual Premier League data.
+
+    Returns
+    -------
+    merged_table : pd.DataFrame
+        Merged DataFrame with both FPL and actual Premier League data.
+    """
+    merged_table = fpl_pl_table.merge(
         right=actual_pl_table, left_on="mapped_team", right_on="Team"
     )
-    fpl_pl_table.rename(columns={"Pos": "Actual Pos"}, inplace=True)
+    merged_table.rename(columns={"Pos": "Actual Pos"}, inplace=True)
+    return merged_table
 
-    # Define the columns to rank by, in the specified order
+
+def sort_and_rank(fpl_pl_table):
+    """
+    Sort the FPL table by ranking metrics and assign positions.
+
+    Parameters
+    ----------
+    fpl_pl_table : pd.DataFrame
+        Merged FPL and Premier League data.
+
+    Returns
+    -------
+    fpl_pl_table_sorted : pd.DataFrame
+        DataFrame with assigned ranks based on sorting by specified metrics.
+    """
     ranking_columns = [
         "total_points",
         "goals_scored",
@@ -53,32 +97,54 @@ def join_table_data(season, team_name_mapping):
         "team",
     ]
 
-    # Sort the DataFrame by the ranking columns in descending order
     fpl_pl_table_sorted = fpl_pl_table.sort_values(
         by=ranking_columns, ascending=[False] * len(ranking_columns)
     )
-
-    # Assign ranks based on the sorted DataFrame
     fpl_pl_table_sorted["Pos"] = range(1, len(fpl_pl_table_sorted) + 1)
+    return fpl_pl_table_sorted.reset_index(drop=True)
 
-    # Reset index
-    fpl_pl_table_sorted.reset_index(drop=True, inplace=True)
 
-    # Get rank difference
-    fpl_pl_table_sorted["Difference"] = (
-        fpl_pl_table_sorted["Actual Pos"] - fpl_pl_table_sorted["Pos"]
-    )
-    fpl_pl_table_sorted["Difference"] = np.where(
-        fpl_pl_table_sorted["Difference"] > 0,
-        fpl_pl_table_sorted["Difference"].apply(lambda x: f"⬆️ +{x}"),
+def calculate_rank_difference(fpl_pl_table):
+    """
+    Calculate the difference between FPL and actual positions.
+
+    Parameters
+    ----------
+    fpl_pl_table : pd.DataFrame
+        DataFrame with FPL and actual positions.
+
+    Returns
+    -------
+    fpl_pl_table : pd.DataFrame
+        DataFrame with the calculated rank difference added as a new column.
+    """
+    fpl_pl_table["Difference"] = fpl_pl_table["Actual Pos"] - fpl_pl_table["Pos"]
+    fpl_pl_table["Difference"] = np.where(
+        fpl_pl_table["Difference"] > 0,
+        fpl_pl_table["Difference"].apply(lambda x: f"⬆️ +{x}"),
         np.where(
-            fpl_pl_table_sorted["Difference"] < 0,
-            fpl_pl_table_sorted["Difference"].apply(lambda x: f"⬇️ {x}"),
+            fpl_pl_table["Difference"] < 0,
+            fpl_pl_table["Difference"].apply(lambda x: f"⬇️ {x}"),
             " ",
         ),
     )
+    return fpl_pl_table
 
-    # Reorder columns
+
+def reorder_and_rename_columns(fpl_pl_table):
+    """
+    Reorder and rename columns in the DataFrame.
+
+    Parameters
+    ----------
+    fpl_pl_table : pd.DataFrame
+        DataFrame with rank difference.
+
+    Returns
+    -------
+    fpl_pl_table : pd.DataFrame
+        DataFrame with reordered and renamed columns.
+    """
     desired_column_order = [
         "Pos",
         "team",
@@ -103,10 +169,6 @@ def join_table_data(season, team_name_mapping):
         "value_latest_gw",
     ]
 
-    # Reorder the DataFrame columns
-    fpl_pl_table_sorted = fpl_pl_table_sorted[desired_column_order]
-
-    # Rename columns
     column_rename_mapping = {
         "Pos": "Pos",
         "team": "Team",
@@ -131,14 +193,45 @@ def join_table_data(season, team_name_mapping):
         "value_latest_gw": "Team Value (Latest GW)",
     }
 
-    # Rename the columns using the mapping
-    fpl_pl_table_sorted.rename(columns=column_rename_mapping, inplace=True)
+    fpl_pl_table = fpl_pl_table[desired_column_order]
+    fpl_pl_table.rename(columns=column_rename_mapping, inplace=True)
 
-    # Remove value column
-    # Some teams are inflated due to red flags/loaned out/sold players etc.
-    fpl_pl_table_sorted = fpl_pl_table_sorted.drop(columns=["Team Value (Latest GW)"])
+    # Remove 'Team Value' column if needed
+    fpl_pl_table = fpl_pl_table.drop(
+        columns=["Team Value (Latest GW)"], errors="ignore"
+    )
+    return fpl_pl_table
 
-    return fpl_pl_table_sorted
+
+def join_table_data(season, team_name_mapping):
+    """
+    Join Fantasy Premier League (FPL) data with actual Premier League data for a specific season.
+
+    Parameters
+    ----------
+    season : str
+        The season to process, formatted as 'YYYY-YY'.
+    team_name_mapping : dict
+        A dictionary mapping FPL team names to actual Premier League team names.
+
+    Returns
+    -------
+    final_table : pd.DataFrame
+        A DataFrame containing the joined and processed data with rankings and differences.
+    """
+    # Load, map, and merge data
+    fpl_pl_table, actual_pl_table = load_table_data(season)
+    fpl_pl_table = map_team_names(fpl_pl_table, team_name_mapping)
+    merged_table = merge_tables(fpl_pl_table, actual_pl_table)
+
+    # Sort, rank, and calculate rank differences
+    ranked_table = sort_and_rank(merged_table)
+    ranked_table = calculate_rank_difference(ranked_table)
+
+    # Reorder and rename columns
+    final_table = reorder_and_rename_columns(ranked_table)
+
+    return final_table
 
 
 def get_list_of_seasons():
@@ -147,25 +240,17 @@ def get_list_of_seasons():
 
     Returns
     -------
-    list of str
+    seasons : list of str
         A list of season identifiers (e.g., '2023-24') derived from CSV file names.
     """
-    # Path to the folder containing the CSV files
     folder_path = "data/fpl_premier_league_tables"
-
-    # List all files in the folder
-    seasons = os.listdir(folder_path)
-    seasons = [season.replace(".csv", "") for season in seasons]
+    seasons = [season.replace(".csv", "") for season in os.listdir(folder_path)]
     return seasons
 
 
 def join_all_seasons(team_name_mapping):
     """
     Process and join FPL data with actual Premier League data for all available seasons.
-
-    This function retrieves a list of all seasons and applies the join_table_data function
-    to each season using the provided team name mapping. The resulting data for each season
-    is saved to a CSV file.
 
     Parameters
     ----------
@@ -178,9 +263,7 @@ def join_all_seasons(team_name_mapping):
     """
     seasons = get_list_of_seasons()
     for season in seasons:
-        fpl_pl_table_sorted = join_table_data(
-            season=season, team_name_mapping=team_name_mapping
-        )
-        fpl_pl_table_sorted.to_csv(
+        final_table = join_table_data(season, team_name_mapping)
+        final_table.to_csv(
             f"data/fpl_premier_league_tables_joined/{season}.csv", index=False
         )
